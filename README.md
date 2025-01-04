@@ -130,8 +130,9 @@ To report an issue or a false positive, please submit a [new issue](https://gith
 ```
 MIT License
 
-Copyright (c) 2018-2024 Mitchell Krog - @mitchellkrogza
-Copyright (c) 2018-2024 Nissar Chababy - @funilrys
+Copyright (c) 2018-2025 Mitchell Krog - @mitchellkrogza
+Copyright (c) 2018-2025 Nissar Chababy - @funilrys
+Copyright (c) 2018-2025 Phishing.Database Contributors - @Phishing-Database
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

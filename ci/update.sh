@@ -3,8 +3,9 @@
 # The ci/cd updater for the Phishing.Database project.
 #
 # MIT License
-# Copyright (c) 2018-2024 Mitchell Krog - github.com/mitchellkrogza
-# Copyright (c) 2018-2024 Nissar Chababy - github.com/funilrys
+# Copyright (c) 2018-2025 Mitchell Krog - github.com/mitchellkrogza
+# Copyright (c) 2018-2025 Nissar Chababy - github.com/funilrys
+# Copyright (c) 2018-2025 Phishing.Database Contributors - github.com/Phishing-Database
 
 # Uncomment for debugging.
 #set -x
