@@ -13,20 +13,20 @@ Join us in our mission to keep threat intelligence free and open-source by contr
 
 |                                                                          **Repository**                                                                          |                                                                                                                                                              **Become a Sponsor**                                                                                                                                                              |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                          ![GitHub License](https://img.shields.io/github/license/Phishing-Database/Phishing.Database?style=flat-square)                          | We're seeking sponsors to help us grow and strengthen our infrastructure. By sponsoring this project, you'll have the opportunity to showcase your logo and link here, gaining visibility and supporting an open-source initiative that benefits the community. <br> 📧 Contact us at contact@phish.co.za to explore partnership opportunities. |
+|                           ![GitHub License](https://img.shields.io/github/license/Phishing-Database/Phishing.Database?style=flat-square)                            | We're seeking sponsors to help us grow and strengthen our infrastructure. By sponsoring this project, you'll have the opportunity to showcase your logo and link here, gaining visibility and supporting an open-source initiative that benefits the community. <br> 📧 Contact us at contact@phish.co.za to explore partnership opportunities. |
 | <a href='https://twitter.com/PhishFindR'><img src='https://img.shields.io/twitter/follow/PhishFindR.svg?style=social&label=Follow' alt='Follow @PhishFindR'></a> |                                                                                                                                Help keep this project's infrastructure thriving by supporting the maintainers!                                                                                                                                 |
 |                                                                                                                                                                  |                                                                                         Support **@mitchellkrogza** on [Ko-fi](https://ko-fi.com/mitchellkrog)!<br>Sponsor **@funilrys** via [GitHub Sponsors](https://github.com/sponsors/funilrys)!                                                                                          |
 
 
 ---
 
-#### Version: V.2025-01-04.15
-|                                         :boom: Latest Threats<br/>@ 15:33:38                                         |                                   :boom: Active Threats<br/>Saturday 2025-01-04                                   |                                    Total Links<br/>Discovered Today                                    |
-| :------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-| :warning: [194693](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [0](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [574](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
+#### Version: V.2025-01-04.17
+|                                           :boom: Latest Threats<br/>@ 17:33:37                                            |                                        :boom: Active Threats<br/>Saturday 2025-01-04                                         |                                             Total Links<br/>Discovered Today                                             |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
+| :warning: [194485](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [0](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [598](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
-#### Total Phishing Domains Captured: [782726](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) << (FILE SIZE: 6.6M tar.gz)
-#### Total Phishing Links Captured: [1374927](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: 28M tar.gz)
+#### Total Phishing Domains Captured: [782727](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) << (FILE SIZE: 6.6M tar.gz)
+#### Total Phishing Links Captured: [1374928](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: 28M tar.gz)
 
 ---
 
@@ -101,8 +101,8 @@ Contributions are welcome and encouraged.
 
 To contribute, please submit follow the matrix below to identify the correct file and repository to submit your data.
 
-| Action   | Data Type             | File to Edit                                                                                       |
-| -------- | --------------------- | -------------------------------------------------------------------------------------------------- |
+| Action   | Data Type             | File to Edit                                                                                    |
+| -------- | --------------------- | ----------------------------------------------------------------------------------------------- |
 | ➕ Add    | Domain                | [add-domain](https://github.com/Phishing-Database/phishing/blob/main/add-domain)                   |
 | ➕ Add    | Domain (wildcard)     | [add-wildcard-domain](https://github.com/Phishing-Database/phishing/blob/main/add-wildcard-domain) |
 | ➕ Add    | Link                  | [add-link](https://github.com/Phishing-Database/phishing/blob/main/add-link)                       |
