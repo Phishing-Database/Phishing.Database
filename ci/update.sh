@@ -89,17 +89,17 @@ function fetchExtraData() {
     local additionalLinkDestination="${TEMP_DIR}/add-link"
 
     # Download the false positive list.
-    curl -sfL "https://github.com/mitchellkrogza/phishing/raw/main/falsepositive.list" -o "${whitelistMeDestination}"
+    curl -sfL "https://github.com/Phishing-Database/phishing/raw/main/falsepositive.list" -o "${whitelistMeDestination}"
     # Download the false positive regex list.
-    curl -sfL "https://github.com/mitchellkrogza/phishing/raw/main/falsepositive_regex.list" -o "${whitelistMeRegexDestionation}"
+    curl -sfL "https://github.com/Phishing-Database/phishing/raw/main/falsepositive_regex.list" -o "${whitelistMeRegexDestionation}"
     # Download the false positive rzd list.
-    curl -sfL "https://github.com/mitchellkrogza/phishing/raw/main/falsepositive_rzd.list" -o "${whitelistMeRZDDestination}"
+    curl -sfL "https://github.com/Phishing-Database/phishing/raw/main/falsepositive_rzd.list" -o "${whitelistMeRZDDestination}"
     # Download the additional wildcard data.
-    curl -sfL "https:/github.com/mitchellkrogza/phishing/raw/main/add-wildcard-domain" -o "${additionalWildcardDestination}"
+    curl -sfL "https:/github.com/Phishing-Database/phishing/raw/main/add-wildcard-domain" -o "${additionalWildcardDestination}"
     # Download the additional domains data.
-    curl -sfL "https://github.com/mitchellkrogza/phishing/raw/main/add-domain" -o "${additionalDomainDestination}"
+    curl -sfL "https://github.com/Phishing-Database/phishing/raw/main/add-domain" -o "${additionalDomainDestination}"
     # Download the additional links data.
-    curl -sfL "https://github.com/mitchellkrogza/phishing/raw/main/add-link" -o "${additionalLinkDestination}"
+    curl -sfL "https://github.com/Phishing-Database/phishing/raw/main/add-link" -o "${additionalLinkDestination}"
 
     # Merge the false positive list with the local whitelist.
     cat "${whitelistMeDestination}" >> "${WHITELIST_ME_FILE}"

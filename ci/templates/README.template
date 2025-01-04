@@ -13,7 +13,7 @@ Join us in our mission to keep threat intelligence free and open-source by contr
 
 |                                                                          **Repository**                                                                          |                                                                                                                                                              **Become a Sponsor**                                                                                                                                                              |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                           ![GitHub License](https://img.shields.io/github/license/mitchellkrogza/Phishing.Database?style=flat-square)                            | We're seeking sponsors to help us grow and strengthen our infrastructure. By sponsoring this project, you'll have the opportunity to showcase your logo and link here, gaining visibility and supporting an open-source initiative that benefits the community. <br> 📧 Contact us at contact@phish.co.za to explore partnership opportunities. |
+|                           ![GitHub License](https://img.shields.io/github/license/Phishing-Database/Phishing.Database?style=flat-square)                            | We're seeking sponsors to help us grow and strengthen our infrastructure. By sponsoring this project, you'll have the opportunity to showcase your logo and link here, gaining visibility and supporting an open-source initiative that benefits the community. <br> 📧 Contact us at contact@phish.co.za to explore partnership opportunities. |
 | <a href='https://twitter.com/PhishFindR'><img src='https://img.shields.io/twitter/follow/PhishFindR.svg?style=social&label=Follow' alt='Follow @PhishFindR'></a> |                                                                                                                                Help keep this project's infrastructure thriving by supporting the maintainers!                                                                                                                                 |
 |                                                                                                                                                                  |                                                                                         Support **@mitchellkrogza** on [Ko-fi](https://ko-fi.com/mitchellkrog)!<br>Sponsor **@funilrys** via [GitHub Sponsors](https://github.com/sponsors/funilrys)!                                                                                          |
 
@@ -23,7 +23,7 @@ Join us in our mission to keep threat intelligence free and open-source by contr
 #### Version: %%version%%
 |                                           :boom: Latest Threats<br/>@ %%testTime%%                                            |                                        :boom: Active Threats<br/>%%testDay%% %%testDate%%                                         |                                             Total Links<br/>Discovered Today                                             |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-| :warning: [%%activeNowCount%%](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [%%activeTodayCount%%](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [%%discoveredTodayCount%%](https://github.com/mitchellkrogza/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
+| :warning: [%%activeNowCount%%](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [%%activeTodayCount%%](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [%%discoveredTodayCount%%](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
 #### Total Phishing Domains Captured: [%%domainsCount%%](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) << (FILE SIZE: %%domainsTGZSize%% tar.gz)
 #### Total Phishing Links Captured: [%%linksCount%%](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: %%linksTGZSize%% tar.gz)
@@ -89,7 +89,7 @@ _Any of the status codes above are considered active until further investigation
 ---
 ## Removal Requests
 
-If your domain has been listed incorrectly due to hacking or other reasons, file a [False Positive Report](https://github.com/mitchellkrogza/Phishing.Database/issues/new/choose) with proof of removal from other platforms (e.g., Phishtank, Openphish) to expedite processing.
+If your domain has been listed incorrectly due to hacking or other reasons, file a [False Positive Report](https://github.com/Phishing-Database/Phishing.Database/issues/new/choose) with proof of removal from other platforms (e.g., Phishtank, Openphish) to expedite processing.
 
 ---
 
@@ -103,16 +103,16 @@ To contribute, please submit follow the matrix below to identify the correct fil
 
 | Action   | Data Type             | File to Edit                                                                                    |
 | -------- | --------------------- | ----------------------------------------------------------------------------------------------- |
-| ➕ Add    | Domain                | [add-domain](https://github.com/mitchellkrogza/phishing/blob/main/add-domain)                   |
-| ➕ Add    | Domain (wildcard)     | [add-wildcard-domain](https://github.com/mitchellkrogza/phishing/blob/main/add-wildcard-domain) |
-| ➕ Add    | Link                  | [add-link](https://github.com/mitchellkrogza/phishing/blob/main/add-link)                       |
-| ➕ Add    | IP                    | [IP-addr.list](https://github.com/mitchellkrogza/phishing/blob/main/IP-addr.list)               |
-| ➕ Add    | IP (cidr)             | [IP-addr.cidr.list](https://github.com/mitchellkrogza/phishing/blob/main/IP-addr.cidr.list)     |
-| ❌ Remove | False Positive Domain | [falsepositive.list](https://github.com/mitchellkrogza/phishing/blob/main/falsepositive.list)   |
+| ➕ Add    | Domain                | [add-domain](https://github.com/Phishing-Database/phishing/blob/main/add-domain)                   |
+| ➕ Add    | Domain (wildcard)     | [add-wildcard-domain](https://github.com/Phishing-Database/phishing/blob/main/add-wildcard-domain) |
+| ➕ Add    | Link                  | [add-link](https://github.com/Phishing-Database/phishing/blob/main/add-link)                       |
+| ➕ Add    | IP                    | [IP-addr.list](https://github.com/Phishing-Database/phishing/blob/main/IP-addr.list)               |
+| ➕ Add    | IP (cidr)             | [IP-addr.cidr.list](https://github.com/Phishing-Database/phishing/blob/main/IP-addr.cidr.list)     |
+| ❌ Remove | False Positive Domain | [falsepositive.list](https://github.com/Phishing-Database/phishing/blob/main/falsepositive.list)   |
 
 ### Reporting Issues
 
-To report an issue or a false positive, please submit a [new issue](https://github.com/mitchellkrogza/Phishing.Database/issues/new/choose).
+To report an issue or a false positive, please submit a [new issue](https://github.com/Phishing-Database/Phishing.Database/issues/new/choose).
 
 ---
 
