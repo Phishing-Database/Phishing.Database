@@ -1,0 +1,95 @@
+name: Verification ID Instructions
+
+on:
+  issues:
+    types:
+      - labeled
+      - opened
+
+jobs:
+  generate-id:
+    if: |
+      (github.event.action == 'opened') ||
+      (github.event.action == 'labeled' && contains(github.event.label.name, 'false positive'))
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate ID
+        id: generate-id
+        run: |
+          ISSUE_URL="${{ github.event.issue.html_url }}"
+          VERIFICATION_ID=$(echo -n "${ISSUE_URL}" | sha1sum | awk '{print $1}')
+          echo "VERIFICATION_ID=antiphish-${VERIFICATION_ID}" >> $GITHUB_ENV
+
+      - name: Check if comment already exists
+        id: check-comments
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GH_BONE_PAT }}
+          script: |
+            const issueNumber = context.issue.number;
+            const comments = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issueNumber,
+            });
+            const existingComment = comments.data.some(comment =>
+              comment.body.includes('Verification Required')
+            );
+            return existingComment;
+
+      - name: Skip if comment exists
+        if: steps.check-comments.outputs.result == 'true'
+        run: echo "Verification instructions already exist. Skipping."
+
+      - name: Post instructions
+        if: steps.check-comments.outputs.result != 'true'
+        uses: actions/github-script@v7
+        env:
+          VERIFICATION_ID: ${{ env.VERIFICATION_ID }}
+        with:
+          github-token: ${{ secrets.GH_BONE_PAT }}
+          script: |
+            const verificationId = process.env['VERIFICATION_ID'];
+            const issueNumber = context.issue.number;
+            const issueAuthor = context.payload.issue.user.login;
+            const instructions = `
+            ### Verification Required
+
+            @${issueAuthor}, thank you for submitting a false positive report! To help us **verify** your ownership of the affected domain(s), please complete the following steps:
+
+            1. Set a **DNS TXT record** for the domain(s) listed in this issue with the following details:
+                - **Record Name**: \`_phishingdb\`
+                - **Record Value**: \`${verificationId}\`
+
+                **Your Verification ID**: \`${verificationId}\`
+
+            2. Wait for DNS propagation (this may take a few minutes to a few hours).
+
+            3. Reply to this issue once the TXT record has been set.
+
+            #### Important Notes
+
+            - **Verification does not guarantee whitelisting**. The Phishing.Database team will review your report after verifying ownership, but the decision to whitelist depends on further investigation and analysis.
+            - If the record cannot be set or you need alternative methods of verification, please contact us at [contact@phish.co.za](mailto:contact@phish.co.za) - preferably from the domain's official email address.
+
+            #### How to Check the TXT Record ?
+
+            You can verify that the TXT record is properly set using:
+            - Online tools like [Google's Dig Tool](https://toolbox.googleapps.com/apps/dig/) or [MXToolBox TXT Lookup](https://mxtoolbox.com/TXTLookup.aspx).
+            - The command line:
+                \`\`\`
+                dig TXT example.com
+                \`\`\`
+
+            Thank you for your cooperation! We will address your issue as soon as possible after verification.
+
+            *The Phishing.Database Project Team.*
+            `;
+            github.rest.issues.createComment({
+              ...context.repo,
+              issue_number: issueNumber,
+              body: instructions
+            });
+
+
