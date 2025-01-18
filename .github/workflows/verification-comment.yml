@@ -76,7 +76,7 @@ jobs:
             #### How to Check the TXT Record ?
 
             You can verify that the TXT record is properly set using:
-            - Online tools like [Google's Dig Tool](https://toolbox.googleapps.com/apps/dig/) or [MXToolBox TXT Lookup](https://mxtoolbox.com/TXTLookup.aspx).
+            - Online tools like [MXToolBox TXT Lookup](https://mxtoolbox.com/TXTLookup.aspx).
             - The command line:
                 \`\`\`
                 dig TXT _phishingdb.example.com
