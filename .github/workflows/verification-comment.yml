@@ -59,7 +59,7 @@ jobs:
             @${issueAuthor}, thank you for submitting a false positive report! To help us **verify** your ownership of the affected domain(s), please complete the following steps:
 
             1. Set a **DNS TXT record** for the domain(s) listed in this issue with the following details:
-                - **Record Name**: \`example.com.\`
+                - **Record Name**: \`_phishingdb\`
                 - **Record Value**: \`${verificationId}\`
 
                 **Your Verification ID**: \`${verificationId}\`
@@ -79,7 +79,7 @@ jobs:
             - Online tools like [Google's Dig Tool](https://toolbox.googleapps.com/apps/dig/) or [MXToolBox TXT Lookup](https://mxtoolbox.com/TXTLookup.aspx).
             - The command line:
                 \`\`\`
-                dig TXT example.com
+                dig TXT _phishingdb.example.com
                 \`\`\`
 
             Thank you for your cooperation! We will address your issue as soon as possible after verification.
