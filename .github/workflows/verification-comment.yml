@@ -10,7 +10,7 @@ jobs:
   generate-id:
     if: |
       (github.event.action == 'opened') ||
-      (github.event.action == 'labeled' && contains(github.event.label.name, 'false positive'))
+      (github.event.action == 'labeled' && contains(github.event.label.name, 'verification'))
     runs-on: ubuntu-latest
 
     steps:
