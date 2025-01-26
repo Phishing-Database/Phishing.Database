@@ -34,6 +34,7 @@ app-exodus-wallet-auths.teachable.com
 app-exondus-os---wall-e.teachable.com
 app-exondus.teachable.com
 app-layerzeo.xyz
+appleclonebootstrap1.netlify.app
 appleld.cc
 app.metisdata.io
 app.openecocean.finance
@@ -114,6 +115,7 @@ cointracker-support.teachable.com
 comman-ledger-com-start.teachable.com
 conduct-administers-cs-deskteam.codeanyapp.com
 connectappsuiteconfig.uc.r.appspot.com
+connect-chain-wallet.web.app
 connect-en-ledger.teachable.com
 connect-help-en-cdn-ledger-en-us.teachable.com
 console-ndax----sso.webflow.io
@@ -129,6 +131,7 @@ curly-spotted-pocket.glitch.me
 current-exodus-cdn.teachable.com
 current-ledgercom-cdn.teachable.com
 current-ledger-en.teachable.com
+currently67489393.weebly.com
 currently7799.weebly.com
 curveservice.life
 cvsh56.weebly.com
@@ -370,6 +373,7 @@ information-exodus-help.teachable.com
 information-ledger-start.teachable.com
 initialize_ledger_cdn.teachable.com
 insanecatbrokenheart89123rh.github.io
+instagramcombanidosshopauth2authorizewergresponsetypecode.vercel.app
 intent.cyou
 intuitive-ledger-cdn.teachable.com
 io--trezor-hardware-auth.teachable.com
@@ -482,6 +486,7 @@ metamaskchrm-extension.webflow.io
 metamaskexttensioni.webflow.io
 metamask-io-help.walletallinone.com
 metamaskkussloggin.webflow.io
+metamaskxeextension.webflow.io
 metamassk-wallet-logi.webflow.io
 metamaxlogxn.webflow.io
 metamsaskklegin.webflow.io
@@ -495,6 +500,7 @@ min-ledger-start.teachable.com
 min-swap.org
 mond-exodus.teachable.com
 msn02m.github.io
+mulcaeosusewift-clousd.pages.dev
 muralikrishna-27.github.io
 mxyjnspoqcz.wiki
 my-account-bnp-paribas.netlify.app
@@ -534,6 +540,7 @@ opportunities-exodus-cdn.teachable.com
 orbitron.finance
 or-tal-exo--dus-web.teachable.com
 or-tal-exodus-web.teachable.com
+ou8yrq.skin
 overview-trezzor-cdn-docs.webflow.io
 page-exodus-cdn.teachable.com
 page-into-professional.vercel.app
@@ -631,6 +638,7 @@ setupyourledgercom.teachable.com
 shalanikumari2024.github.io
 shhopify.icu
 signup-coinledger.teachable.com
+simo2313-tec.github.io
 simple-ledger.teachable.com
 site-exodus-cdn.teachable.com
 site-exodus-help.teachable.com
@@ -644,6 +652,7 @@ solscanner.io
 solvdapps.finance
 sophistic-ledger-start.teachable.com
 space-ledger-cdn.teachable.com
+sparkonline11.weebly.com
 sso-account-exodus-auth.teachable.com
 sso-atomic-wallet.teachable.com
 sso-exodus-cdn-auth.teachable.com
@@ -906,4 +915,7 @@ xoimeumossacru-2122.vercel.app
 xsyncbridge.com
 xyz.pendaftaranagenpayfazz.my.id
 yahoo-107215-105798.weeblysite.com
+ybrjaoias.com
+ybrjaomka.com
+ybrjaonjsa.com
 zwpbcqyjhsn.wiki
