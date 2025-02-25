@@ -441,6 +441,7 @@ servicemail-juno-sign-in.weeblysite.com
 sgegedwf.weebly.com
 shop2.cc
 shop5.cc
+shop-saver-now.com
 solanaappfix.pages.dev
 soldapp-mainnet.pages.dev
 solve-your-meta-violation.vercel.app
