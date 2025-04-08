@@ -20,8 +20,8 @@ Join us in our mission to keep threat intelligence free and open-source by contr
 
 ---
 
-#### Version: V.2025-04-08.19
-|                                           :boom: Latest Threats<br/>@ 19:39:34                                            |                                        :boom: Active Threats<br/>Tuesday 2025-04-08                                         |                                             Total Links<br/>Discovered Today                                             |
+#### Version: V.2025-04-09.01
+|                                           :boom: Latest Threats<br/>@ 01:39:41                                            |                                        :boom: Active Threats<br/>Wednesday 2025-04-09                                         |                                             Total Links<br/>Discovered Today                                             |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
 | :warning: [109587](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [0](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [617](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
