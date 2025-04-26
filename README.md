@@ -20,10 +20,10 @@ Join us in our mission to keep threat intelligence free and open-source by contr
 
 ---
 
-#### Version: V.2025-04-26.23
-|                                           :boom: Latest Threats<br/>@ 23:39:57                                            |                                        :boom: Active Threats<br/>Saturday 2025-04-26                                         |                                             Total Links<br/>Discovered Today                                             |
+#### Version: V.2025-04-27.00
+|                                           :boom: Latest Threats<br/>@ 00:18:16                                            |                                        :boom: Active Threats<br/>Sunday 2025-04-27                                         |                                             Total Links<br/>Discovered Today                                             |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-| :warning: [95474](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [0](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [0](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
+| :warning: [95474](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [0](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [323615](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 *****************************
 #### Total Phishing Domains Captured: [836003](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) << (FILE SIZE: 6.9M tar.gz)
 #### Total Phishing Links Captured: [1448086](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: 28M tar.gz)
