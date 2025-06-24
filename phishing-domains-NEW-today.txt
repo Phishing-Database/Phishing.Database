@@ -55,6 +55,7 @@ kqizjznvb.duckdns.org
 ksn4n.icu
 latam-pi-topaz.vercel.app
 ledgerlive-sync.vercel.app
+ln.run
 loginpolicysettings.vercel.app
 mail.kuy.vju.temporary.site
 mail.tui.pau.temporary.site
