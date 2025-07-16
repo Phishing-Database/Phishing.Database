@@ -93,6 +93,7 @@ mjihz.cfd
 myskyverifyaccount.weebly.com
 my--sso---itrustcapital----com-auth--h.webflow.io
 my--sso-itrustcapital-com-cdn-x.webflow.io
+nagaris.com
 nani2384.github.io
 nft-lucky-b0x14.vercel.app
 nhqthscb.net
@@ -107,6 +108,7 @@ parvinderkaur8899.github.io
 payylatterrdanaaavcf.klikxcd.my.id
 payylatterrdanaaytd.klikxcd.my.id
 petamasklogin.webflow.io
+polfund.pl
 portal-app--ndax-io-cdns--cdn.webflow.io
 portal---sso----ndax-cdn--nav-r-oauth.webflow.io
 portal-sso--ndax-cdn-nav--r-oauth.webflow.io
