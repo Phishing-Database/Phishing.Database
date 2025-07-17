@@ -1,0 +1,6 @@
+http://managepci.com/services/webapi/v2/emailEvent/clicked/51Sy3X4i4rNUQJdWsC3p8Inbo8kcpkLqwMY8tfOjmq7wucwXOV-mFfTznqyQS40LOjwZDwv9O3spFV6dYX4zng/i0MsjdrAm32zrvrJRfnlSTzW0DQqmidFTAM-MoLoWUE
+http://mu.aptem.co.uk/Users/Account/LogOn
+http://mu.aptem.co.uk/Users/Account/LogOn?ReturnUrl=/MWS.LearningProgrammes/LearningProgramme
+http://mu.aptem.co.uk/Users/Account/LogOn?ReturnUrl=/MWS.MessageCenter/Messages
+http://mu.aptem.co.uk/users/account/logon?returnurl=/mws.messagecenter/messages&returnurl=/mws.messagecenter/messages
+http://wf.managepci.com/safemaker/login/portal/registration/zxlkagjhy2lpaupjvxpjmu5psjkuzxlkemrxswlpaupptw1fmu1tvxdoeta0t0rnnuxuuxdzmkl0t0dfnfpdmhlar015t0rjnu9htmtnrflptenkbgviqwlpakuztkrnm01qyzvnamnzsw1sagrdstznvgmwt0rzme1uvxlomzauztm1n21xeupomhdvothoqndydlh1wudlvs0xrxn6wkz3uwrtrgjstzbztq

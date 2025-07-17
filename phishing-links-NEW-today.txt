@@ -19,10 +19,15 @@ http://kukcoinlogin.webflow.io
 http://kuksreooinlogon.webflow.io
 http://kuoiconlogin.webflow.io
 http://loginyrobinhood.gitbook.io
+http://managepci.com/services/webapi/v2/emailEvent/clicked/51Sy3X4i4rNUQJdWsC3p8Inbo8kcpkLqwMY8tfOjmq7wucwXOV-mFfTznqyQS40LOjwZDwv9O3spFV6dYX4zng/i0MsjdrAm32zrvrJRfnlSTzW0DQqmidFTAM-MoLoWUE
 http://matamasklogd.webflow.io
 http://mautimasskalogin.webflow.io
 http://metmkuilogin.webflow.io
 http://misty-recipe-d215.karis-044.workers.dev/bdo-form/ekt437sd0wqgf8hkf35elx4pcwm1wwtst3nl4vlggt
+http://mu.aptem.co.uk/Users/Account/LogOn
+http://mu.aptem.co.uk/Users/Account/LogOn?ReturnUrl=/MWS.LearningProgrammes/LearningProgramme
+http://mu.aptem.co.uk/Users/Account/LogOn?ReturnUrl=/MWS.MessageCenter/Messages
+http://mu.aptem.co.uk/users/account/logon?returnurl=/mws.messagecenter/messages&returnurl=/mws.messagecenter/messages
 http://ocwunp.webwave.dev
 http://odd-haze-e366.trevor-e31.workers.dev/bdo-form/bcwahokyl38hos2o6ekvcfwqccgp1aqszjuh1bv1ro
 http://odd-haze-e366.trevor-e31.workers.dev/bdo-form/d9owijynwqzlcndk4vjxl8imetqdh5y2o5budvhlq6
@@ -264,6 +269,7 @@ http://thaneshwara848.github.io/facebook
 http://vinayak-raga.github.io/netflix.clone
 http://w000w.bkip55.web.id
 http://w3s.link/ipfs/bafybeih2gfnjdhhabsfqj2menb5eoli7ecxoaroq6uwxhw4evf7gp7vwpi
+http://wf.managepci.com/safemaker/login/portal/registration/zxlkagjhy2lpaupjvxpjmu5psjkuzxlkemrxswlpaupptw1fmu1tvxdoeta0t0rnnuxuuxdzmkl0t0dfnfpdmhlar015t0rjnu9htmtnrflptenkbgviqwlpakuztkrnm01qyzvnamnzsw1sagrdstznvgmwt0rzme1uvxlomzauztm1n21xeupomhdvothoqndydlh1wudlvs0xrxn6wkz3uwrtrgjstzbztq
 http://www.addobe-cloud.vercel.app
 http://www.cartecteam.net
 http://www.fi-crpr0m.vercel.app
