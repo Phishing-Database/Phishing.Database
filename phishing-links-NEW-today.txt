@@ -191,7 +191,6 @@ http://tnk19.com
 http://verify-email-token.vercel.app
 http://www.activeselfie.com
 http://www.binance-three-theta.vercel.app
-http://www.managepci.com/services/webapi/v2/emailEvent/clicked/51Sy3X4i4rNUQJdWsC3p8Inbo8kcpkLqwMY8tfOjmq7wucwXOV-mFfTznqyQS40LOjwZDwv9O3spFV6dYX4zng/i0MsjdrAm32zrvrJRfnlSTzW0DQqmidFTAM-MoLoWUE
 http://www.mint-nft-box4.vercel.app
 http://www.msnversion.weebly.com
 http://www.trpeiprzak.com
