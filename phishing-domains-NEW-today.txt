@@ -26,6 +26,7 @@ authe--bybit-b-login-sso.webflow.io
 auths-bybit-signin-acc.webflow.io
 auths-bybit-s-view.webflow.io
 avidha-shaik.github.io
+basic-id49235767243478814.futurelab8820.click
 bi-development.jimpike.com.au
 bquorcpcalendars.spadaro.id.au
 businessmetasuite.com-privacycenterhome-accounts-id940853.click
@@ -152,6 +153,7 @@ sso--itrustcapitalcom-secure.webflow.io
 sso-itrustcapitalllogin.webflow.io
 sso-itrustcapital-login-authz-sso.webflow.io
 stampinquiries.com
+start-trezor.squarespace.com
 stats.development.qldvvmc.com.au
 superset.subscape.com.au
 tamasktool.info
