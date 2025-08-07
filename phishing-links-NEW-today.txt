@@ -135,6 +135,8 @@ https://pub-ae80e9caf75b4c52aae1beae49b38f2c.r2.dev/index.html
 https://pub-b50adc5d699a4f08aec37102c2103da7.r2.dev/index.html
 https://pub-d29f8a56eb424ab0be38e649e8a90c2f.r2.dev/index.html
 https://pub-e497bbc89b5f442b851da7b69d773a43.r2.dev/int-blob.html
+https://raiolanetpago.wpenginepowered.com/wp-content/rai/cc.php
+https://raiolanetpago.wpenginepowered.com/wp-content/rai/log.htm
 https://ranesaloni2101.github.io/Netflix-clone
 https://rekhak2003.github.io/Amazon-Clone
 https://rutikbkale.github.io/Amazon-Clone
