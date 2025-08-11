@@ -40,6 +40,7 @@ connect-io-trezoor-start.webflow.io
 contents-lockeds-e93he.vercel.app
 cyan-otter.static.domains
 daffodil-sturgeon-sye2.squarespace.com
+danmartin.ro
 dash.beta.jimpike.com.au
 dbqyoiv.wang
 demo.superset.jimpike.com.au
