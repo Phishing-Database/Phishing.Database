@@ -1,0 +1,12 @@
+http://89.23.103.161:8090/doc/DocumentInfo.pdf.lnk
+http://89.23.103.161:8090/ver/fi.wsf
+http://89.23.103.161:8090/ver/tuts.wsh
+http://89.23.103.161:8090/vog.bat
+http://ser-tribune-require-bodies.trycloudflare.com/doc/DocumentInfo.pdf.lnk
+http://ser-tribune-require-bodies.trycloudflare.com/ver/fi.wsf
+http://ser-tribune-require-bodies.trycloudflare.com/ver/tuts.wsh
+http://ser-tribune-require-bodies.trycloudflare.com/vog.bat
+https://eugene-reuters-subdivision-quarter.trycloudflare.com/a.txt
+https://eugene-reuters-subdivision-quarter.trycloudflare.com/b.txt
+https://eugene-reuters-subdivision-quarter.trycloudflare.com/crew.bat
+https://eugene-reuters-subdivision-quarter.trycloudflare.com/zo.zip
