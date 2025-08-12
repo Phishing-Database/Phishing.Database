@@ -9,8 +9,11 @@ on:
 jobs:
   generate-id:
     if: |
-      (github.event.action == 'opened') &&
-      (github.event.action == 'labeled') &&
+      ((github.event.action == 'opened') ||
+      (github.event.action == 'labeled')) &&
+      (contains(github.event.label.name, 'false-positive-report') ||
+      contains(github.event.label.name, 'bot:check-false-positive') ||
+      contains(github.event.label.name, 'bot:verify-dns'))
       contains(github.event.label.name, 'false-positive-report')
     runs-on: ubuntu-latest
 
