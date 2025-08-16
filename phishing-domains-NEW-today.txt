@@ -101,6 +101,8 @@ ebillwayty.netlify.app
 ellalifestyle.com.au
 ephoold-loug-enz.godaddysites.com
 eqbnkmpny.vercel.app
+event-boutique.info
+events-krosmopack.shop
 evergreen-egy.com
 facturation-ameli.com
 fillstayinfo5143.com
@@ -237,6 +239,7 @@ validateonmainnet.firebaseapp.com
 validateonmainnet.web.app
 verificacion-y-protectmail365.github.io
 visitkaro.com
+wakfu-world.shop
 walletssync.web.app
 wap.eftgcl.cn
 wap.hcgdxs.cn
