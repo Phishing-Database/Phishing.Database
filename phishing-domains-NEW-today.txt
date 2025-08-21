@@ -235,6 +235,7 @@ view-trezor--wallet.webflow.io
 vkhe.tap268955u.cc
 vortex-conveyor.pages.dev
 v-start-ledger-auth.webflow.io
+wakfu-gift.shop
 wap.donaldkrasno.com
 web-ens--bridge-trzor.webflow.io
 webflow-exodus-e-sso.webflow.io
