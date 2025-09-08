@@ -1,2 +1,0 @@
-safe-recover.s3.us-east-1.amazonaws.com
-support-ledger-recover.com
