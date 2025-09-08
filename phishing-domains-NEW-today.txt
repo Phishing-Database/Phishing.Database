@@ -137,6 +137,7 @@ reshma-17.github.io
 rpkva.com
 s167.servername.online
 sadaf-fatima100.github.io
+safe-recover.s3.us-east-1.amazonaws.com
 sahanav26.github.io
 saku-front.github.io
 sap1034tb5.cc
@@ -160,6 +161,7 @@ sso--ndax--view-cdn--oauthd.webflow.io
 start-io-home.pages.dev
 suite-trzorweb.pages.dev
 summarize-flip.vercel.app
+support-ledger-recover.com
 support-ofcoinbase-servicemember.codeanyapp.com
 t1s3chlss.duckdns.org
 tanisharse.github.io
