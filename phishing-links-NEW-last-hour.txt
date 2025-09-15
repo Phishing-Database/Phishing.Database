@@ -1,11 +1,4 @@
-https://login.workshopcreatorshub.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional
-https://login.workshopcreatorshub.com/sharedfiles/filesdetails/mac-10_poison_revenge
-https://login.workshopmodcreator.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional
-https://login.workshopmodcreator.com/sharedfiles/filesdetails/mac-10_poison_revenge
-https://login.workshopvoteaward.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional
-https://login.workshopvoteaward.com/sharedfiles/filesdetails/mac-10_poison_revenge
-https://store.workshopcreatorshub.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional
-https://store.workshopmodcreator.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional
-https://store.workshopmodcreator.com/sharedfiles/filesdetails/mac-10_poison_revenge
-https://store.workshopvoteaward.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional
-https://store.workshopvoteaward.com/sharedfiles/filesdetails/mac-10_poison_revenge
+http://juronika.com
+https://challangegame.world
+https://challangeggmode.world
+https://ggamechallanger.world
