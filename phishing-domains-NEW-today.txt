@@ -101,6 +101,7 @@ ledgerr-com-startt-cck.pages.dev
 ledger-wallet-web.pages.dev
 live.sspl.com.auwww.live.sspl.com.au
 lkas-o7ib.vercel.app
+login.workshopmodfiles.com
 log-uphold---cdns.pages.dev
 mahkemeislem.org
 mail7.sspl.com.auwww.mail7.sspl.com.au
@@ -150,6 +151,7 @@ start-x-ledger-com-auth.pages.dev
 steam.communityverifs.com
 steam.workshopdetailcosmetics.com
 steam.workshopswickedrose.com
+store.workshopmodfiles.com
 superpuestas.shop
 support-ledgercom-help-cdn.pages.dev
 support-terezor-github-io.pages.dev
@@ -194,5 +196,6 @@ whats-zur.vip
 whats-zus.vip
 whats-zut.vip
 whats-zym.vip
+workshopmodfiles.com
 yaml-val.icu
 zen88cf69.mx0.sspl.com.au
