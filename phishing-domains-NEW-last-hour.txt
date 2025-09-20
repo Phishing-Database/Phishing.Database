@@ -1,0 +1,8 @@
+login.workshopawardvote.com
+login.workshopmodsreview.com
+login.workshopskinshowcase.com
+store.workshopawardvote.com
+store.workshopskinshowcase.com
+workshopawardvote.com
+workshopmodsreview.com
+workshopskinshowcase.com
