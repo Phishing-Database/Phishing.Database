@@ -69,6 +69,7 @@ dudou.serv00.net
 en-app--uphold--com-auth.pages.dev
 en-trezor-hardware-wallet-us.pages.dev
 en-uphold-login-docs.pages.dev
+eplseason.com
 erbfrrgg.pages.dev
 ethique-services.eu
 events.srmd.org
