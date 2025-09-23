@@ -1,4 +1,0 @@
-https://login.workshopvotesaward.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional
-https://login.workshopvotesaward.com/sharedfiles/filesdetails/bounty_hunters_brim
-https://store.workshopvotesaward.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional
-https://store.workshopvotesaward.com/sharedfiles/filesdetails/bounty_hunters_brim
