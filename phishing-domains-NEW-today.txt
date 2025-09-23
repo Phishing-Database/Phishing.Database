@@ -45,6 +45,7 @@ casefb439788-i69u.vercel.app
 ccs.puncakeswap.exchange
 ceb34f6a-74da-4b35-8367-03ebc71f6706-00-5z5fur16xysq.sisko.replit.dev
 center-trezor-io-en.pages.dev
+chairxcomfort.com
 challengerss.com
 cloud-ledgrwallet-eng.pages.dev
 cloud-login-x-uphuld-cdn.pages.dev
@@ -149,6 +150,7 @@ logiin---live--ldgrr.pages.dev
 logiinnn----ledgr.pages.dev
 logintrezr-loge.pages.dev
 login-up-huld-io.pages.dev
+login.workshopvotesaward.com
 logon-uphold-en.pages.dev
 loyal-illustrations-230781.framer.app
 lupimupitupilupi.com
@@ -337,6 +339,7 @@ steamcuomnmunity.com
 store.communitygameusers.com
 store.communityuserdev.com
 store.powereduser.shop
+store.workshopvotesaward.com
 strt-trezor-io-start-faq.pages.dev
 suite-app-trazor-en.pages.dev
 suport-ledger-liv-logon.pages.dev
@@ -420,6 +423,7 @@ whats-zsh.vip
 whats-zss.vip
 whats-zsx.vip
 windows-security-alert.pages.dev
+workshopvotesaward.com
 wxo.wawpi.icu
 xgj.wawpi.icu
 xim9-bmmanager152065.vercel.app
