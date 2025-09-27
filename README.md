@@ -18,15 +18,15 @@ Join us in our mission to keep threat intelligence free and open-source by contr
 
 ---
 
-#### Version: V.2025-09-27.05
+#### Version: V.2025-09-27.09
 
-|                                             :boom: Latest Threats<br/>@ 05:38:32                                             |                                          :boom: Active Threats<br/>Saturday 2025-09-27                                          |                                              Total Links<br/>Discovered Today                                               |
+|                                             :boom: Latest Threats<br/>@ 09:38:29                                             |                                          :boom: Active Threats<br/>Saturday 2025-09-27                                          |                                              Total Links<br/>Discovered Today                                               |
 | :------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 | :warning: [1273435](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [0](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [237](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 
 ---
 
-#### Total Phishing Domains Captured: [472852](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) << (FILE SIZE: 4.2M tar.gz)
+#### Total Phishing Domains Captured: [472851](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) << (FILE SIZE: 4.2M tar.gz)
 
 #### Total Phishing Links Captured: [744899](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: 14M tar.gz)
 
