@@ -1,3 +1,0 @@
-app-lido-finance-v2.com
-app.v2lido.bond
-v2-app-lido-finance.cc
