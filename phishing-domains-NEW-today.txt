@@ -78,6 +78,8 @@ cloud-16-pxmvzr-8714-data-hub-04.geodomesystem.com
 codewithajith.github.io
 codingwithabhay.github.io
 coinbase-wallet-pc.typedream.app
+communitybuildchart.com
+communityitemshop.com
 confirmation-exodus.com
 confirms-todo.vercel.app
 connect-us-trezor-suite.pages.dev
@@ -126,6 +128,7 @@ ftx.creditors-distribution.com
 gemonologini.webflow.io
 genesislogos.dev
 giihsiq.github.io
+givemewin.ru
 grauddoikalaga.vercel.app
 guide-trezur-io-auth.pages.dev
 h29f.xyz
@@ -247,6 +250,7 @@ poojaryrishab2006-coder.github.io
 portalofertaflashparati.com
 portalofertaparati.com
 portalofertapersonas.com
+poweredgamebuild.shop
 powibnwqd.com
 prema0207.github.io
 primeplaceproperties.com
@@ -257,6 +261,7 @@ pub-de9189eb898d4910bb11dc940e39b5be.r2.dev
 raffuttennoda.vercel.app
 revelogeek.com
 robux24h.vercel.app
+rustpale.com
 samim29.github.io
 sap0559rhp.vip
 sap0577m0r.vip
@@ -293,6 +298,8 @@ sp88097.sitebeat.crazydomains.com
 spotify-clone-lime.vercel.app
 steamcommunitiy.cc
 s.teams.ci
+store.communityitemshop.com
+store.poweredgamebuild.shop
 subscrihot365alert.netlify.app
 support-ledgrcom-helpsus.pages.dev
 support-treezr-io.pages.dev
