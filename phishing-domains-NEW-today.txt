@@ -42,6 +42,7 @@ cryptocomloigin.webflow.io
 curious-bunny-b156dc.netlify.app
 cz-o2.cz
 d05a0daf.qpowsxn.pages.dev
+d15k2d11r6t6rl.cloudfront.net
 d3691308f2a4c2f6983f2880d32e29c84.everest-hcg.com
 dobizelproxy.duckdns.org
 dosecelitel.dnsalias.net
