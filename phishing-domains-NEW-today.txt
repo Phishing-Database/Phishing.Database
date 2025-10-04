@@ -42,6 +42,7 @@ dpdjdv.cc
 echo-haven-dp2.pages.dev
 ehay-uk-login-secureds-xf7hw4gzw6.ivec.biz
 exodus-web3-wallets.pages.dev
+faceit-authclub.com
 firstfidelitys.com
 gemiximlogen.gitbook.io
 gimmenilogin.gitbook.io
@@ -114,6 +115,7 @@ qrz.nu
 ragthyjukid.pancakesswap.exchange
 reclaim-ledger.com
 resources.alliancegroup.com.au
+rustbrute.com
 rvvbccdqvw.duckdns.org
 sahilhamidani.blogspot.am
 samuel-enyaah.github.io
@@ -181,4 +183,5 @@ whats-zxv.vip
 whats-zxz.vip
 whywontitacceptmyname.github.io
 yunsoyi.cn
+zavodka842.help
 zenithsa4.com
