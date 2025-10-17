@@ -1,4 +1,0 @@
-auth.steamtwich.com
-faceit.twich-legendscup.com
-steamtwich.com
-twich-legendscup.com
