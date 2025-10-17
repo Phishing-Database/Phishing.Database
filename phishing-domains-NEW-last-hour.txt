@@ -1,0 +1,2 @@
+recover-verify.com
+supportrecover.s3.eu-north-1.amazonaws.com
