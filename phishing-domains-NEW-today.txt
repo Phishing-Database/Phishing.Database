@@ -47,6 +47,7 @@ aumx2.sspl.com.auaumx2.sspl.com.ausspl.com.auaumx2.sspl.com.au
 auth-cdn-krakeen-sso.pages.dev
 authcentric.pages.dev
 authentication9876545678909876545678.poohoovai.ru
+auth.steamtwich.com
 auwww.aucom.aumail7.sspl.com.auwww.mail7.sspl.com.auwww.sspl.com.aumail7.sspl.com.auwww.mail7.sspl.com.au
 auwww.aumail7.sspl.com.auwww.mail7.sspl.com.auwww.sspl.com.aumail7.sspl.com.auwww.mail7.sspl.com.au
 auwww.live.sspl.com.auwww.com.auwww.live.sspl.com.au
@@ -99,6 +100,7 @@ en-upheld-login.square.site
 excited-local-3705148296.pages.dev
 facebook.redirect.securelogin.ovh
 facebookstartopup.info
+faceit.twich-legendscup.com
 faqs-coiins-base-prologin.pages.dev
 fascinating-crostata-e9db0e.netlify.app
 fixmainappnet.top
@@ -212,6 +214,7 @@ sspl.com.auwww.com.auwww.live.sspl.com.au
 start--en-ledgecom-us-sso.pages.dev
 s.teame.ms
 s.teams-ru.com
+steamtwich.com
 store.communitymarketsdevs.com
 store.communityuseronline.com
 store.powereduseronline.shop
@@ -243,6 +246,7 @@ trezorr-io-starts-com.pages.dev
 trezr-loginn.pages.dev
 triumphgoldcorp.rf-controls.cyou
 turuq-almustaqbal.com
+twich-legendscup.com
 twik.cc
 tzu.bjo.mybluehost.me
 uaid.tap4123iox.cc
