@@ -26,6 +26,7 @@ atendimentoexclusive.v6.rocks
 atologin-manage.info
 aucom.auwww.mail7.sspl.com.auwww.sspl.com.aumail7.sspl.com.auwww.mail7.sspl.com.au
 auraess-olb3abreezleaf.voucrutroo.ru
+authdiscordconnect.com
 autoclaiming.pages.dev
 auwww.com.auwww.mx2.sspl.com.au
 auwww.mail7.sspl.com.aucom.ausspl.com.aumail7.sspl.com.auwww.mail7.sspl.com.auwww.sspl.com.aumail7.sspl.com.auwww.mail7.sspl.com.au
@@ -59,6 +60,8 @@ colasco.click
 com.auaucom.aumail7.sspl.com.aumail7.sspl.com.ausspl.com.aumail7.sspl.com.aumail7.sspl.com.au
 com.aucom.auwww.mail7.sspl.com.auwww.sspl.com.aumail7.sspl.com.auwww.mail7.sspl.com.au
 com.aumail7.sspl.com.auwww.mail7.sspl.com.aucom.auwww.mail7.sspl.com.auwww.sspl.com.aumail7.sspl.com.auwww.mail7.sspl.com.au
+communityitemart.com
+communitymarketgame.com
 cupschallenge.world
 damobell.vercel.app
 dbdr-wahtsapp.com
@@ -66,11 +69,14 @@ devshantanu10.github.io
 diaj-casefb175203.vercel.app
 docs-netcoiins-app.square.site
 docs-netcoins-app.square.site
+dofus-dofus.com
 e0cf7533-d8af-4cc4-9ffe-94f66b2cb6bb-00-lqcsicjekx5j.janeway.replit.dev
 eneresylvia.wixsite.com
+faceit.authdiscordconnect.com
 faceit.twich-legends-cup.com
 fekrouuun.com
 ffingazzoa.za.com
+fragduels.com
 freeshare.link
 get-trezor-start-io.pages.dev
 golaspo.click
@@ -126,6 +132,7 @@ lklawilatfrtih.com
 lmtertmaltics.okliime.com
 logen-trezor-info.pages.dev
 loginaccountitrustcapitl.webflow.io
+login.workshopitemsvote.com
 log-trezor-eng-cdn-auth.pages.dev
 log-uphildweb.weebly.com
 m11.ggdsa1d.cc
@@ -223,8 +230,10 @@ portal-ndaxx-login-eng.webflow.io
 portal-ndxa-cdns.typedream.app
 portal-ndxaio-web-docs.typedream.app
 portal-uphld-autth-faq.typedream.app
+powereditemart.shop
 prodba.vercel.app
 promoargntin.com
+proplay-cup.pro
 pub-9b08e8540ea84922a66e99d3a1538b13.r2.dev
 qe.wwrkk.uk
 random5444.duckdns.org
@@ -261,7 +270,11 @@ sspl.com.aumail7.sspl.com.auwww.mail7.sspl.com.auwww.mail7.sspl.com.auwww.mail7.
 steamcoumunilty.sbs
 steam.workshopviewinfo.com
 s.teamzb.com
+store.communityitemart.com
+store.communitymarketgame.com
+store.powereditemart.shop
 store.wallpaperenginepreview.app
+store.workshopitemsvote.com
 streancowmunity.ru
 subash-0908.github.io
 supplychain.servirtual.cl
@@ -298,6 +311,7 @@ w5n7rl.ezbuyfast.com
 wallet-ledger-live.pages.dev
 web-was-whatsappweb.com.cn
 whats-xtq.vip
+workshopitemsvote.com
 www-cakepool.com
 www-drake-only-top.ubpages.com
 xqpvtrjyhm.duckdns.org
