@@ -18,17 +18,17 @@ Join us in our mission to keep threat intelligence free and open-source by contr
 
 ---
 
-#### Version: V.2025-10-20.13
+#### Version: V.2025-10-20.15
 
-|                                             :boom: Latest Threats<br/>@ 13:39:06                                             |                                          :boom: Active Threats<br/>Monday 2025-10-20                                          |                                              Total Links<br/>Discovered Today                                               |
+|                                             :boom: Latest Threats<br/>@ 15:41:13                                             |                                          :boom: Active Threats<br/>Monday 2025-10-20                                          |                                              Total Links<br/>Discovered Today                                               |
 | :------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 | :warning: [1273431](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [0](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [275](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 
 ---
 
-#### Total Phishing Domains Captured: [480401](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) << (FILE SIZE: 4.2M tar.gz)
+#### Total Phishing Domains Captured: [480570](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) << (FILE SIZE: 4.2M tar.gz)
 
-#### Total Phishing Links Captured: [755973](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: 14M tar.gz)
+#### Total Phishing Links Captured: [756255](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: 14M tar.gz)
 
 ---
 
