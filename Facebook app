@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Login Simulation — SAFE Demo</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+    /* Simple, clean layout for demonstration — intentionally generic */
+    :root {
+      --bg: #f0f2f5;
+      --card: #fff;
+      --accent: #1877f2; /* familiar blue for realism but not trademarked use */
+      --danger: #c82333;
+      --muted: #606770;
+      --radius: 10px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    }
+    html,body{height:100%;margin:0;background:var(--bg)}
+    .wrap{min-height:100%;display:flex;align-items:center;justify-content:center;padding:40px}
+    .card{background:var(--card);border-radius:var(--radius);box-shadow:0 6px 18px rgba(0,0,0,.08);width:100%;max-width:980px;display:flex;overflow:hidden}
+    .left{flex:1;padding:48px 40px}
+    .right{width:360px;background:linear-gradient(180deg,#fff,#f7f9ff);padding:28px;border-left:1px solid #eee}
+    h1{margin:0 0 8px;font-size:24px;color:#111}
+    p.lead{margin:0 0 20px;color:var(--muted)}
+    form{margin-top:6px}
+    label{display:block;font-size:13px;color:var(--muted);margin-bottom:6px}
+    input[type="text"], input[type="password"]{
+      width:100%;padding:12px 14px;border-radius:6px;border:1px solid #dfe3ea;background:#fff;font-size:15px;box-sizing:border-box;margin-bottom:12px;
+    }
+    button.primary{
+      width:100%;padding:12px;border-radius:6px;border:0;background:var(--accent);color:white;font-weight:600;font-size:15px;cursor:pointer;
+    }
+    .note{margin-top:12px;font-size:13px;color:#8b949e}
+    .warning{
+      margin-top:18px;padding:14px;border-radius:8px;background:#fff5f6;color:var(--danger);border:1px solid #f1c0c6;font-weight:600;
+    }
+    .tips{margin-top:16px;background:#f7f8fa;padding:14px;border-radius:8px;font-size:14px;color:#222}
+    ul{padding-left:20px;margin:8px 0}
+    .footer{font-size:13px;color:var(--muted);margin-top:14px}
+    .disclaimer{
+      background:#fff3cd;border:1px solid #ffeeba;padding:10px;border-radius:8px;color:#856404;margin-bottom:14px;
+      font-weight:600;
+    }
+    .badge{display:inline-block;padding:6px 10px;border-radius:999px;background:#eef6ff;color:var(--accent);font-weight:600;margin-bottom:10px}
+    /* modal */
+    .modal-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.45);display:none;align-items:center;justify-content:center;padding:20px;z-index:40}
+    .modal{background:#fff;padding:22px;border-radius:10px;max-width:720px;width:100%;box-shadow:0 12px 36px rgba(0,0,0,.3)}
+    .modal h2{margin:0 0 8px}
+    .modal .content{color:#333;margin-top:10px;line-height:1.45}
+    .close-btn{margin-top:16px;padding:10px 14px;border:0;border-radius:8px;background:#e9ecef;cursor:pointer}
+    .learn-more{margin-top:12px;display:inline-block;text-decoration:none;color:var(--accent);font-weight:600}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card" role="main" aria-labelledby="main-title">
+      <div class="left">
+        <div class="badge">Simulation — For Training Only</div>
+        <h1 id="main-title">Secure Login — Simulation</h1>
+        <p class="lead">This is a safe, local demonstration used in phishing awareness training. Submitting the form will show a warning and teachable tips. <strong>No data is saved or sent.</strong></p>
+
+        <div class="disclaimer" id="header-disclaimer">
+          IMPORTANT: This page is a **simulation**. Do not enter real account credentials — use test values only.
+        </div>
+
+        <form id="demo-form" autocomplete="off" novalidate>
+          <label for="email">Email or phone</label>
+          <input id="email" name="email" type="text" placeholder="example@domain.com" inputmode="email" />
+
+          <label for="pass">Password</label>
+          <input id="pass" name="pass" type="password" placeholder="Enter password" />
+
+          <button id="submit-btn" class="primary" type="submit">Log In</button>
+
+          <div class="note">This form is intercepted — nothing leaves your browser.</div>
+        </form>
+
+        <div class="tips" aria-live="polite">
+          <strong>Teaching tips (for instructor):</strong>
+          <ul>
+            <li>Ask students to inspect the page URL, TLS padlock, and domain before entering credentials.</li>
+            <li>Discuss visual inconsistencies: poor grammar, low-resolution logos, or images served from odd domains.</li>
+            <li>Demonstrate how to check the link target by hovering and using browser dev tools.</li>
+          </ul>
+        </div>
+
+        <div class="footer">Instructor note: this page is intentionally safe — it never posts user credentials.</div>
+      </div>
+
+      <div class="right" aria-hidden="false">
+        <h3 style="margin-top:0">Phishing Warning</h3>
+        <div id="right-warning" class="warning">This is an educational simulation. Submitting will show a detailed analysis (no credential storage).</div>
+
+        <div style="margin-top:12px;font-weight:700">Quick checklist</div>
+        <ul style="margin-top:8px;color:var(--muted)">
+          <li>Check the URL/domain</li>
+          <li>Look for HTTPS & valid certificate</li>
+          <li>Avoid clicking links in unexpected emails</li>
+        </ul>
+
+        <a href="#" class="learn-more" id="show-examples">Show common phishing examples →</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: shown when user tries to submit -->
+  <div id="modal" class="modal-backdrop" role="dialog" aria
