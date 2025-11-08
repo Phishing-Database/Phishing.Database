@@ -13,6 +13,8 @@ aliexpress-na.shop
 aliexpress-sp.shop
 analysis-refun60381725.pages.dev
 authenticate.x-m-a.com
+authmobile.ruststack.net
+authm.rustbeacon.net
 authored-hide.vercel.app
 b45049.com
 b45069.com
@@ -27,9 +29,11 @@ bogotaspvirtual.azurewebsites.net
 bop.descon-ae.com
 business-refun50197264.pages.dev
 centrum-pl.com
+challengersgo.net
 classify.friojoofrai.ru
 competition-refun35698410.pages.dev
 coreyshortnacy80.wixsite.com
+corte-montiego.icu
 data-center-assessment-claim.pages.dev
 data-center-bullying-standard.pages.dev
 data-center-claim-compliance.pages.dev
@@ -68,6 +72,8 @@ e4h14dtete.tik58777.com
 eovhwsbvzm.tk52521.com
 espana-25.dreamhosters.com
 evsahibiolturkiye.com
+exchallenges.net
+faceit.tw-vertex-club.com
 financeltdsupport.com
 fldeaelity.shop
 fldebelity.shop
@@ -114,6 +120,8 @@ relation-mbk-info-client.surge.sh
 resources-refun29456180.pages.dev
 rs6nj7n494.tik58777.com
 rushisn.github.io
+rustbeacon.net
+ruststack.net
 sage-gaufre-e61263.netlify.app
 santhigiribschool.com
 securing-exodus.com
@@ -124,14 +132,18 @@ site-aseysuaft.godaddysites.com
 site-y18006xe6.godaddysites.com
 sparkasse-dortmund.de
 s.team-hmqc.com
+steam.tw-faceit.com
 store.workshopmodreviews.com
 store.workshopvotepatern.com
 technology-refun60734892.pages.dev
 tikshotk.com
 trezur-lgn-secure.pages.dev
 tusaludvirtual.com
+tw-faceit.com
+tw-vertex-club.com
 txdmv.cyou
 txdmv.shop
+verify-cs2.net
 vermillion-faun-35505a.netlify.app
 wallet-keyless-bybit.com
 wallspur.com
