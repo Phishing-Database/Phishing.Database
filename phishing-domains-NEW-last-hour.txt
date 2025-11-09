@@ -1,3 +1,0 @@
-fragplayer.pro
-login.rustfoundry.net
-rustfoundry.net
