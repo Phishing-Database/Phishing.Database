@@ -57,6 +57,7 @@ flen-meta-terk-biz.pages.dev
 flen-meta-thorn-biz.pages.dev
 flok-meta-wern-biz.pages.dev
 flon-meta-grap-biz.pages.dev
+fragplayer.pro
 frib-meta-shram-biz.pages.dev
 frib-meta-zorp-biz.pages.dev
 frit-meta-glun-biz.pages.dev
@@ -124,6 +125,7 @@ krin-meta-flop-biz.pages.dev
 krin-meta-mulp-biz.pages.dev
 krix-meta-lom-biz.pages.dev
 kron-meta-vram-biz.pages.dev
+login.rustfoundry.net
 lorp-meta-zlin-biz.pages.dev
 lorp-meta-zlin-grint.pages.dev
 lorp-meta-zlin.pages.dev
@@ -167,6 +169,7 @@ promomagazinprodutos.site
 quinet-meta-biz-dravon.pages.dev
 rk-sa2025.vip
 rupeshc09.github.io
+rustfoundry.net
 ryn-meta-brix-biz.pages.dev
 sark-meta-vorn-biz.pages.dev
 senvor-meta-biz-dralen.pages.dev

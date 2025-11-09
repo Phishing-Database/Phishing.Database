@@ -113,6 +113,7 @@ https://flar-meta-wix-biz.pages.dev
 https://flen-meta-terk-biz.pages.dev
 https://flen-meta-thorn-biz.pages.dev
 https://flok-meta-wern-biz.pages.dev
+https://fragplayer.pro
 https://frib-meta-zorp-biz.pages.dev
 https://frit-meta-glun-thar.pages.dev
 https://fup-meta-jib-biz.pages.dev
@@ -149,6 +150,7 @@ https://kren-meta-snop-biz.pages.dev
 https://krin-meta-flop-biz.pages.dev
 https://krix-meta-lom-biz.pages.dev
 https://kron-meta-vram-biz.pages.dev
+https://login.rustfoundry.net/3dc48
 https://lorp-meta-zlin.pages.dev
 http://slum-meta-trim-biz.pages.dev
 https://mork-meta-zilf-biz.pages.dev
@@ -198,6 +200,7 @@ https://rbfcu-star.azurewebsites.net/(S(s0toq5zctwgyxuosn3iw1e40))/Main/Login
 https://rbfcu-star.azurewebsites.net/(S(z2avgsbxvqeirnxhvlhyj2xz))/Main/Login
 https://rk-sa2025.vip/login
 https://rupeshc09.github.io/amazonclone
+https://rustfoundry.net
 https://ryn-meta-brix-biz.pages.dev
 https://sark-meta-vorn-biz.pages.dev
 https://shon-meta-vex-biz.pages.dev
