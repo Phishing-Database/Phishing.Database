@@ -52,6 +52,7 @@ dbs-vi.com
 decentralportal.live
 devsite.world
 dhl-my-mypaketadsrese.com
+dofus-touch-news.com
 e105m.xyz
 elcilantrillo.mx
 everythingmindmatters.about-ads.workers.dev
@@ -183,6 +184,7 @@ occulll-btttt.weeblysite.com
 oldclient2.cmdcloud.ir
 oldclient3.cmdcloud.ir
 oratobunezu.net
+popycha.fr
 portal-app--ndax-io--cdn-io.webflow.io
 pptcncxymcpj.myfunnelish.com
 pritorjtai.qpon
