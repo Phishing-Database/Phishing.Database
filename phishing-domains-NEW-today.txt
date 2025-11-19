@@ -111,6 +111,7 @@ harpermcneilupdates.s3.us-west-1.amazonaws.com
 heard-kucion-cdn.pages.dev
 hodting.shop
 hollow-ridge.pages.dev
+hpsafety.com.au
 id39.partner-agency-network.com
 im-token.world
 ivora-vault.pages.dev
@@ -205,6 +206,7 @@ shopglobalmall.com
 site-8bbeubmoo.godaddysites.com
 si.team-wlo.com
 skazki-olga-bogacheva.kz
+sspl.com.au
 store.workshopdevsrelease.com
 stunning-octo-fiesta.vercel.app
 suavino.cfd
