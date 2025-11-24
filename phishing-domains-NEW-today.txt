@@ -100,6 +100,7 @@ kuucoianlogin.webflow.io
 ledger-com-start.fly.dev
 lehavreweb.weebly.com
 link-aisports.com
+linulade.lv
 liora-studio.pages.dev
 live-mingiftin10.vercel.app
 live-mingiftin12.vercel.app
