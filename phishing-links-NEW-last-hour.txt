@@ -1,8 +1,0 @@
-http://78.153.155.97:8080/download/dvmw.pdf
-http://78.153.155.97:8080/downloads/README.pdf.lnk
-https://upsinfo2025.com/download/dvmw.pdf
-http://ykgmqooyusggyyya.xyz:443/api/client_hello
-http://ykgmqooyusggyyya.xyz:443/api/client/new
-http://ykgmqooyusggyyya.xyz:443/avast_update
-http://ykgmqooyusggyyya.xyz:443/tasks/collect
-http://ykgmqooyusggyyya.xyz:443/tasks/get_worker
