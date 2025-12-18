@@ -21,6 +21,7 @@ ledgersso.created.app
 ledger-wallet.gitlab.io
 live-desktop-ledgr.framer.ai
 live-desktop-leidgr.framer.ai
+loopearplugshungary.com
 started-trezo.framer.ai
 suites-en.framer.ai
 tfjg-rjgu-eeti-zjti-ordg-rfgj.netlify.app
