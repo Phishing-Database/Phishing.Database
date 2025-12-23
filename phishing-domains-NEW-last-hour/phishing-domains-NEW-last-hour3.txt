@@ -1,12 +1,3 @@
-tight-frog-8182.lcreenhntsacleelea8150.workers.dev
-tight-grass-0864.maleigh83.workers.dev
-tight-hill-6900.on.fleek.co
-tight-lab-2968.on.fleek.co
-tight-limit-0f93.9urdvqae.workers.dev
-tight-limit-afde.uay2t9ssz6ji7yo.workers.dev
-tight-paper-9200.on.fleek.co
-tight-pond-2855.on.fleek.co
-tight-salad-f8b7.sdk-ppd.workers.dev
 tight-scene-3240.on.fleek.co
 tight-scene-5518.on.fleek.co
 tight-sky-8967.on.fleek.co
@@ -15961,6 +15952,7 @@ twich-gglegendscup.com
 twich-legends-cup.com
 twich-legendscup.com
 twich-vertex-club.com
+twicth.fecepunch.pro
 twiggym43.000webhostapp.com
 twiggy-transmittal.000webhostapp.com
 twigrepro-online.com

@@ -1,2 +1,3 @@
 phishing-domains-ACTIVE1.txt
+phishing-domains-ACTIVE1.txt
 phishing-domains-ACTIVE2.txt
