@@ -1,2 +1,1 @@
 phishing-IPs-INVALID1.txt
-phishing-IPs-INVALID1.txt

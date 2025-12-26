@@ -6,3 +6,8 @@ phishing-links-ACTIVE4.txt
 phishing-links-ACTIVE5.txt
 phishing-links-ACTIVE6.txt
 phishing-links-ACTIVE7.txt
+phishing-links-ACTIVE8.txt
+phishing-links-ACTIVE9.txt
+phishing-links-ACTIVE10.txt
+phishing-links-ACTIVE11.txt
+phishing-links-ACTIVE12.txt
