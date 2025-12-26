@@ -1,4 +1,2 @@
 phishing-domains-NEW-last-hour1.txt
 phishing-domains-NEW-last-hour1.txt
-phishing-domains-NEW-last-hour2.txt
-phishing-domains-NEW-last-hour3.txt
