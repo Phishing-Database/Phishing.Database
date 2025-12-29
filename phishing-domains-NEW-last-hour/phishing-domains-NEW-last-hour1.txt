@@ -1,2 +1,1 @@
-cs2booms.shop
-login.cs2booms.shop
+modechallenge.pro
