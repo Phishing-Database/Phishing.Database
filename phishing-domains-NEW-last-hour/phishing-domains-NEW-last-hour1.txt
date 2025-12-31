@@ -1,2 +1,6 @@
-en-vertexclub.com
-faceit.en-vertexclub.com
+login.workshopartistlibrary.com
+login.workshopmodreview.com
+store.workshopartistlibrary.com
+store.workshopmodreview.com
+workshopartistlibrary.com
+workshopmodreview.com
