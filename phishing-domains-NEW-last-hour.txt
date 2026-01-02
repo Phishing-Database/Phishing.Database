@@ -1,0 +1,11 @@
+login.major-boom.shop
+login.workshopartistlocate.com
+login.workshopcommunityworks.com
+login.workshopuservotes.com
+major-boom.shop
+store.workshopartistlocate.com
+store.workshopcommunityworks.com
+store.workshopuservotes.com
+workshopartistlocate.com
+workshopcommunityworks.com
+workshopuservotes.com
