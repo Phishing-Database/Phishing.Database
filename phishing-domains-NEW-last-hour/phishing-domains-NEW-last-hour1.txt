@@ -1,13 +1,1 @@
-cs2-final.net
-eng-vertex-clubgg.com
-faceit.eng-vertex-clubgg.com
-login.cs2-final.net
-login.workshopcreatorsdesign.com
-login.workshopsubscribedesign.com
-login.workshopvotedreview.com
-store.workshopcreatorsdesign.com
-store.workshopsubscribedesign.com
-store.workshopvotedreview.com
-workshopcreatorsdesign.com
-workshopsubscribedesign.com
-workshopvotedreview.com
+

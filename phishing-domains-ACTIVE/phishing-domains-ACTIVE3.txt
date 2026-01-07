@@ -61580,6 +61580,7 @@ workshopcontributors.com
 workshopcreatedmods.com
 workshopcreatormod.com
 workshopcreatorpage.com
+workshopcreatorsdesign.com
 workshopcreatorshub.com
 workshopcreatorslab.com
 workshopcreatorsvote.com
@@ -61634,6 +61635,7 @@ workshop-steam.com
 workshopstraighten.com
 workshopstyle.com
 workshopsubscribe.com
+workshopsubscribedesign.com
 workshopusercontent.com
 workshopusers.com
 workshopusersvotes.com
@@ -61641,6 +61643,7 @@ workshopuservotes.com
 workshopvoteaward.com
 workshopvotecharts.com
 workshopvotecreate.com
+workshopvotedreview.com
 workshopvotemodels.com
 workshopvotereview.com
 workshopvotesaward.com
