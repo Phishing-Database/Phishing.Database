@@ -1,2 +1,1 @@
-https://login.workshopvotesbrowse.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional
-https://store.workshopvotesbrowse.com/sharedfiles/filesdetails/mac-10_poison_revenge
+
