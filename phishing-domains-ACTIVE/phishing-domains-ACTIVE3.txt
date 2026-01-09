@@ -61574,6 +61574,7 @@ workshopawardvote.com
 workshopawardvotes.com
 workshopbeer.com
 workshopbox.github.io
+workshopbrowsemod.com
 workshopcomingmod.com
 workshopcomingskin.com
 workshopcommunityrare.com
@@ -61596,6 +61597,7 @@ workshopdevs.com
 workshop-dota.pro
 workshopexplosion.com
 workshopfiledetails.com
+workshop-glock18.com
 workshopitempowered.com
 workshopitemsvote.com
 workshopmodcharts.com

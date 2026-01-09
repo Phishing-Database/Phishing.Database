@@ -1,6 +1,1 @@
-login.workshopbrowsemod.com
-menuitem.workshop-glock18.com
-store.workshopbrowsemod.com
-store.workshop-glock18.com
-workshopbrowsemod.com
-workshop-glock18.com
+
