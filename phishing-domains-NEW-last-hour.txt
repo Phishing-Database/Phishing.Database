@@ -1,5 +1,0 @@
-entered.top
-mob.entered.top
-mvm-szamla-fizetes.com
-mvm-szamlafizetes.com
-rustservice.com
