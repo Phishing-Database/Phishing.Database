@@ -30148,6 +30148,7 @@ verify-facebookpage.hepcenter.me
 verifyfacebooksuite1597.duckdns.org
 verify-facebook.wuaze.com
 verify.faceitaccounts.com
+verifyfaceit.click
 verify.faceituser.com
 verifyfage.xyz
 verifyfavour.s3-eu-west-1.amazonaws.com
@@ -61563,6 +61564,7 @@ workshopartcreator.com
 workshopartisthub.com
 workshopartistlibrary.com
 workshopartistlocate.com
+workshopartistskin.com
 workshopartskinpowered.com
 workshop-arts.pro
 workshopartstudio.com
@@ -61598,6 +61600,7 @@ workshopexplosion.com
 workshopfiledetails.com
 workshop-glock18.com
 workshop-glock.com
+workshop-glocks.com
 workshopitempowered.com
 workshopitemsvote.com
 workshopmodcharts.com
