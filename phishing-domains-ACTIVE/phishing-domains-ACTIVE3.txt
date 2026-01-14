@@ -32307,7 +32307,6 @@ vicbass.cl
 vicbell.vercel.app
 vicbelongs.com
 vic-bicycle-nb-cook.trycloudflare.com
-vicblock.co.ke
 vic-discovery-criterion-dna.trycloudflare.com
 vicecannabis.space
 vice-clop.web.app
@@ -63147,7 +63146,6 @@ wtsx.trdeone.top
 wtsyd1cqdv3p5z7.pages.dev
 wtt1rp0vqhrsdjfzuu.pages.dev
 wttcinc.com
-wtt.co.ke
 wttcolombia.com
 wttechdesign.com
 wttnu.mtsmke.eletricosolucoes.com.br
