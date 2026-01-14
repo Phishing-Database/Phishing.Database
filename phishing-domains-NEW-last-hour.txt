@@ -1,4 +1,5 @@
-appdata.workshop-glocks.com
-authe.top
-mob.authe.top
-rustcontroller.com
+engvertex-clubgg.com
+faceit.engvertex-clubgg.com
+menuitem.workshop-pistol.com
+store.workshop-pistol.com
+workshop-pistol.com
