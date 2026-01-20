@@ -1,2 +1,0 @@
-auth-victoryhub.com
-faceit.auth-victoryhub.com
