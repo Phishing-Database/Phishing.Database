@@ -37922,7 +37922,6 @@ vodafone.co.uk-myebill.com
 vodafone.co.uk-recentbill.com
 vodafone.co.uk-securedlogin.com
 vodafone.co.uk-securelogin.com
-vodafone.de
 vodafone-demo-01.srv-07.maxifi.net
 vodafone.digital-hub.tech
 vodafone.due-balances.com
