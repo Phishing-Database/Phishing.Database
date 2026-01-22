@@ -1,1 +1,2 @@
-rustwatchdog.com
+en-victoryhub.com
+faceit.en-victoryhub.com
