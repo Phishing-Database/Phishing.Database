@@ -1,1 +1,4 @@
-
+auth-victory-hub.com
+faceit.auth-victory-hub.com
+faceit.stm-auth.com
+stm-auth.com
