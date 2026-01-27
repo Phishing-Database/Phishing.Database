@@ -1,3 +1,2 @@
-authez.top
-mob.authez.top
-rustqueue.com
+faceit.join-victory-hub.com
+join-victory-hub.com
