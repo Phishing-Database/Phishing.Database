@@ -15,15 +15,15 @@ Join us in our mission to keep threat intelligence free and open-source by contr
 
 ---
 
-#### Version: V.2026-02-19.07
+#### Version: V.2026-02-19.13
 
-|                                             :boom: Latest Threats<br/>@ 07:30:23                                             |                                          :boom: Active Threats<br/>Thursday 2026-02-19                                          |                                              Total Links<br/>Discovered Today                                               |
+|                                             :boom: Latest Threats<br/>@ 13:30:23                                             |                                          :boom: Active Threats<br/>Thursday 2026-02-19                                          |                                              Total Links<br/>Discovered Today                                               |
 | :------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 | :warning: [642538](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-NOW.txt) | :warning: [0](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-ACTIVE-today.txt) | [3](https://github.com/Phishing-Database/Phishing.Database/blob/master/phishing-links-NEW-today.txt) |
 
 ---
 
-#### Total Phishing Domains Captured: [817712](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) << (FILE SIZE: 6.9M tar.gz)
+#### Total Phishing Domains Captured: [817711](https://phish.co.za/latest/ALL-phishing-domains.tar.gz) << (FILE SIZE: 6.9M tar.gz)
 
 #### Total Phishing Links Captured: [784192](https://phish.co.za/latest/ALL-phishing-links.tar.gz) << (FILE SIZE: 14M tar.gz)
 
