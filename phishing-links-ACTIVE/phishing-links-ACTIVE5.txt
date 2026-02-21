@@ -1,8 +1,3 @@
-https://rbfcu-star.azurewebsites.net/(S(s02l3uyxkbqbng540wm0khlo))/Main/Login
-https://rbfcu-star.azurewebsites.net/(S(s0fdmhtn5frnmzqvmhcferyd))/Main/Login
-https://rbfcu-star.azurewebsites.net/(S(s0jrv5vmaff0grkfqw5mzedt))/Main/Login
-https://rbfcu-star.azurewebsites.net/(S(s0lahkmnce4q5ljrve2gwbwx))/Main/Login
-https://rbfcu-star.azurewebsites.net/(S(s0pgu2cswaytffiuhjnjyzhw))/Main/Login
 https://rbfcu-star.azurewebsites.net/(S(s0toq5zctwgyxuosn3iw1e40))/Main/Login
 https://rbfcu-star.azurewebsites.net/(S(s0wcxfnmq52xldnal1145nxf))/Main/Login
 https://rbfcu-star.azurewebsites.net/(S(s22kqy0wsmcjgncrpn100ozn))/Main/Login
