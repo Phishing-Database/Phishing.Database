@@ -1,2 +1,1 @@
-faceit.party-invite.pro
-party-invite.pro
+
