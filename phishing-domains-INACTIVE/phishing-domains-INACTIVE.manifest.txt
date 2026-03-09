@@ -1,1 +1,2 @@
 phishing-domains-INACTIVE1.txt
+phishing-domains-INACTIVE1.txt
