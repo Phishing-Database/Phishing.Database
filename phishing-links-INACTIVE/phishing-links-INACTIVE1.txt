@@ -2290,6 +2290,7 @@ http://1000000000987651321005469875-gq.tk/incorrect_email.html
 http://1000000000987651321005469875-gq.tk/Login_to_Facebook.html
 http://1000000000987651321005469876-gq.tk/checkpoint_next.html
 http://1000000000987651321005469876-gq.tk/incorrect_email.html
+http://1000000000987651321005469876-gq.tk/Login_to_Facebook.html
 http://100000000098765461565478762-gq.tk/checkpoint_next.html
 http://100000000098765461565478762-gq.tk/incorrect_email.html
 http://100000000098765461565478762-gq.tk/Login_to_Facebook.html
@@ -2606,6 +2607,7 @@ http://101070185085225.ga
 http://101.0.81.153/nord/reader
 http://101.0.81.153/nord/reader/err.php
 http://1010928192.hopto.org/DHL-SECURITY/DHL%20AUTO/dhl.php
+http://101.111.46-69.q9.net
 http://101.132.78.77:8033/nord.php
 http://101.173.169.186
 http://101.178.12.212
@@ -2826,6 +2828,7 @@ http://103.143.72.151
 http://103.143.73.155/signin
 http://103.145.252.47
 http://103.149.90.150
+http://103.149.90.150/pc
 http://103.150.215.101/ap/signin?key=a@b.c
 http://103.150.215.115/ap/signin?key=redacted@redacted.invalid
 http://103.151.123.75
@@ -2925,10 +2928,10 @@ http://103.254.74.68
 http://103.255.237.203/~vungtauv/wp-content/upgrade/81.34.170.38/vbv.php
 http://103.27.227.176/banks/cibc
 http://103.27.34.27/~infosser/customers/center/help/app/captcha
-http://103.30.211.132
 http://103.30.211.54
 http://103.30.211.55
 http://103.40.8.115/ap/signin?key=redacted@redacted.invalid
+http://103.40.8.183/ap/signin?key=a@b.c
 http://103.40.8.188/ap/signin?key=a@b.c
 http://103.40.8.192/ap/signin?key=a@b.c
 http://103.40.8.203/ap/signin?key=a@b.c
@@ -10572,6 +10575,7 @@ http://agenciadlx.com.br/oct16
 http://agenciadlx.com.br/wrk-7
 http://agenciatributariaservicesp.elementor.cloud:8080/wp-content/themes/chro/espacechronosmsme/BIbAZTGkMv4247
 http://agenciatributariaservicesp.elementor.cloud:8080/wp-content/themes/chro/espacechronosmsme/BIbAZTGkMv4498
+http://agenciaupp.com.br/modelos-sites/wp-includes/sodium_compat/src/Core32/Curve25519/C-Agricole/2159a9b23ddc266/region.php?particulier
 http://agenciaweblab.com.br/wp-admin/maint/payment/excelzz/bizmail.php?email=&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
 http://agenciawecan.com.br/.well-known/pki-validation/raifservice/lograiffeisenFull/kred.php
 http://agency.3or5.es/help

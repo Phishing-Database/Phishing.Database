@@ -1228,7 +1228,6 @@ http://1000000000985416511041547625-gq.tk/Login_to_Facebook.html
 http://1000000000985416511041547627-gq.tk/checkpoint_next.html
 http://1000000000985416511041547627-gq.tk/Login_to_Facebook.html
 http://1000000000987651321005469873-gq.tk/checkpoint_next.html
-http://1000000000987651321005469876-gq.tk/Login_to_Facebook.html
 http://100000000.4545474474.hstn.me
 http://1000000096856398652556253562.tk/incorrect_email.html
 http://100019728.mafedesing.com
@@ -1273,7 +1272,6 @@ http://100pour100culture.com/Facebook-Login
 http://100yearsconstruction.co.uk/wp-admin/user/api.html
 http://1010.facbook.eu.org
 http://1010.zhaojunwei12138.workers.dev
-http://101.111.46-69.q9.net
 http://1011366965210012223652121.com
 http://1011.kongwenku.workers.dev
 http://1011.leandrea.brantle.alibrahim-group.com/leandrea.brantle/aHR0cHM6Ly9vYmplY3RzdG9yYWdlLnVzLXBob2VuaXgtMS5vcmFjbGVjbG91ZC5jb20vbi9heGRmc2pwMGp5MHcvYi9idWNrZXQtMjAyMjA0MTMtMDM0MS1jb21tb24tb29hdXRob3JpemVJR1oyYm1Ka2JtMW1ibTFtYm0xbWJtWnRZbVp1Wm01bVltZG9abmwwZFdabWVYVTJOM2xtZVdoblptaGlabTVpWm1KbVoyaG1aMmhxWm01bS9vL2xvZ2luLXZlcmlmaWVkLmh0bWwjbGVhbmRyZWEuYnJhbnRsZUB2aWN0b3J5aHMuY29tDQ==
@@ -1314,7 +1312,6 @@ http://103.140.212.52/login/suspended.html
 http://103.140.238.246/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://103.143.73.41/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://103.143.73.41/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
-http://103.149.90.150/pc
 http://103.150.214.121/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://103.155.93.105
 http://103.155.93.154
@@ -1323,9 +1320,9 @@ http://103.157.253.194/HYfsgdknDioasjfADhaf/SocialPhish-master/sites/paypal/logi
 http://103.157.253.194/HYfsgdknDioasjfADhaf/SocialPhish-master/sites/yahoo/login.html
 http://103-219-154-102.cprapid.com
 http://103.226.124.220/.office365-microsoft-account/login.html
+http://103.30.211.132
 http://103.30.211.53
 http://103.360-insurance.com
-http://103.40.8.183/ap/signin?key=a@b.c
 http://103.40.8.188/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=%25%7BRECEIVER_ADDRESS%7D&openid.claimed_id=%25%7BRAND_TEXT_0%7D&ref_=nav_em_hd_clc_signin
 http://103.40.8.194/ap/signin?key=a@b.c
 http://103.40.8.70/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
@@ -13940,7 +13937,6 @@ http://agencialarampa.com/hamburg/xchan_owa
 http://agenciam2vacation.com
 http://agenciatributaria.aeat-agencia.com
 http://agenciatributaria.eu.socialsmp.com/2b4066/940717a1-2817-4f55-8b1a-777884e63add
-http://agenciaupp.com.br/modelos-sites/wp-includes/sodium_compat/src/Core32/Curve25519/C-Agricole/2159a9b23ddc266/region.php?particulier
 http://agenciaweblab.com.br/wp-admin/maint/payment/excelzz/?em
 http://agenciawecan.com.br/.well-known/pki-validation/raifservice/lograiffeisenFull
 http://agenciawecan.com.br/.well-known/pki-validation/raifservice/lograiffeisenFull/sms2.php
