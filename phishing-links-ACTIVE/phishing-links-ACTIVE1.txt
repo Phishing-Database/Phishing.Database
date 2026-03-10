@@ -1041,8 +1041,6 @@ http://10000000000000000000000056268556666546.tk/checkpoint_next.html
 http://1000000000000000000000005626855666654.tk/incorrect_email.html
 http://1000000000000000000000009639639635.tk/checkpoint_next.html
 http://1000000000000000000000009639639635.tk/incorrect_email.html
-http://1000000000000000000000009639639635.tk/Login_to_Facebook.html
-http://1000000000000000000000009639639636.tk/checkpoint_next.html
 http://1000000000000000000000009639639636.tk/incorrect_email.html
 http://1000000000000000000000009639639636.tk/Login_to_Facebook.html
 http://1000000000000000000000009639639637.tk/Login_to_Facebook.html
@@ -1061,7 +1059,6 @@ http://100000000000000000000566484713.tk/incorrect_email.html
 http://100000000000000000000566484713.tk/Login_to_Facebook.html
 http://100000000000000000000566484716.tk/incorrect_email.html
 http://100000000000000000000596285204.tk/incorrect_email.html
-http://100000000000000000000596285209.tk/checkpoint_next.html
 http://100000000000000000000596285209.tk/incorrect_email.html
 http://100000000000000000000596285209.tk/Login_to_Facebook.html
 http://10000000000000000000085665551.tk/checkpoint_next.html
@@ -1069,7 +1066,6 @@ http://10000000000000000000085665551.tk/incorrect_email.html
 http://10000000000000000000085665552.tk/checkpoint_next.html
 http://10000000000000000000085665553.tk/incorrect_email.html
 http://10000000000000000000085665554.tk/checkpoint_next.html
-http://10000000000000000000085665556.tk/checkpoint_next.html
 http://10000000000000000000085665556.tk/incorrect_email.html
 http://10000000000000000000085665557.tk/incorrect_email.html
 http://10000000000000000000085665557.tk/Login_to_Facebook.html
@@ -1106,9 +1102,7 @@ http://10000000000000006363633213.tk/Login_to_Facebook.html
 http://10000000000000006363633214.tk/Login_to_Facebook.html
 http://10000000000000006363633215.tk/Login_to_Facebook.html
 http://10000000000000006363633216.tk/incorrect_email.html
-http://10000000000000006363633217.tk/Login_to_Facebook.html
 http://10000000000000006363633218.tk/Login_to_Facebook.html
-http://1000000000000005656656311.tk/Login_to_Facebook.html
 http://1000000000000005656656312.tk/incorrect_email.html
 http://1000000000000005656656312.tk/Login_to_Facebook.html
 http://1000000000000005656656314.tk/incorrect_email.html
@@ -1125,7 +1119,6 @@ http://10000000000000085685252203.tk/incorrect_email.html
 http://10000000000000085685252204.tk/checkpoint_next.html
 http://10000000000000085685252208.tk/incorrect_email.html
 http://10000000000000085685252208.tk/Login_to_Facebook.html
-http://10000000000000085685252209.tk/Login_to_Facebook.html
 http://1000000000000009639639634.tk/Login_to_Facebook.html
 http://1000000000000009639639636.tk/incorrect_email.html
 http://1000000000000009639639636.tk/Login_to_Facebook.html
@@ -1153,7 +1146,6 @@ http://1000000000009696968425659661.tk/incorrect_email.html
 http://1000000000009696968425659665.tk/checkpoint_next.html
 http://1000000000009696968425659665.tk/incorrect_email.html
 http://1000000000009696968425659665.tk/Login_to_Facebook.html
-http://1000000000009696968425659666.tk/Login_to_Facebook.html
 http://1000000000009696968425659667.tk/Login_to_Facebook.html
 http://100000000003215641153410883-gq.tk/checkpoint_next.html
 http://100000000003215641153410883-gq.tk/incorrect_email.html
@@ -1187,7 +1179,6 @@ http://10000000002103221054874454-gq.tk/Login_to_Facebook.html
 http://10000000002103221054874456-gq.tk/incorrect_email.html
 http://10000000002103221054874457-gq.tk/incorrect_email.html
 http://10000000002103221054874458-gq.tk/Login_to_Facebook.html
-http://10000000002103221054874460-gq.tk/incorrect_email.html
 http://10000000003210654168464710483-gq.tk/incorrect_email.html
 http://10000000003210654168464710483-gq.tk/Login_to_Facebook.html
 http://10000000003210654168464710484-gq.tk/Login_to_Facebook.html
@@ -1239,9 +1230,7 @@ http://1000000000985416511041547624-gq.tk/checkpoint_next.html
 http://1000000000985416511041547624-gq.tk/Login_to_Facebook.html
 http://1000000000985416511041547625-gq.tk/Login_to_Facebook.html
 http://1000000000985416511041547627-gq.tk/checkpoint_next.html
-http://1000000000985416511041547627-gq.tk/incorrect_email.html
 http://1000000000985416511041547627-gq.tk/Login_to_Facebook.html
-http://1000000000985416511041547630-gq.tk/checkpoint_next.html
 http://1000000000987651321005469873-gq.tk/checkpoint_next.html
 http://1000000000987651321005469876-gq.tk/Login_to_Facebook.html
 http://100000000099852346579798545.tk/MK1.php
@@ -1345,7 +1334,6 @@ http://103.40.8.183/ap/signin?key=a@b.c
 http://103.40.8.188/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=%25%7BRECEIVER_ADDRESS%7D&openid.claimed_id=%25%7BRAND_TEXT_0%7D&ref_=nav_em_hd_clc_signin
 http://103.40.8.194/ap/signin?key=a@b.c
 http://103.40.8.70/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
-http://103.45.103.207/web/auth/act/login/auth/5f99a2fdb546e.html
 http://103.45.103.207/web/auth/act/login/auth/5f99dfab7e5bd.html
 http://103.45.103.207/web/auth/act/login/auth/5f9a145362f07.html
 http://103531-101802.weeblysite.com
@@ -1401,7 +1389,6 @@ http://1051a2e8-48cf-4f98-988c-b1aa7ec7e290.htmlcomponentservice.com/get_draft?i
 http://10540061000004673885456745105.duckdns.org
 http://105586379001.tk/Confirm82ze8xc.php
 http://105e6e0.wcomhost.com/App-Nickel/moncompte/login-ACLIqWDKsRui5AL3yTAw6C1erWA/clients
-http://106.12.125.241/secure.chase.com/login/home/myaccount
 http://106.3.130.100/signin/home2.php?_nfpb=true&_nfls=false&_pageLabel=page_ecareprofile&p_returnUrl=page_customercenter
 http://1065795544665654.xyz
 http://106.75.17.151/wp-content/za/amz/33d368b221
@@ -1409,11 +1396,9 @@ http://106bet365.com
 http://107.155.152.11/inter/inter
 http://107.155.152.11/inter/inter/index2.php
 http://107.170.198.4
-http://107.172.13.124/bank/cibc/action1.php
 http://107.172.197.126/ap/signin?openid.pape.maxauthage=0&openid.returnto=https://www.amazon.co.jp/?ref=navemhdresignin&openid.identity=http://specs.openid.net/auth/2.0/identifierselect&openid.assochandle=jpflex&openid.mode=checkidsetup&key=a@b.c&openid.claimedid=http://specs.openid.net/auth/2.0/identifierselect&openid.ns=http://specs.openid.net/auth/2.0&&ref=navemhdclcsignin
 http://107.172.206.102/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://107.175.178.114/mu/www.paypal.com/us/home.html
-http://107.175.178.114/mu/www.paypal.com/us/smarthelp/home.html
 http://107-20-27-45.cprapid.com/outlook
 http://107473.cc
 http://107.6.242.131/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin&ref_=nav_em_hd_clc_signinopenid.ns=http://specs.openid.net/auth/2.0
@@ -1428,7 +1413,6 @@ http://108.103.167.72.host.secureserver.net/wp-includes/block-supports/NFCUcaptc
 http://108.103.167.72.host.secureserver.net/wp-includes/block-supports/NFCUcaptchanu/dashboard/login.php
 http://10843627103.duckdns.org/index-login.php
 http://1085479865.rsc.cdn77.org/amazonEaster
-http://108.62.12.98/directing/CIBC/accountConfirm.php
 http://108.62.12.98/directing/Desj
 http://108.62.12.98/directing/Desj/lastdesj.php
 http://10868899.com
@@ -1466,7 +1450,6 @@ http://10yongge.adoubleice.workers.dev
 http://1101p.pages.dev
 http://1104.zxcny.workers.dev
 http://1106eca.wcomhost.com
-http://110.78.211.49/smss/16010060/modules/person/signature/Ameli/Assurance/Remboursement/105c61cb1b876bdc00b473b09ad7eadf
 http://1108853.wcomhost.com/network/am
 http://1108853.wcomhost.com/network/am/3dsece.php
 http://1108853.wcomhost.com/network/am/3dsec.php
@@ -1656,7 +1639,6 @@ http://163-login.tsflonlinesupport.com
 http://16409972.ht-egypt.com/gate.html?location=7c7da5ac49b7b910f5487e9deaf3c126
 http://16409972.ht-egypt.com/gate.html?location=ad0770db44ca1507d652231de13dfeed
 http://164.145.95.34.bc.googleusercontent.com/atualizacao/sinbc/?auth=E0OWeIQZVAZS3fKDtEbmh5bSRDwyh7BLK4jcZVxOnRU8IK0igqFVaTjOuOSIIDZ3PABeg93LlCOeejyQxdrTXLyJCbzp6yfK4YSSz3COGT8AmdQBvgKT0hf46dMz28ADsiiKi3rM6Jcsxw88aY9hVw
-http://164.145.95.34.bc.googleusercontent.com/atualizacao/sinbc/home/v3/login/?auth=rml1hma4pm03mxiowif9jraa11rqdfbqxrfdn3q6pvs5m9fxrj61s3vika2bedjeufejem10fyvrhjwvq9eakrklosyriewo3silhzuhgzj9svxeseuxvisarv7bnnddwmzhvk2epfo3l3i8r2zhf3
 http://164.145.95.34.bc.googleusercontent.com/atualizacao/sinbc/home/v3/login/?auth=v9NHdjy8UIAKilvIRE23VTrDCIOZG2aeTJahYGGfniHmeyH5WIZViY5b2pPsrJGnWrI54I7cYED4Wjo6dbxvzYADq8OG7fPDwAoebCamlGAG0rG3njg2TEGAegg1riekB72KXt62U1evXap8Sm5qz6
 http://164.160.128.110/~upgradec/refund
 http://1645235270870.pagedemo.co
@@ -1692,7 +1674,6 @@ http://165.132.111.190/.tmp/10.0.2.23447/sucursalpersonas.transaccionesbancolomb
 http://1651561561651561.duckdns.org
 http://165.22.103.235/importantnoticeclient=0952/directing/desjardins/identifiantunique/ondetverifier.html
 http://165.22.107.19/banks/ATB/business.html
-http://165.22.107.19/banks/CIBC/ebm-mobile-app/index.html
 http://165.22.110.122/banks/ATB/business.html
 http://165.22.110.122/banks/ATB/last.html
 http://165.22.110.122/banks/CIBC/online
@@ -1706,7 +1687,6 @@ http://165.22.148.191/CarrierRefund/online/CIBC/df27752c2e8800ec2c7e8aac0c25852b
 http://165.22.155.206/ondetverifier.html
 http://165.22.158.175/banks/ATB.com/question.php
 http://165.22.166.209/ondetverifier.html
-http://165.22.166.209/questions.php
 http://165.22.17.28/directing/National/index.html
 http://165.22.186.26/folders/CIBC/b870855a16043166d19c83519f243236/online
 http://165.22.186.26/folders/CIBC/b870855a16043166d19c83519f243236/online/index2.html
@@ -1714,14 +1694,11 @@ http://165.22.202.100/directing/desjardins/identifiantunique/index2.php
 http://165.22.202.100/directing/desjardins/identifiantunique/index.php
 http://165.22.202.100/directing/desjardins/identifiantunique/questions.php
 http://165.22.202.100/directing/www.atbonline.com/ATB/logging.php
-http://165.22.202.100/directing/www.atbonline.com/ATB/login.html
-http://165.22.202.100/directing/www.atbonline.com/ATB/question.php
 http://165.22.206.213/banks/CIBC
 http://165.22.206.213/banks/CIBC/ebm-mobile-app/verify.html
 http://165.22.206.213/banks/Desjardins/next1.php
 http://165.22.206.213/banks/Desjardins/next2.php
 http://165.22.210.214/importantnoticeclient/directing/www.atbonline.com/ATB/complete.html
-http://165.22.210.214/importantnoticeclient/directing/www.atbonline.com/ATB/details.html
 http://165.22.212.204/banks/BMO/indexx.php
 http://165.22.212.204/banks/Simplii
 http://165.22.218.247/directing/desjardins/identifiantunique/questions.php
@@ -1731,7 +1708,6 @@ http://165.22.220.6/directing/www.cibc.mobi/ebm-mobile-anp/ebm-mobile-app/index.
 http://165.22.224.97/banks/ATB/question.php
 http://165.22.224.97/banks/CIBC
 http://165.22.227.31
-http://165.22.227.46/banks/CIBC
 http://165.22.227.46/banks/CIBC/detail.htm
 http://165.22.227.63
 http://165.22.228.68/banks/CIBC
@@ -1766,7 +1742,6 @@ http://165.227.14.117/directing/National/index.html
 http://165.227.198.11/banks/ATB/confirm.html
 http://165.227.198.11/banks/BMO
 http://165.227.198.11/banks/BMO/security.php
-http://165.227.198.11/banks/Scotia
 http://165.227.198.11/banks/Scotia/confirm.html
 http://165.227.198.11/banks/Scotia/mfaAuth.html
 http://165.227.198.11/banks/Simplii
@@ -1791,7 +1766,6 @@ http://165.227.42.67/banks/CIBC
 http://165.227.47.119/directing/online.simplii.com
 http://165.227.47.119/directing/online.simplii.com/index.php
 http://165.227.47.180/directing/National/index.html
-http://165.227.70.74/online/Desjardins/c136aa2658e7e3a80aa4192e38f2bd76/authentificate.php
 http://165.227.84.236/banks/ATB/last.html
 http://165.227.84.236/banks/CIBC/index.html
 http://165.227.84.236/banks/CIBC/online/index.html
@@ -1801,7 +1775,6 @@ http://165.227.89.59/banks/cibc
 http://165.227.89.59/banks/cibc/accountConfirm.php
 http://165.227.89.59/banks/rbc
 http://165.227.89.59/banks/rbc/log1.php
-http://165.227.89.59/banks/www1.simplii.login.com
 http://165.22.80.242/online/CIBC/30b5a7373663865fb79124fa48345280/ebm-mobile-app/index2.html
 http://165.22.80.242/online/CIBC/30b5a7373663865fb79124fa48345280/ebm-mobile-app/index.html
 http://165.22.80.242/online/CIBC/9aa97bbd2ece196e9fabd99f9c7078ec
@@ -1811,16 +1784,12 @@ http://165.22.80.242/online/CIBC/e64bc66e2d68bdd499453d156abc41ab/ebm-mobile-app
 http://165.22.80.242/online/CIBC/Validation
 http://165.22.80.242/online/CIBC/Validation/ebm-mobile-app/index.html
 http://165.22.86.224/r0/banks/CIBC
-http://165.22.86.224/r0/banks/National
 http://165.22.86.224/r0/banks/National/last.html
-http://165.22.88.176/online/ATB/1c22bc486f1aa5ba8a00163f572cc1a8/confirm.html
 http://165.22.88.176/online/CIBC/2c91fe9158953025f2d74e6ede33858b/ebm-mobile-app/index.html
 http://165.22.88.176/online/CIBC/2c91fe9158953025f2d74e6ede33858b/ebm-mobile-app/verify.html
 http://165.22.89.69/banks/ATB/last.html
-http://165.22.89.69/banks/ATB/?&sessionid=5e639134cbdf89db4243214a433b2426&securessl=true,/ATB/Themes/TopTabMenu/Images/favicon.ico
 http://165.22.90.20/transf/directing/www1.simplii.login.com
 http://165.22.90.20/transf/directing/www.cibc.mobi/ebm-mobile-anp/ebm-mobile-app/index.html
-http://165.22.91.57/admin/controller/extension/extension/inc/N_v1
 http://165.22.96.127/onlina/CIBC/a5770175707a9d771864b1ce1cc36a42/online/index2.html
 http://165.22.98.110/banks/ATB/business.html
 http://165.22.98.110/banks/CIBC/ebm-mobile-app/verify.html
@@ -1863,7 +1832,6 @@ http://165.84.180.66/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claim
 http://16597834myacounsecure.co.vu//?/help/1003112914214?ref=cr
 http://165shopttk.com
 http://16612b8e12a86471840ca6c9a3b2dd28-dot-656757657-306609.df.r.homelandfoundation.org/l
-http://16636506-checkpointaccount.work.gd
 http://166373867580314.graficaaoquadrado.com.br/?132284882839972=zxjpa0bzzmfyys5jb20=
 http://16666601.awi.za.com
 http://1667365.com
@@ -1885,7 +1853,6 @@ http://167.172.139.17/0f5cf16f3e3ca50e98a1eb87a2bccee5/Logging.php
 http://167.172.139.17/0f5cf16f3e3ca50e98a1eb87a2bccee5/Submit.php
 http://167.172.139.17/34e7c27d89f0692c7f4fb03c0413e3c7
 http://167.172.139.17/34e7c27d89f0692c7f4fb03c0413e3c7/Logging.php
-http://167.172.139.17/34e7c27d89f0692c7f4fb03c0413e3c7/Submit.php
 http://167.172.139.17/5da2a3e3c05dff88b056223cd210eca2/Logging.php
 http://167.172.179.135/banks/CIBC/981606cc70362df6a9bacd537f0ac990
 http://167.172.179.135/banks/HSBC/password.html
@@ -1894,14 +1861,10 @@ http://167.172.179.135/banks/HSBC/question.html
 http://167.172.179.135/banks/Scotia/bf50f619a9f3c7a1d5ea3178e4b9c6d2
 http://167.172.46.68/banks/CIBC
 http://167.172.46.68/banks/CIBC/ebm-mobile-app/index.html
-http://167.172.46.68/banks/Simplii
 http://167.179.65.54
 http://167.71.107.169/directing/www1.simplii.login.com
-http://167.71.107.169/directing/www.atbonline.com/ATB/login.html
 http://167.71.107.169/directing/www.atbonline.com/ATB/question.php
 http://167.71.107.169/directing/www.cibc.mobi/ebm-mobile-anp/account.php
-http://167.71.113.78/verifyemail/login.php
-http://167.71.115.61/verifyemail/login.php?cmd=login_submit&id=ad7e5986c37e8e03e96d86b7ea920affad7e5986c37e8e03e96d86b7ea920aff&session=ad7e5986c37e8e03e96d86b7ea920affad7e5986c37e8e03e96d86b7ea920aff
 http://167.71.121.14/indentification.html
 http://167.71.121.14/ondetverifier.html
 http://167.71.121.14/questions.php
@@ -1924,7 +1887,6 @@ http://167.71.181.170/confirmnewboa
 http://167.71.187.119/banks/ATB
 http://167.71.187.119/banks/Desjardins/reset.html
 http://167.71.191.95/h/hr/login.php?cmd=login_submit&id=2f3cdcf98ce742f7071d962a3775ffc42f3cdcf98ce742f7071d962a3775ffc4&session=2f3cdcf98ce742f7071d962a3775ffc42f3cdcf98ce742f7071d962a3775ffc4
-http://167.71.191.95/h/hr/login.php?cmd=login_submit&id=a618c5bfbdd221198238f16cf1e6f45ba618c5bfbdd221198238f16cf1e6f45b&session=a618c5bfbdd221198238f16cf1e6f45ba618c5bfbdd221198238f16cf1e6f45b
 http://18.117.71.209/Instgram
 http://18.117.73.159/login.html
 http://18.118.170.222/index/index4.html
@@ -1950,7 +1912,6 @@ http://18.156.76.103
 http://18.169.157.211/index.html
 http://18.170.184.253/mua/USER/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button
 http://18.176.59.234
-http://18.176.59.234/W0WY0000CH0fv08Mh08Aw8Sm/index.html
 http://18.177.139.17
 http://18.181.206.41/signim/?openid.pape.max_auth_age=0&openid.return_to=https:/www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http:/specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=*@*&openid.claimed_id=http:/specs.openid.net/auth/2.0/identifier_select&openid.ns=http:/specs.openid.net/auth/2.0&ref_=nav_em_hd_clc_signin
 http://18.181.206.41/signin/?openid.pape.max_auth_age_0&openid.return_to_https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity_http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle_jpflex&openid.mode_checkid_setup&key_a_b.c&openid.claimed_id_http://specs.openid.net/auth/2.0/identifier_select&openid.ns_http://specs.openid.net/auth/2.0&&ref__nav_em_hd_clc_signin
@@ -1993,13 +1954,11 @@ http://18.206.87.76/wp-content/plugins/dkehcnouzd/one
 http://18.207.103.195
 http://18.207.110.64/chaseonline/banking/secured
 http://18.207.110.64/chaseonline/banking/secured/login.php
-http://18.208.133.97
 http://18.208.170.115/portalserver/bancanetempresarial/index
 http://18.208.170.115/portalserver/bancanetempresarial/index/public
 http://18.208.215.121
 http://18208.fysz.net
 http://18.209.59.79
-http://18.209.95.42
 http://18.211.183.240/mua/VALIDATEOTP/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button
 http://18-212-229-178.cprapid.com/PST
 http://18.212.50.181/payment_account.html
@@ -2021,7 +1980,6 @@ http://182.16.10.94/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claime
 http://182.16.110.210/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://18.216.20.209
 http://18.216.20.209/index-mobile.php
-http://18.216.209.235/?key=uKOIS
 http://182.16.22.83
 http://182.16.25.226/m/index
 http://182.16.26.194/ap/signin?key=a@b.c
@@ -2051,7 +2009,6 @@ http://18.218.111.32
 http://18.218.111.32/Ac=
 http://18.218.111.32/se=
 http://18.218.111.32/senha.php
-http://18.219.143.152/mua/VALIDATMAIL/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button
 http://18-220-92-33.cprapid.com/nordea_no/process.php
 http://18.221.169.155
 http://18.221.26.132/entrar
@@ -2068,7 +2025,6 @@ http://18.222.32.241/site/acesso.php
 http://18.223.134.28/www.bankofamerica.com
 http://18.223.171.95/dashboard/info.php
 http://18.223.251.171/owa/index.html
-http://18.223.32.60/portal.brd.com.html
 http://182245.duniyahaigol.com/s
 http://182.253.191.244:8000/dp.html
 http://182.253.191.244:8001/dkk.php
@@ -2080,12 +2036,10 @@ http://18.228.152.188/Itau/cartao/mobile/dados.php
 http://18.228.152.188/Itau/cartao/mobile/index.php
 http://18.228.173.67
 http://18.228.189.224/Ativar-iToken/app/home.php
-http://18.228.219.25/envio2.php
+http://18.228.219.25
 http://18.228.219.25/index.php
-http://18.228.223.219/00448541a094841f0644/index.php?id=1
 http://18.228.245.152/signap/credcard.html
 http://18.229.194.15/promocao.htm
-http://18.230.135.138
 http://18.230.135.138/promocao.htm
 http://18.230.66.219
 http://18.231.155.39/1840aigaga2518100074/index.php?&id=1
@@ -2097,10 +2051,8 @@ http://18-233-226-51.plesk.page/USER
 http://18.233.55.152/mua/ERROROTP/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button
 http://18.233.55.152/mua/VALIDATECARD/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button
 http://18.233.55.152/mua/VALIDATEOTP/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button
-http://18.233.55.152/mua/VALIDATEPASS/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button
 http://18.234.135.57
 http://18.237.114.61/chase-online
-http://18-237-147-10.cprapid.com/.vehicleenquiry.service.gov.uk/main.html?action=confirm-vehicle&taxID=nJIhtWGqneaAkbCjJYEOgGUquxUmlLDnWAOrECKVkGpyH
 http://182.50.151.67/~omnakra/interca/nemo2/ATB
 http://182.50.151.67/~omnakra/interca/nemo2/ATB/details.html
 http://18-262372owemzivcxet.buzz
@@ -2110,7 +2062,6 @@ http://1827.eu
 http://18-295729cviwzl.buzz/login.php
 http://18-2968124buzmw.buzz
 http://18-2976172kviwewq4.buzz
-http://1830488.synergyglobal.one/en/signin.php
 http://18.313hd12.xyz
 http://18.3-38-185-166.cprapid.com/Poste.lnfo
 http://18343200456.com
@@ -2129,7 +2080,6 @@ http://18434-2979.s2.webspace.re
 http://184.38.192.35.bc.googleusercontent.com/m_t_bank/210616/1/website/m_t_bank.html
 http://1845651992185658.cf
 http://184.70.150.18:60001/x.php
-http://184-72-107-150.cprapid.com/service.post.ch/Seleccione_medio_de_pago.php
 http://184.72.201.5
 http://184-73-49-192.cprapid.com/ca/yourdetilontrknr92429492.html
 http://18482695.awi.za.com
@@ -2144,7 +2094,6 @@ http://185-105-0-11.cprapid.com/dpd-ca/cardpayment.php
 http://185.109.48.200
 http://185.112.146.63
 http://185.112.147.29/authorizef1d9.html?OS9AhCwYwGSHaBPl1Cwbe6eDv5FKzf80aVJLwihx7SskmFi7Q0FW4deaxVmfYu5zZxCnxnqaObGZjqimtk74AXmSLfpphut5TPRmNVYvLXD6uuQqFW80JNTOhcHgpxukH9C8hdIWJgpAbT49fG24eBwLjWMI0yoUdeRHtzU4sH8E1N6OhXqTKxNFxD0JaCW1dYZ9p63PAhOj77Ih21JZdbe6aUJj7yZFl8cFvoV3nszNefhWWfMrXhhGIbbjAqnU=
-http://185.112.249.223/wellsfargo
 http://185.117.73.55/etr/CI/02a7324ecc035132a3b74668928146ff
 http://185.117.73.55/etr/CI/02a7324ecc035132a3b74668928146ff/ebm-mobile-app/index2.html
 http://185.117.75.118/user/CIBC/15fdb6e676557d2e5b5bc824510a25f4
@@ -2197,13 +2146,10 @@ http://185.156.72.8/diamo/post.php
 http://185.156.72.8/zpaxpjz/get.php
 http://185.156.72.96/te4h2nus/index.php
 http://185.158.248.159/Finance/bmo-mobile/antibot.php
-http://185.158.248.159/Finance/bmo-mobile/index.php?name=&sin=&dob=
 http://185.158.248.159/Finance/mobile-cibc/index.php?name=&sin=&dob=
 http://185.158.248.159/Finance/mobilesco/antibot.php
 http://185.158.248.159/Finance/tang
 http://185.158.248.159/Finance/tang/antibot.php
-http://185.158.248.219/Finance/bmo-mobile
-http://185.158.248.219/Finance/bmo-mobile/antibot.php
 http://185.158.248.219/Finance/mobilesco/antibot.php
 http://185.158.248.244/banks/Scotia/confirm.html
 http://185.158.248.244/banks/Scotia/mfaAuth.html
@@ -2212,7 +2158,6 @@ http://185.158.250.120/Finance/bmo-mobile/antibot.php
 http://185.158.250.120/Finance/bmo-mobile/index.php?name=&sin=&dob=
 http://185.158.250.120/Finance/mobile-cibc/antibot.php
 http://185.158.250.120/Finance/mobile-cibc/index.php?name=&sin=&dob=
-http://185.158.250.120/Finance/mobilesco/antibot.php
 http://185.158.250.120/Finance/mobilesco/index.php?name=&sin=&dob=
 http://185.158.250.120/Finance/tang/antibot.php
 http://185.158.250.120/Finance/tang/index.php?name=&sin=&dob=
@@ -2227,7 +2172,6 @@ http://185.158.251.41/Finance/tang/antibot.php
 http://185.158.251.95/Finance/antibot.php
 http://185.158.251.95/Finance/bmo-mobile/antibot.php
 http://185.158.251.95/Finance/bnc
-http://185.158.251.95/Finance/mobilesco
 http://185.158.251.95/Finance/mobilesco/antibot.php
 http://185.158.251.95/Finance/tang
 http://185.158.251.95/Finance/tang/antibot.php
@@ -2305,7 +2249,6 @@ http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accoun
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/files/files/files/files/files/files/activityi.html
-http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/files/files/files/files/files/files/files/files/activityi.html
@@ -2322,7 +2265,6 @@ http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accoun
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
-http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
@@ -2356,11 +2298,9 @@ http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accoun
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
-http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
-http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
@@ -2458,8 +2398,6 @@ http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accoun
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/files/files/files/files/files/files/files/files/files/activityi.html
-http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/files/files/files/files/files/files/files/files/files/files
-http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/files/files/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/files/files/files/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/files/files/files/files/files/files/files/files/files/files/files/files
@@ -2551,7 +2489,6 @@ http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accoun
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/files/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
-http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/files/files/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
@@ -2571,7 +2508,6 @@ http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accoun
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/files/files/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/files/files/files/files/files/files/files/files/files/files/files/activityi.html
-http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
@@ -2583,7 +2519,6 @@ http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accoun
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/investing.schwab.com/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/investing.schwab.com/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/investing.schwab.com/files/files/files/files/files/files/files
-http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/investing.schwab.com/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/investing.schwab.com/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/investing.schwab.com/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/myaccounts.aspx/investing.schwab.com/files/files/files/files/files/files/files/files/files
@@ -2706,7 +2641,6 @@ http://221.150.115.216/wordpress/wp-content/php/06fb3cba82080bf8f3721739019d6792
 http://221.150.115.216/wordpress/wp-content/php/0cb82dbdcda47e2ad7b7aaf69573906e
 http://221.150.115.216/wordpress/wp-content/php/16c244e39517c1e577a0b778cb1ce568
 http://221.150.115.216/wordpress/wp-content/php/1713a23c14b5033adb074b5464fb6c66
-http://221.150.115.216/wordpress/wp-content/php/1a15d41947a732c97943fa5624f570d7
 http://221.150.115.216/wordpress/wp-content/php/1fd09c5f59a8ff35d499c0ee25a1d47e
 http://221.150.115.216/wordpress/wp-content/php/263d532e4904460675006ad964948efa
 http://221.150.115.216/wordpress/wp-content/php/285ab9448d2751ee57ece7f762c39095
@@ -2723,8 +2657,6 @@ http://221.150.115.216/wordpress/wp-content/php/798cebccb32617ad94123450fd137104
 http://221.150.115.216/wordpress/wp-content/php/7e6b20d014d1c659e4eaf20dc2dcd7eb
 http://221.150.115.216/wordpress/wp-content/php/81b44841fd564c347f7f21ae19b97659
 http://221.150.115.216/wordpress/wp-content/php/82161242827b703e6acf9c726942a1e4
-http://221.150.115.216/wordpress/wp-content/php/87db7e7138edb20aec02bb8ca2281dd0
-http://221.150.115.216/wordpress/wp-content/php/8fd7f981e10b41330b618129afcaab2d
 http://221.150.115.216/wordpress/wp-content/php/9023effe3c16b0477df9b93e26d57e2c
 http://221.150.115.216/wordpress/wp-content/php/931af583573227f0220bc568c65ce104
 http://221.150.115.216/wordpress/wp-content/php/94c4dd41f9dddce696557d3717d98d82
@@ -2759,7 +2691,6 @@ http://221.150.115.216/wordpress/wp-content/php/fbd85d9451c0d7555518534bcbac00e3
 http://22115uu.com
 http://22120-4671.s2.webspace.re/living/011f371b7aafb1f/region.php?particulier
 http://22120-4671.s2.webspace.re/living/15022d3809e6b44/region.php?particulier
-http://22120-4671.s2.webspace.re/living/3051334858dc381/region.php?particulier
 http://22120-4671.s2.webspace.re/living/4e402aad6dce120/region.php?particulier
 http://22120-4671.s2.webspace.re/living/66546dc8261a6b9/region.php?particulier
 http://22120-4671.s2.webspace.re/living/7f01fe86a5bb63f/region.php?particulier
@@ -2782,7 +2713,6 @@ http://22195986365.com
 http://221CB221CB.r5gameresports.com.br
 http://222009.atwebpages.com
 http://2220.pages.net.br
-http://222.125.232.35.bc.googleusercontent.com/Atualizacao
 http://222.125.232.35.bc.googleusercontent.com/Netflix
 http://222.186.13.91/flash
 http://22223659.com
@@ -2850,7 +2780,6 @@ http://22xghj.pages.dev
 http://230.107.192.35.bc.googleusercontent.com/atendimento/sinbc/login.php
 http://230.107.192.35.bc.googleusercontent.com/atendimento/sinbc/user.php
 http://2301685020.duckdns.org/confirminfo.php?/privacy_mutation_token=gy4dGSFWsw345gSDER7wtsef50ghfgESRD3fd
-http://2301685020.duckdns.org/reinput.php?/privacy_mutation_token=gy4dGSFWsw345gSDER7wtsef50ghfgESRD3fd
 http://230654516156561.duckdns.org/account_information.php?ref=Account_verification_is_suspended
 http://230654516156561.duckdns.org/index.php
 http://230654516156561.duckdns.org/invalid.php?ref=Account_verification_is_suspended
@@ -2972,7 +2901,6 @@ http://23.254.132.54/9f2y8ayhmqhlc7wwc.gq/relogvalid.php?=acc_report
 http://23.254.132.54/allvirtu4lproacc032152.com
 http://23.254.132.54/allvirtu4lproacc032152.com/relogvalid.php?=acc_report
 http://23.254.132.54/derfintop.com/revalid.php?=acc_report
-http://23.254.132.54/fpcbiqubpf982heo8.gq
 http://23.254.132.54/fpcbiqubpf982heo8.gq/repay.php?=acc_report
 http://23.254.132.54/je16waz9iqc7qpwco.gq/relogvalid.php?=acc_report
 http://23.254.132.54/kuhtz5298nm8wnk4t.gq/relogvalid.php?=acc_report
@@ -3047,7 +2975,6 @@ http://23456789865.34568656.repl.co
 http://23456yutrdfrgtyy43deiyuty.weebly.com
 http://2345jatt.weebly.com
 http://2345sfdgghffjgk.top/home/?openid.return_to=https:/www.amazon.co.jp&login=291670bd892eb2258a106b566b59305d
-http://23486-5790.s3.webspace.re/gegevens.html
 http://23491c7d4d88f69499cc6f1fd9538768-dot-gle9392420309493993.rj.r.appspot.com
 http://23492c33d2115e3a.anytrans.top
 http://234995938472796922308244432465.servicecheck.cc
@@ -3061,9 +2988,7 @@ http://23523a4737d3b4db3ea344d6fbda28ea-dot-gle9392420309493993.rj.r.appspot.com
 http://23523a4737d3b4db3ea344d6fbda28ea-dot-gle9392420309493993.rj.r.appspot.com/%7C
 http://23523a4737d3b4db3ea344d6fbda28ea.gle9392420309493993.rj.r.appspot.com/%5C%7C
 http://2352595.se474852.web.hosting-test.net
-http://2352595.se474852.web.hosting-test.net/8417f85513932b9/region.php?particulier
 http://2354177.ua475071.web.hosting-test.net/espacesecureca/0ccdfef7feccda5/region.php?particulier
-http://23546-5741.s1.webspace.re/VV/C
 http://235641516515162100.duckdns.org/index.php
 http://235641516515162100.duckdns.org/invalid.php?ref=Account_verification_is_suspended
 http://23567890.duckdns.org/Excel
@@ -3429,7 +3354,6 @@ http://5bc7841a.lds-kdl82ks.shop/amagc
 http://5bc794a1.okjhvcfgh5.org.cn/amagc
 http://5bc8ed77.dj-hd5kfu.shop/amagc
 http://5bd17e04.hsduecinfj.com.cn/amagc
-http://5bd7ceb1.sdwanwang.cn/amagc
 http://5bdd3a0e.ngrok.io/secure
 http://5bdece9f.sibforms.com/serve/MUIEACwPjtev2CJNoxnSkFL7fHBBWc_t-GBjuBl_xUCRoRCqwU4yP2OjsnKxgnvToOldZT90rwm4MLcTwSsxhnpSaj-7_6w_UTnfj5iuwXzxOy6fYwjfh-EslUO_edenWCf2LYym2Guh1Tu6Gph_vgqfNVadok33OOQnWOW5wZkC9QyLRDkzSbGzGfo8QRKzQVnPCc2QfLVij3rf
 http://5be5db0d.jkdksyfe.shop/amagc
@@ -3585,7 +3509,6 @@ http://5fffgfgfg4g4gh4fg4.blogspot.lt
 http://5fffrggefe3g.blogspot.cz
 http://5fffrggefe3g.blogspot.tw
 http://5ffgfg3f2222dfd3.blogspot.com.co
-http://5ffgfg3f2222dfd3.blogspot.com.ee
 http://5ffgfg3f2222dfd3.blogspot.dk
 http://5ffgfg3f2222dfd3.blogspot.gr
 http://5ffgfg3f2222dfd3.blogspot.hk
@@ -3624,7 +3547,6 @@ http://5fgfffgrg4g.blogspot.com.cy
 http://5fgfffgrg4g.blogspot.is
 http://5fgfffgrg4g.blogspot.mk
 http://5fgfffgrg4g.blogspot.my
-http://5fgfffgrg4g.blogspot.rs
 http://5fgfffgrg4g.blogspot.sn
 http://5fgffgffgg4g4gh4.blogspot.co.ke
 http://5fgffgfg4g4g4fg.blogspot.qa
@@ -3642,7 +3564,6 @@ http://5fgffgfg4g4ghfg4d.blogspot.in
 http://5fgffgfgf4g4gh.blogspot.com/?m=1
 http://5fgffgfgfg4g4gh4tf.blogspot.com.tr
 http://5fgffgfgfg4g4gh4tf.blogspot.fi
-http://5fgffgfgfg4g4gh4tf.blogspot.sn
 http://5fgffgfggrfg4g4gh4.blogspot.sn
 http://5fgffgfgrfg4g4.blogspot.com
 http://5fgffgfgrgrg4gh4.blogspot.com
@@ -3700,7 +3621,6 @@ http://5fgfg4g4g4hgdg5.blogspot.com/2022/06/blog-post_2.html?m=1
 http://5fgfg4g4g4hgdg5.blogspot.com/2022/06/blog-post_31.html
 http://5fgfg4g4g4hgdg5.blogspot.com/2022/06/blog-post_36.html?m=1
 http://5fgfg4g4g4hgdg5.blogspot.com/2022/06/blog-post_5.html?m=1
-http://5fgfg4g4g4hgdg5.blogspot.com/2022/06/blog-post_68.html?m=1
 http://5fgfg4g4g4hgdg5.blogspot.com/2022/06/blog-post_97.html
 http://5fgfg4g4g4hgdg5.blogspot.com/2022/06/blog-post.html
 http://5fgfg4g4g4hgdg5.blogspot.com/2022/06/blog-post.html?m=1
@@ -3753,7 +3673,6 @@ http://5fgfgffgfg4g4gh4.blogspot.com
 http://5fgfgffgg4g4gh4fg.blogspot.lt
 http://5fgfgffgg4g4gh4fg.blogspot.sn
 http://5fgfgffgg4g4gh4fg.blogspot.tw
-http://5fgfgffgg4g4h4h.blogspot.sn
 http://5fgfgffgg4g4h4h.blogspot.tw
 http://5fgfgffggr4g4gh.blogspot.mk
 http://5fgfgffggr4g4gh.blogspot.ug
@@ -3816,7 +3735,6 @@ http://5fgfgfgfg4g4fg.blogspot.ca
 http://5fgfgfgfg4g4fg.blogspot.co.ke
 http://5fgfgfgfg4g4fg.blogspot.com.by
 http://5fgfgfgfg4g4fg.blogspot.com.co
-http://5fgfgfgfg4g4fg.blogspot.com.ee
 http://5fgfgfgfg4g4fg.blogspot.com.eg
 http://5fgfgfgfg4g4fg.blogspot.com.ng
 http://5fgfgfgfg4g4fg.blogspot.com.uy
@@ -3846,7 +3764,6 @@ http://5fgfgfgfg4g4gh4fg4g4.blogspot.com.uy
 http://5fgfgfgfg4g4gh4fg4g4.blogspot.si
 http://5fgfgfgfg4g4gh4fg4g4.blogspot.tw
 http://5fgfgfgfg4g4gh4fg4g4.blogspot.ug
-http://5fgfgfgfg4g4gh4fgdf.blogspot.lt
 http://5fgfgfgfg4g4gh4fgdf.blogspot.rs
 http://5fgfgfgfg4g4gh4fgfdg.blogspot.mk
 http://5fgfgfgfg4g4gh4fgfdg.blogspot.rs
@@ -3993,7 +3910,6 @@ http://5fgfgg4g4g4gh5.blogspot.bg
 http://5fgfgg4g4g4gh5.blogspot.com.ee
 http://5fgfgg4g4g4gh5.blogspot.com.ng
 http://5fgfgg4g4g4gh5.blogspot.com.tr
-http://5fgfgg4g4g4gh5.blogspot.com.uy
 http://5fgfgg4g4g4gh5.blogspot.pe
 http://5fgfgg4g4g4gh5.blogspot.sn
 http://5fgfgg4g4g4gh5.blogspot.ug
@@ -4039,7 +3955,6 @@ http://5fggffg4g4gf4g.blogspot.com/?m=1
 http://5fggffg4g4gh4hfg4.blogspot.mk
 http://5fggffggr4g4gh.blogspot.com/?m=1
 http://5fggfg45g.blogspot.com/2022/05/blog-post_86.html
-http://5fggfg4g4gg.blogspot.com
 http://5fggfg4g4h4.blogspot.al
 http://5fggfg4g4h4.blogspot.li
 http://5fggfgf4g4g4gh.blogspot.com/2023/01?m=1
@@ -4069,7 +3984,6 @@ http://5fggfgfgrfg4g4gh4hf.blogspot.lt
 http://5fggfgfgrfg4g4gh4hf.blogspot.sn
 http://5fggfggrfg4g4gh.blogspot.com
 http://5fggfgrg4g4gh4fg.blogspot.ae
-http://5fggfgrg4g4gh4fg.blogspot.co.za
 http://5fggfgrg4g4gh4fg.blogspot.hk
 http://5fggfgrg4g4gh4fg.blogspot.hu
 http://5fggfgrg4g4gh4fg.blogspot.mx
@@ -4146,7 +4060,6 @@ http://6c8b6a20.d26218.cn/amagc
 http://6c8bc.vip
 http://6c94da22.89dduvdjsi.shop/amagc
 http://6ca1ae72.76jtjr897ku.com.cn/amagc
-http://6ca25f23.surge.sh
 http://6ca7h-5qaaa-aaaal-qbqdq-cai.raw.ic0.app
 http://6cb2a0f9.hotdzk.shop/amagc
 http://6cb47fed-8444-4b4d-bf8e-d301e0b4df21.usrfiles.com/html/1411d2_20babe85331bcec3acca549e98d5c9f6.html
@@ -4201,7 +4114,6 @@ http://6e4b877c.sjw36sya1739.shop/amagc
 http://6e4hn.csb.app
 http://6e4km.ktt55.my.id
 http://6e59f354a632.ngrok.io/bco/login.php
-http://6e5wxea.ytyukai.cn/mastercard-ms
 http://6e6c8224.sd3hj-uw.shop/amagc
 http://6e76109faf4c.simbla-sites.com
 http://6e76109faf4c.simbla-sites.com/Carref
@@ -4221,7 +4133,6 @@ http://6eb2ef02-273e-4ede-a3f9-5084a81538f1.id.repl.co/index2.php
 http://6eb598f8.hi8lsm.shop/amagc
 http://6eb9784e.htengsc.com/amagc
 http://6ebcc20c10b2e9de8866c707a86e1109-dot-gle9392420309493993.rj.r.appspot.com
-http://6ebhaome.s3-website-eu-west-1.amazonaws.com/index.htm?id=a@b.c
 http://6ee4144e.89dduvdjsi.shop/amagc
 http://6ee7d183.yongwang888.com.cn/amagc
 http://6ef5f24e.voag.cn/amagc
@@ -4237,7 +4148,6 @@ http://6f501f07.designqueen.cn/amagc
 http://6f51e60002f1fd553769b68d6599.pages.dev
 http://6f51e60002f1fd553769b68d6599.pages.dev/107d39d8-c758-4aa9-855a-2f8ff6eb2adf
 http://6f51e60002f1fd553769b68d6599.pages.dev/359d4595-22ff-4714-8785-7c5aa04985a0
-http://6f5348b5.qepfmq.shop/amagc
 http://6f5d7035.he11.cn/amagc
 http://6f65e652.jdhuwoskz.cloud/amagc
 http://6f65f534.txat99.net/amagc
@@ -4282,7 +4192,6 @@ http://6g099vlqe3b6b18gridga22ikgks5uu2qjl6469v8njhia78vfuv7v0.siasky.net
 http://6g0a2me4bfhjo8hgpif45iivmbo1cagot36bijal75rvhttl5mkkhh8.siasky.net
 http://6g1m.mjt.lu/lnk/AU8AACeQdqgAAc3CRRIAAXAy31MAARpcs1cAnWMwAAemsgBlIYVFxSjq92C_QEGcygDV2FT3_QAHSXQ/1/nDgVT0hlFRLJMXhlfMTw6Q/aHR0cHM6Ly9wNjMyNi53ZWJtby5mci9oYXM4ZHM3aXM
 http://6g1m.mjt.lu/lnk/AWQAACoUxToAAc3CRRIAAXA5WVwAARpcs1cAnWMwAAemsgBlIeWQbKLzX_9WTwiugQYXhLtXlgAHSXQ/1/6ut_drBe4sU6ORcjnU26HQ/aHR0cHM6Ly9wNjMyNi53ZWJtby5mci9oYXM4ZHM3aXM
-http://6gdfepttna.2693.kasgizlivadi.com/.6gDFepTtNa.aHR0cHM6Ly9heWx3YXJkLmNvLnphL2Nzcy8yNjkzL2ppbWhvd2VAdGhlcm1jb3JlcHMuY29t
 http://6ggexunapz47me9e0l9c.cybertruck.eu.com/rd/c16905eiRYk174kquK41408fBt2464wMRH1110
 http://6gghkk10wguavgfz.colplat.com/brain
 http://6gghkk10wguavgfz.colplat.com/jp
@@ -4341,7 +4250,6 @@ http://6kvme.csb.app/setup/emailverif
 http://6kwovgtto7yreao76bgg.richardl.xyz/usps/verification.html
 http://6l1frmbtzc.6410.gencmert.com/.6l1FRMBtzc.aHR0cHM6Ly9hc3NlbnN1c29uZS5jb20vLzZsMUZSTUJ0emMvMzAxNzI5ODY0L25hbmN5ci8jbmFuY3lyQHRhc3VwcGx5LmNvbQ==
 http://6lejm1mfbthvqst.e8273.pro
-http://6lfeq7y.duckdns.org
 http://6lgldpl3.square.site
 http://6ljbxe.horusian.com/bXF1aW5sYW5AZ3JhZGxlYWRlcnMuY29t
 http://6lkb3huv.wznepsy.cn/mastercard-ms
@@ -4381,7 +4289,6 @@ http://6qybnwat.65cp.r.z5sacfrfn7.tgb6d4ck.6jcm.cfwh3jzqy.n.z7mard.yhfnxn4yif.yy
 http://6r33u9s.tokenapp.download
 http://6rajs.duckdns.org/ccc/ddd/proposal
 http://6rajs.duckdns.org/ccc/ddd/proposal/verificationAttempt.php?sf58gfd1s689sxd2sdf8angf264s9df23sd2f1n495K3L2C151645172991f1477dbd26917ef3822423f62e984a91f1477dbd26917ef3822423f62e984a91f1477dbd
-http://6rajs.duckdns.org/ccc/ddd/proposal/verification.php?sf58gfd1s689sxd2sdf8angf264s9df23sd2f1n495K3L2C151645172991f1477dbd26917ef3822423f62e984a91f1477dbd26917ef3822423f62e984a91f1477dbd
 http://6remx6f6ocfzhexvf6cxjje0ky5wzktzv1ot0t9c7gwr4mc3ji80phqiya.pages.dev/ads-business-pages/qwh1xc45zgexrjofruflggpq5idnotdvupuehsinn6sxqb5vwbkuysmo2r4k7mzl2sjfpmohvi6kj0jgvsn5xo1jw9xhchroxsh0bhefolhvl0wfsuzmoujyxwxi5uvccgutrq4jhed8b7ligvk4dz2bagrnjddrqorapucovxrz1ruahts4iw8gi6wte3yev
 http://6rfyyikrvc.synergia.ps/.6rFYyIKRvc.aHR0cHM6Ly9pbmxpbmhhbmgudm4vLndwL29yZW4uc2hpcmFuL29yZW4uc2hpcmFuQGxhemFyZC5jb20=
 http://6rwgrjhaqm.7.sabina.world/.6rWgRJhAQM.aHR0cHM6Ly9vYmplY3RzdG9yYWdlLmNhLW1vbnRyZWFsLTEub3JhY2xlY2xvdWQuY29tL24vYXh6dmQ5bTd6Mm1kL2IvYnVja2V0LTIwMjExMTA5LTIxMjBkZWVlL28vNzM4MzgzN18yNV8yNV8yNV8yNV8yNV8yNV8yNV8yNV8yNTg4Lmh0bWw/ZW09d2VuZHkuemh1QGFscGludmVzdC5jb20=
@@ -4424,7 +4331,6 @@ http://6tr5e4vge.pages.dev
 http://6tuw1j9say00.ignorelist.com/athention.html
 http://6tuw1j9say00.ignorelist.com/ref=0.html
 http://6tuw1j9say00.ignorelist.com/ref=1.html
-http://6twz8g-5000.fc-eu-0.pitcher.csb.app
 http://6tz.eu/vdgmp
 http://6uhtyl.cn/hsbc-w
 http://6umztwane0.1704.monitorminor.com.tr/.6UMzTwaNe0.aHR0cHM6Ly9hdXRvbm9yZW1wcmVlbmRpbWVudG9zLmNvbS5ici8ud3AvLzZVTXpUd2FOZTAvODMwMjQ5NzE2L2xncmVlbi8jbGdyZWVuQHJldmN5Y2xlLXBhcnRuZXJzLmNvbQ==
@@ -4495,7 +4401,6 @@ http://7015442128965722292311.co.vu
 http://701544212896572923.co.vu
 http://701cf59c.n61gft.shop/amagc
 http://70221289657292002.co.vu
-http://702212896572923.co.vu
 http://702212896572924covu.co.vu
 http://702365.com
 http://7031afd4cb11c184e91a9e514a2c0eda-dot-gle9392420309493993.rj.r.appspot.com
@@ -4526,7 +4431,6 @@ http://762project.org
 http://763341.icu
 http://76373091091981985909805.jamb2022.co/?02816430875436176792483416827560916=YWhlZ2dlbkBwcm9jb29wZXJhdGl2ZS5jb20=
 http://76373091091981985909805.jamb2022.co/?03551563584213891805893947405326280=YWhlZ2dlbkBwcm9jb29wZXJhdGl2ZS5jb20=
-http://763890.dcnt.gr/member/index.html
 http://763965d3.qepfmq.shop/amagc
 http://763view.ml/M&
 http://764365-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
@@ -4544,7 +4448,6 @@ http://76545d4cb104c874c9400380375e5dbc-dot-gle9392420309493993.rj.r.appspot.com
 http://7654.infomaps.in
 http://765669616.jackbu880.workers.dev
 http://7658887429.swopnadigital.com.np/profile.html?countUser=57148f981acc86945f67b07b196b9ac3
-http://766320.selcdn.ru/sharep/loads9.html?email=
 http://766320.selcdn.ru/sharep/r.html
 http://766461df24f3a81f848bad4ebcd171b6-dot-gle9392420309493993.rj.r.appspot.com
 http://766809-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
@@ -4668,7 +4571,6 @@ http://77.83.207.69/test/amnew.exe
 http://778325-0.com/directing/desjardins/identifiantunique/index.php
 http://778325-0.com/directing/desjardins/identifiantunique/ondetverifier.html
 http://778325-0.com/directing/desjardins/identifiantunique/questions.php
-http://778325-0.com/directing/www.atbonline.com/ATB/complete.html
 http://778325-0.com/directing/www.atbonline.com/ATB/login.html
 http://778325-0.com/directing/www.atbonline.com/ATB/question.php
 http://778325-0.com/directing/www.cibc.mobi/ebm-mobile-anp/ebm-mobile-app/index.html
@@ -4700,7 +4602,6 @@ http://77b1bd04d8a40c4031a67b79a0ba841e-dot-gle9392420309493993.rj.r.appspot.com
 http://77caib.com
 http://77dmkyampsano2oa.53244ds.xyz/index/usps/index.html
 http://77ed940f.koldb.com.cn/amagc
-http://77fc5f13.ilekdfjcxm.shop/amagc
 http://77hcd-5qaaa-aaaad-qcrya-cai.raw.ic0.app
 http://77p.mobi
 http://77pr-en1firstsecure.pages.dev
@@ -4722,7 +4623,6 @@ http://78.142.194.53/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https
 http://78.142.194.53/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin%7CIP
 http://78.142.194.6/ap/signin?key=a@b.c
 http://78.143.96.35/wordpress/gam
-http://78.143.96.35/wordpress/gam/index.php?amp;hc=1&amp;amp;hc=1&amp;amp;hc=1&amp;amp;hm=uk%601d72fj2b2vi&amp;amp;hm=uk%601d72fj2b2vi&amp;amp;hm=uk%601d72fj2b2vi&amp;amp;bidderblocklogin;&amp;lt;265&amp;lt;265bidderblocklogin&amp;lt;265bidderblocklogin
 http://78.143.96.35/wordpress/gam/index.php?amp;hc=1&amp;hc=1&amp;hc=1&amp;hm=uk%601d72f%20j2b2vi&amp;hm=uk%601d72f%20j2b2vi&amp;hm=uk%601d72f%20j2b2vi&bidderblocklogin&lt;265&lt;265bidderblocklogin&lt;265bidderblocklogin
 http://78.143.96.35/wordpress/gam/index.php?amp;hc=1&amp;hc=1&amp;hc=1&amp;hm=uk%601d72fj2b2vi&amp;hm=uk%601d72fj2b2vi&amp;hm=uk%601d72fj2b2vi&amp;bidderblocklogin;&lt;265&lt;265bidderblocklogin&lt;265bidderblocklogin
 http://78.143.96.35/wordpress/gam/index.php?bidderblocklogin
@@ -4759,7 +4659,6 @@ http://78267087918825335.pages.dev
 http://7831365.com
 http://783453421313.brockcountry.online/help/contact/9417940251527349
 http://783712067052f9076eee4656f87d96b4-dot-gle9392420309493993.rj.r.appspot.com
-http://7837365.com
 http://783783.vivid-expression.net
 http://7838365.com
 http://783918679436576-dot-hvd-skf-wcf.appspot.com
@@ -4772,8 +4671,6 @@ http://7845343443234.campingsierradegata.es/help/contact/9417940251527349
 http://78.47.108.45/dvsCWorn
 http://78.47.115.220/?login=ohphn6rielwt7ka&site=0mwkysjgxfe8b1x&anmeldung=rjfduk9atwcsgo8
 http://78.47.67.179
-http://7847spaosuuesjq.tk
-http://7847spaosuuesjq.tk/5b4f2
 http://7847spaosuuesjq.tk/78652
 http://7847spaosuuesjq.tk/b3e55
 http://7848014fd2ae86ccbdf2c43a84325aa9-dot-dbenitonline.ey.r.appspot.com
@@ -4817,7 +4714,6 @@ http://78ncvhfhfjgjgdsdg.top/home
 http://78nhbgvgyh.000webhostapp.com
 http://78prof.ru/netflix/login.php?md=068f01f0c59b8db3f4f888c32126d001&wa=wsignin1.0&rpsnv=13&ct=1544286663&rver=7.1.9737.0&wp=mbi_ssl&nlp=1&rpscsrfstate=2689dcff-33p1-518f-362a-5db09c03fafc&id=292841&cbcxt=out&lw=1&fl=dob,flname,wld&cobrandid=90015
 http://78suihs.sbs
-http://78t3287.weebly.com
 http://78usls566ps.cc
 http://78vb16.cn/hsbc-w
 http://78wqwwwh.jimdofree.com
@@ -4979,7 +4875,6 @@ http://9291588.com/wordpress/.https/1/sucursalpersonas.transaccionesbancolombia.
 http://9291588.com/wordpress/.https/52.234.88.2115943/sucursalpersonas.transaccionesbancolombia.com/mua/index.html
 http://92941826455269620194.us-south.cf.appdomain.cloud
 http://9294ab38039f60d2ec53822fb4.pages.dev
-http://92a06321.d21213.cn/amagc
 http://92adqjlfj.repuestogas.com/Z3JlZ2xlYmxhbmNAb2NsY3BhLmNvbQ==
 http://92aeb6d684f1be678b84059187dc159f-dot-gle9392420309493993.rj.r.appspot.com
 http://92alpha.com/Odrivex
@@ -5087,7 +4982,6 @@ http://939ba920.ilekdfjcxm.shop/amagc
 http://93a27382.jsduedy-hf.com.cn/amagc
 http://93b053f4.nfxstukdqp.pages.dev
 http://93b0ca84.ualbeijing.cn/amagc
-http://93c1ee20.gueijhdnsh.cloud/amagc
 http://93cqcp.com
 http://93dc4691.gskjdfegwhu.shop/amagc
 http://93f355d0.00agt8.shop/amagc
@@ -5250,7 +5144,6 @@ http://9514bfde-4706-4f37-8eb1-7adf4841bd12-00-3ktvvj7wp3wle.janeway.replit.dev
 http://95-179-144-133.cprapid.com/Swisspost/Seleccione_medio_de_pago.php
 http://95.179.180.165/webapps
 http://95.179.180.165/webapps/_session/7b4JxAVE/login.php
-http://95.179.180.165/webapps/_session/Yc8FIx7V/login.php?lang=en&amp;locale.x=de-DE_f3G4SV5EePJAkjUZHg1aCDWF8B7iQOdb6K9I2MNLchYRTX
 http://95.179.193.64/mars/customer_center/customer-IDPP00C248/login.php
 http://95.179.252.135
 http://951hd106.vip
@@ -5318,7 +5211,6 @@ http://accounts-lnistaqram.somee.com
 http://accounts-login.balinsnow.com
 http://accounts-mangmentz4.cf/realtor-post
 http://accounts.marketwebb.click/en/login
-http://accounts.marketwebb.com/en/login
 http://accounts.marketwebb.me
 http://accounts.marketwebb.me/en/login
 http://accounts.marketwebb.me/en/login?loginchannel=&return_to
@@ -5375,7 +5267,6 @@ http://accountsservicelogin.email
 http://accounts.snapceht.com/Naw/2
 http://accounts.snapceht.com/Naw/3
 http://accounts.snapchat.com.account.com.mx
-http://accounts-snapchat.com.co/accounts
 http://accounts-snapchat.com.co/accounts/login=/cKFeWFJHcDTPGHSSBHUEaKCUFUPUXQCQYHMNMTTGWFTaMELMKeO
 http://accounts-snapchat.com.co/accounts/login=/DTEKLVVBcVCSTPGTgAECHDYaBPLdMfQPSTXdHLdCedTRLXDIXFK
 http://accounts-snapchat.confrim.email/accounts/?continue=yqoma2ygirox1m7gicsy5vyccsl7rqjssr
@@ -5442,7 +5333,6 @@ http://account-support-meta.surge.sh/%22]
 http://account-support-meta.surge.sh/alfditz.php
 http://account-support-meta.surge.sh/community-standard-case-id=5325807645
 http://account-support-mt.netlify.app
-http://account-support-nor-c2fdb.web.app
 http://account-support-notify-6ee4c.firebaseapp.com
 http://account-support-restore-bdio5.vercel.app
 http://account-support-review-paypal-team.sedbru.com/webapps/19ba7/websrc
@@ -5492,7 +5382,6 @@ http://account-update.amazon.co.jp.access.usid-92821.mixh.jp/af5baf594e9197b43c9
 http://account-update.amazon.co.jp.access.usid-92821.mixh.jp/af5baf594e9197b43c9f26f17b205e5b/signin.php?country=jp-japan
 http://account-update.amazon.co.jp.af7ffc2a629a1c258336fde8a1f71e0a.icu
 http://account-update.amazon.co.jp.am2onseav2ces.tk
-http://account-update.amazon.co.jp.amazongjgasb14sjh21saknx.icu
 http://account-update.amazon.co.jp.amzaonuins-sdufd13dany.monster
 http://account-update.amazon.co.jp.customerservice-manage.top
 http://account-update.amazon.co.jp.d0b6e66fbcd5e2d8ccf9154f796029c349362db3.buzz
@@ -5653,6 +5542,7 @@ http://account-verification-id3.appspot.com/QgCOEW/Hgq0hI?pp=11
 http://accountverificationmethod.tripod.com
 http://account-verification-paypal.ternser.com/557
 http://account-verification-paypal.ternser.com/information
+http://account-verification-paypal.ternser.com/information/V4
 http://account-verification-paypal.ternser.com/rll
 http://account-verification-paypal.ternser.com/shujuku
 http://account--verifications.tk/email.html
@@ -5697,13 +5587,11 @@ http://adobe-docs-privacy.us-south.cf.appdomain.cloud/index.html?email=a@a.c
 http://adobedocumentation.weebly.com
 http://adobe-document.auth-meta.workers.dev
 http://adobe-document.cf/adobedoc/login/adobe-online/ad=bf1cb33ddcf84c331b084dda24cc111c
-http://adobe-document.github.io
 http://adobedocx1.pages.dev/adobezz
 http://adobedocx1.pages.dev/adobezz.html
 http://adobe-drgs.pages.dev/favicon.ico
 http://adobe.dt3loeqvwc0ue.amplifyapp.com
 http://adobe-dynamic-inquiry-order.netlify.app
-http://adobe.em5bjt9uza1aik3owk2k1quuazk9pg4.ml/page/RI7301q9s1Tq5/businesscard.html
 http://adobeemode-17e9.saratebulmerl.workers.dev
 http://adobee-net.000webhostapp.com
 http://adobe-file.azurewebsites.net
@@ -5732,8 +5620,6 @@ http://adobe-order-f2f.netlify.app
 http://adobeoutlookcom.s3-website.fr-par.scw.cloud/login.html?oljpe=5Z1Hg3ZagIp6qb1FvDt7OSXnxVnIwg&kiuzoya=zHsnFHIM2fx31Uszvta&agnryrwere=U9hN74nB8lnbRzzZr1Codou
 http://adobepagesecure.pages.dev
 http://adobe-pdf-336.pages.dev
-http://adobe-pdf-908856-39985.netlify.app
-http://adobepdfattachmentspecs.b-cdn.net/pdfattachment/kwlpdfadobe
 http://adobepdf.cloudmojotech.website
 http://adobe-pdf.pages.dev
 http://adobe-pdf.pages.dev/?user-agent=mozilla/5.0windowsnt10.0;win64;x64applewebkit/537.36khtml,likegeckochrome/86.0.4240.75safari/537.36%22%22%22%22%22%22%22
@@ -5748,7 +5634,6 @@ http://adobesfile.com/samples
 http://adobe.shared-clloud.workers.dev
 http://adobe-share-pdf-e-file.netlify.app
 http://adobesignsecurefiles.onrender.com
-http://adobe-spark-66j9u.ondigitalocean.app
 http://adobe-storage-service.azurewebsites.net
 http://adobe-stroage-app.azurewebsites.net
 http://adobe-support-center.azurewebsites.net
@@ -5760,7 +5645,6 @@ http://adofurniture.com/document/viewdoc
 http://adofurniture.com/document/viewdoc/0fflink.php
 http://adolphrshiver.com/newyear/xb
 http://adolphrshiver.com/newyear/xb/e175e0395a5fcceb980485ac37f043f1
-http://adon8959.gq/palladium/hvtrs8/uwu.levfniz.aoo
 http://adonaybucket54.s3.eu-de.cloud-object-storage.appdomain.cloud/amarth/login.html?nffp=62vq8wvoqpcfxn92qnvcdoayxjg&sktd=ximt6muhanmablw8kb2wrofkrk&tbhp=rokcugcmyzo1wyufilv
 http://adonaybucket54.s3.eu-de.cloud-object-storage.appdomain.cloud/millefoliate/login.html?xuxbjfo=tyr3KI3Hn7PKWsCid&rto=c36yVOVnu8DXCoGj6bPPBdOAnYt&zyzeg=CwppBhb6NcSM6T8aovOeITDfhSsxl&uoyix=UxCG4u8Ut2lHBCY5VHq8eWTUXM6E1q&gahthsunkw=lKwFy8UpXkkpXuQuBAN8T&xxhtnupymv=u1qBnVgGfUIpD7F9hj5KZU9t&zbpdeutv=zVXK3FHKfDmSPbD9E&kufeiwdspm=Ov1WLn1xzXfjnHzSHM7Conm&gccnxx=nijTF42AxgNkjlER5WEiHE4PHL9ab&zqmoboatoo=Vb7zp54gbbiSWad
 http://adonaybucket54.s3.eu-de.cloud-object-storage.appdomain.cloud/potsherds/index.html
@@ -5820,7 +5704,6 @@ http://adpm.ir/wp-includes/css/trd/Excelfv/files/?email=redacted@redacted.invali
 http://adpm.ir/wp-includes/css/tt/Excelfv/files/?email=redacted@redacted.invalid
 http://adpolasdasf.pages.dev
 http://ad-policy-case-142145-123.web.app
-http://ad-policy-case-33123-4232.web.app
 http://ad-policy-violation-case-53211.web.app
 http://adporbe.club/ADOBE/adobe2021
 http://adporbe.club/ADOBE/adobe2021/11ff27fe2905c879211c8d083/login.html
@@ -5858,13 +5741,11 @@ http://adressbestatigung.com
 http://adresse-xi.vercel.app
 http://adreuiola.spunerliantrobuikanimw.link
 http://ad-review-center-71y.pages.dev
-http://adrianabassi.com/~adrianabassi/web/.unknown/.cgi/.hitaccess/chaze2018new/onset
 http://adrianabassi.com/~adrianabassi/web/.unknown/.cgi/.hitaccess/chaze2018new/onset/details.html?13bc4f8968b25c5741b1a79e7376086e-13bc4f8968b25c5741b1a79e7376086e-13bc4f8968b25c5741b1a79e7376086e13bc4f8968b25c5741b1a79e7376086e13bc4f8968b25c5741b1a79e7376086e13bc4f8968b25c5741b1a79e7376086e13bc4f8968b25c5741b1a79e7376086e13bc4f8968b25c5741b1a79e7376086e13bc4f8968b25c5741b1a79e7376086e13bc4f8968b25c5741b1a79e7376086e13bc4f8968b25c5741b1a79e7376086e
 http://adrianabassi.com/~adrianabassi/web/.unknown/.cgi/.hitaccess/chaze2018new/onset/details.html?736a97166d6069fd355f4344f600c5b9-736a97166d6069fd355f4344f600c5b9-736a97166d6069fd355f4344f600c5b9736a97166d6069fd355f4344f600c5b9736a97166d6069fd355f4344f600c5b9736a97166d6069fd355f4344f600c5b9736a97166d6069fd355f4344f600c5b9736a97166d6069fd355f4344f600c5b9736a97166d6069fd355f4344f600c5b9736a97166d6069fd355f4344f600c5b9736a97166d6069fd355f4344f600c5b9
 http://adrianabilea.com/choiys/ryosan.co.kr/efax
 http://adrianmoizes.github.io/Home-Instragam
 http://adriantirantecirugiaplastica.com/admin/-/log/home/csc/il/3feff06af7c47f72a855342b8czdhhnzexztqwotllnmi0nzy4yjg2otk1yzgwzwqxzdi=
-http://adrian.urena.jtbbr.ir/?register=redacted@redacted.invalid
 http://adrianza.us/v1/index.html
 http://adrienneo.dreamhosters.com/wwpp11/zkSk2fzgHrn2V7yaUakBytHXKmycM28uqivrus/home
 http://adrienneo.dreamhosters.com/wwpp11/zkSk2fzgHrn2V7yaUakBytHXKmycM28uqivrus/home/oohay.php
@@ -5918,7 +5799,6 @@ http://adsbusinesscreditscampaingaccount.com.denemexyz.xyz
 http://adsbusiness.lol.jaran-goyang.my.id/recovery-help
 http://ads-bussines-notify.netlify.app
 http://adscdveo.uk/linkedin.html
-http://adscdveo.uk/zooskpics.html
 http://ads-confirm-home.my.id/boli/miso.php
 http://adscouponaccountscampaign.com
 http://adscouponsbusinessaccount.com
@@ -6056,7 +5936,6 @@ http://adult-sex-only-telegramx.pages.dev
 http://adults-expo-bringing-plates.trycloudflare.com
 http://adult-sights.com/outlook1/56yu7/login.php
 http://adultvideosgroup.000webhostapp.com/login.php
-http://adultweb.demoparlour.com/wp-content/loggineaccount/secure/resolve-account
 http://adultweb.demoparlour.com/wp-content/loggineaccount/secure/resolve-account/30f661de1d72a3c848d9/cc352b42004772d3a6752e65c99e8a9b
 http://adultweb.demoparlour.com/wp-content/loggineaccount/secure/resolve-account/30f661de1d72a3c848d9/cc352b42004772d3a6752e65c99e8a9b/9e00798d5f5c563036c12b69e9659111
 http://adultweb.demoparlour.com/wp-content/loggineaccount/secure/resolve-account/473d4d311e246ebbe678
@@ -6131,7 +6010,6 @@ http://airsociety.co
 http://airsoftamericana.com.br/js/jquery/mtb2020/onlinebankingmtb/secq.html
 http://airsoftamericana.com.br/js/jquery/mtb2020/onlinebankingmtb/securityauthentication.html?onlinebanking.mtb.com/Login/MTBSignOn?security+authentication
 http://airsoftamericana.com.br/js/jquery/mtb2020/onlinebankingmtb/seio2.php
-http://airsoft-emporium.co.uk/skins/foundation/css/secured.liks/wells/pafe_a.php?id=3d1a4c49b6d9249d814ac008e1d2c2b63d1a4c49b6d9249d814ac008e1d2c2b6&session=3d1a4c49b6d9249d814ac008e1d2c2b63d1a4c49b6d9249d814ac008e1d2c2b6
 http://airsoftpichincha.com/adobe/adobeid-na1.services.adobe.com/renga-idprovider/pages/login
 http://airsolairefrance.com/wp-includes/Requests/Utility/filter/app/error/grada/apo/331d2b53b31349ab9629b31ff4daf772/login.php
 http://airsolairefrance.com/wp-includes/Requests/Utility/filter/app/error/grada/apo/6e01756335c2b279e0a4f7fceb9b70fc/login.php
@@ -6143,7 +6021,6 @@ http://airtechaerial.com/file/indexa.php
 http://airtixtonite.com/system/sign-in
 http://airu.co.jp/dhl/dhlpro/home.php?ip=102.101.175.119&countrycode=ma&os=windows%2010
 http://airunlimitedkc.com/mandt
-http://airunlimitedkc.com/mandt/login/index.php?login_form=True&session_Id=4b29009bc19ad7e6de9e0f3a4729fe08
 http://airviewreview.com/webmail
 http://air-water.com.cn
 http://airwind.eu/authorize.php?n3cvjxj3sfjzcxgv2iqacdc3gjb3g0ot9pe1wxcpkqm7uo5lnxaearntf0sq5pb1emnxaaaeimjho3lu9tuoqproricyue6szihy96qadvm0xzzegs56rbn4ukivjfmhdxiq9a8ypcix4ody46mbgzxnkgu36y35zpnqfpyom0kzih8icnadikszyfxpmhlojobfq8am6pteogkxvx8qdvzpnaziofydyhw0sot0nlpnzpsxyzffxuirjrakmmim
@@ -6230,13 +6107,11 @@ http://aiwebbyvotettytryr6.pages.dev/index_files/index_files/index_files/index_f
 http://aiwebbyvotettytryr6.pages.dev/index_files/index_files/index_files/index_files/login.php
 http://aiwebbyvotettytryr6.pages.dev/index_files/index_files/index_files/index_files/sdk.asc
 http://ai-whale1.github.io/amazon-clone.github.io
-http://aiwiwd.vrlnnew2023.biz.id/kx
 http://ai.woogo.net/gdfjfgjd/login.php
 http://aiwrcsfrwdztmurerizxeuihvj-dot-project2-297402.rj.r.appspot.com
 http://aiwssaaw.top
 http://aiwtdo.com/hme/aws/tp/homepage
 http://aiwu5.com
-http://aiwwylugnekwelwk-dot-millinium.ey.r.appspot.com/app/index
 http://aiwzibtcfc.duckdns.org
 http://aix5.s3.us-east-2.amazonaws.com/login.html
 http://aixcloudhost.com/12kelrt754/4dk4k5/login.php?hn8DSS5gWgXWIdpi2yYFY7Y0HLfowFUQBKuwHTeNQVb3nF9326WOYnZqwQm3AxPfsvuztE5jxVY5aaAY
@@ -6283,7 +6158,6 @@ http://ajaoawcrewkmxalgptsypljyyzeosxuwvghp-dot-gl494903049.wl.r.appspot.com
 http://ajaportasdeaco.com.br/portal3/bradesco.com.br/suporte/desktop/home.php?cli=&amp;/7tkmHzpsXd/VKGyeoPevU.php
 http://ajaportasdeaco.com.br/portal3/bradesco.com.br/suporte/desktop/home.php?cli=&/t9k6yXbNRd/cmmbZaywBO.php
 http://ajaramillo1.cardiopedbrasil.com.br
-http://ajar-dandy-beef.glitch.me/meta.html
 http://ajar-gigantic-plume.glitch.me/CLEOinc.html
 http://ajarka.github.io/ragil-instagram
 http://ajar-rowan-drill.glitch.me
@@ -6348,7 +6222,6 @@ http://ajkerbaazaar.com/wp-admin/images/creed20
 http://ajkerbaazaar.com/wp-admin/images/creed20/login.php?cmd=login_submit&id=10c0b7b79ebdff68ecb0e1b5902496c010c0b7b79ebdff68ecb0e1b5902496c0&session=10c0b7b79ebdff68ecb0e1b5902496c010c0b7b79ebdff68ecb0e1b5902496c0
 http://ajkl-fd.vercel.app
 http://ajkstrength.com/wp-includes/fonts/http/www/USAA/com/securebanking/login/usaa.logon_edirectjsp=true.htm
-http://ajkwdgajsgdkj.ga/stop5
 http://ajlabu.jekar.my.id
 http://ajlan1212010.github.io/inst
 http://ajlbc-a1bd5.web.app
@@ -6370,10 +6243,8 @@ http://ajnjvqnmpsyljrrhwjueehxpco-dot-gleowayel400503.uc.r.appspot.com
 http://ajnohbrmfqxzweii-dot-millinium.ey.r.appspot.com
 http://ajohkno-exist-subdomain-pre.au.passwordreview.com.sg/1ab4b2/f0a0f4d1-51f0-431d-a516-bc5fbc7ed718
 http://ajoingrip.000webhostapp.com
-http://ajoingrupbokepwwid2.duckdns.org
 http://ajooz.ae/ra.html
 http://ajqhanhtmhkyzcgw-dot-millinium.ey.r.appspot.com
-http://ajqmopylmmbxeghu-dot-millinium.ey.r.appspot.com
 http://ajqmvwbjao.duckdns.org
 http://ajqwcnzhzoohtllb-dot-millinium.ey.r.appspot.com/app/index
 http://ajrdgkhnbls.ink
@@ -6431,7 +6302,6 @@ http://ajwieringermeer.nl/_personas/www.bancoestado.cl/pagina/imagenes/comun2008
 http://ajwmhoifpkojngcj-dot-millinium.ey.r.appspot.com/app/index
 http://ajx6j4z.5q5e5o.cn/instagram-me
 http://ajxeplxqsylumqfz-dot-millinium.ey.r.appspot.com
-http://ajxeplxqsylumqfz-dot-millinium.ey.r.appspot.com/app/index
 http://ajxres.gq/IncomingFiles
 http://ajxzybdct.wcnv20.cn/instagram-me
 http://ak.182440888.workers.dev
@@ -6444,11 +6314,8 @@ http://akaashwork.github.io/request-page-verified
 http://akaboticell.gisagara.gov.rw/wp-content/plugins/kzvnsep/nene/Netflix2019/e68a83370faacfab07ae1f8aaf5352bb
 http://akace.texastowing247.com
 http://akacosksidqkzvrj-dot-millinium.ey.r.appspot.com
-http://akademijudi.com/dhl/index.php
 http://akademijudi.com/web
 http://akadoris.urest.org
-http://akaimisty.ga/service/dispatch/project.htm
-http://akaimisty.gq/_errorpages/pillow/passion?email=%7B%7Bemail%7D%7D
 http://akaimisty.gq/_errorpages/pillow/passion/login.php?.rand=13InboxLight.aspx?n=1774256418&email=%7B%7Bemail%7D%7D&fid=1&fid=4&rand=13InboxLightaspxn.1774256418
 http://akakup.co.za.netune.co.za.lexna.com.na
 http://akanksha23-priya.github.io/Netflix-Clone-
@@ -6485,7 +6352,6 @@ http://akashpmani.github.io/netflix
 http://akash-vip.com
 http://akatale.net/text
 http://akatavsi-dana-paylater.giixzg.me
-http://akatorigame.xyz
 http://akaunter.com/wekmhmm
 http://akaunter.com/wekmhmm/login.php?cmd=login_submit&id=0c8851326529b09a7abf2b7589d465a60c8851326529b09a7abf2b7589d465a6&session=0c8851326529b09a7abf2b7589d465a60c8851326529b09a7abf2b7589d465a6
 http://akaunter.com/wellfargkmm/login.php?cmd=login_submit&id=f365cd68a6c69c81fae82f66d18cf4b0f365cd68a6c69c81fae82f66d18cf4b0&session=f365cd68a6c69c81fae82f66d18cf4b0f365cd68a6c69c81fae82f66d18cf4b0
@@ -6512,11 +6378,9 @@ http://akbhospitalityservices.com/wp-admin/chase/home/myaccount/vbv.php?websrc=e
 http://akbhospitalityservices.com/wp-admin/chase/home/myaccount/vbv.php?websrc=e17ea285ad581008aac6b89b49ab879e&dispatched=61&id=4866770445
 http://akbhospitalityservices.com/wp-admin/chase/home/myaccount/vbv.php?websrc=e17ea285ad581008aac6b89b49ab879e&dispatched=90&id=5232788825
 http://akbick.com/layouts/joomla/content/cgi/5709c27ada2e7f5d01b12967acf0310a
-http://akbnaaystcdtq.xyz
 http://akbnkbmsmczz.com
 http://akbnkiadehizmetini2023subat.com/Login/index.php?lang=en
 http://akbnkiade-hizmetinii2023subat.com/Login/index.php?lang=en
-http://akbntronlineduyuru.com
 http://akbotago.kz
 http://akbotalife.com
 http://akbotalife.kz
@@ -6576,7 +6440,6 @@ http://akifbymjpn.duckdns.org/en
 http://akilahcadet.net/msg/M
 http://akila.maquinadosyturbomecanismoszoe.com/ss/ss/GNI-DE/DEE/INGDE/8040560affaf090f12d7
 http://akila.maquinadosyturbomecanismoszoe.com/ss/ss/GNI-DE/DEE/INGDE/9da95779853f00c61897
-http://akila.maquinadosyturbomecanismoszoe.com/ss/ss/GNI-DE/DEE/INGDE/9da95779853f00c61897/clients
 http://akila.maquinadosyturbomecanismoszoe.com/ss/ss/GNI-DE/DEE/INGDE/e4275c82e2d06f19c9bf/clients
 http://akilili.com/wp-includes/SimplePie/hwert1234
 http://akilili.com/wp-includes/SimplePie/hwert1234/emalpas_error.php
@@ -6650,8 +6513,6 @@ http://akod3e.weeblysite.com
 http://akoin.zanjabilfood.com
 http://akonaa.fr
 http://akoncuy.my.id
-http://akorwer.qqmasonry.com
-http://akoubehoybase.freewebhostmost.com/Chro/tracking/xN9dG1/msg.php
 http://akoufkgynziyzklz-dot-millinium.ey.r.appspot.com
 http://akouncheckkpqesss.000webhostapp.com
 http://akounnnpaqesssvfbbb.000webhostapp.com
@@ -6762,7 +6623,6 @@ http://aktifkaann-danaa-paylateer.brodhi.me
 http://aktifkaan-paaylattersx.resmi-wls2.my.id
 http://aktifkaan-paylateersxx4.iid-resmii.net
 http://aktifkaan-paylaterr.file-resmi.com
-http://aktifkaan-paylaterr.from-resmi.com
 http://aktifkaan-paylaterss4.do-resmi2.xyz
 http://aktifkaan-paylaterss4.iid-resmii2.com
 http://aktifkaan-paylaterss4.my-resmix.net
@@ -6800,7 +6660,6 @@ http://aktifkaanpaylatters.xoic.my.id
 http://aktifkaanpaylattersx.resmi-zxc4.xyz
 http://aktifkaanpaylattersx.ula.my.id
 http://aktifkaanpaylattersxx.resmi-vkz3.my.id
-http://aktifkaanpaylattersxx.resmi-wls.my.id
 http://aktifkaanpaylatters.yvkb.my.id
 http://aktifkaanpaylatters.zsua.my.id
 http://aktifkadanapaylater.gettnowz.my.id
@@ -6824,7 +6683,6 @@ http://animewallpapers.net/bootstrap/joukin/helpcenter/account/login/send/send/s
 http://animewallpapers.net/bootstrap/joukin/helpcenter/account/login/send/send/send/send/send/send/login.php
 http://animewallpapers.net/bootstrap/joukin/helpcenter/account/login/send/send/send/send/send/send/send/cc.php
 http://animewallpapers.net/bootstrap/joukin/helpcenter/account/login/send/send/send/send/send/send/send/login.php
-http://animewallpapers.net/bootstrap/joukin/helpcenter/account/login/send/send/send/send/send/send/send/send/send/cc.php
 http://animewallpapers.net/bootstrap/joukin/helpcenter/account/login/send/send/send/send/send/send/send/send/send/login.php
 http://animewallpapers.net/bootstrap/joukin/helpcenter/account/login/send/send/send/send/send/send/send/send/send/sms2.php
 http://animewallpapers.net/bootstrap/joukin/helpcenter/account/login/send/send/send/send/send/send/send/send/send/sms.php
@@ -6908,7 +6766,6 @@ http://anjappar.com.sg/afcu1
 http://anjay-alok-172.duckdns.org
 http://anjayani.duckdns.org
 http://anjaybngt.otzo.com
-http://anjay-creator.github.io/Netflix-clone
 http://anjaygrupwaterbaruindonesia.000webhostapp.com
 http://anjay-mabar-cui.duckdns.org
 http://anjaymabargame.000webhostapp.com/login.php
@@ -6999,7 +6856,6 @@ http://anmedplus.by/cache/smarty/compile/02/38/fd/nn/index.php
 http://anmeldenamazon-gesperrteskontoentsperren.aba.vg/AMAZONDE/7ce59755f7f0894892500ea2525966c1
 http://anmeldenamazon-gesperrteskontoentsperren.aba.vg/AMAZONDE/7ce59755f7f0894892500ea2525966c1/Billing.html?id=update_rlod?'.fb6c270c0ef78befd8f668bef9664f67.d8b1432e296872fa30cf3ecc869c696f3121b614.'
 http://anmeldenamazon-gesperrteskontoentsperren.aba.vg/AMAZONDE/7ce59755f7f0894892500ea2525966c1/Card.html?id=update_rlod?'.25b5ed4939c239620d43fbb72ea5600d.d2216307e65788a83aaf78089dc029ca9b66041e.'
-http://anmelden.com.de
 http://anmelden.top/dkb/2.html
 http://anmelden.top/x93.html
 http://anmeldung-spar.info/de/dkb/a1b2c3/082f8f445d989d3a972891c8ecba552b/login
@@ -7014,7 +6870,6 @@ http://anmi455320.000webhostapp.com
 http://anmi459881.000webhostapp.com
 http://anmihon.thats.im/fx/index.php?email=redacted@redacted.invalid
 http://anmilopbe.blogspot.bg/?m=1
-http://anmilopbe.blogspot.co.il/?m=1
 http://anmilopbe.blogspot.co.ke
 http://anmilopbe.blogspot.com.cy/?m=1
 http://anmilopbe.blogspot.com.ee
@@ -7044,7 +6899,6 @@ http://anmolsinha001.github.io/NetflixHomePage
 http://anmoul.com/A7
 http://anmoul.com/I%7C7
 http://anmrgpqadc.duckdns.org
-http://anmvlcdjmajdgpvm-dot-millinium.ey.r.appspot.com
 http://ann020m.co.jp.dkr8hwi.cn
 http://annacomon.stswin123h.top/signim/?openid.pape.max_auth_age=0&openid.return_to=https:/www.amazon.co.jp/?_encoding=utf8&ref_=nav_ya_signin&openid.identity=http:/specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&openid.claimed_id=http:/specs.openid.net/auth/2.0/identifier_select&openid.ns=http:/specs.openid.net/auth/2.0
 http://annacowen.co.uk/uhuru/INV/Remit/uhuru/No_cap/FBG
@@ -7054,7 +6908,6 @@ http://annaeva.hu/modules/wdoptionpanel/upload/kgv/gre_owa.html
 http://annafalcini.co.uk
 http://annaharrisaccounting.com/db
 http://annahirsch.design/cbin/Antwort/Beantwortung/x1x/v2/24822f767455190/login.php
-http://annaispecial.com/cgi-bin/english%20newchn/newchn/index.php
 http://annajanetabler.com/micro/$(*@*)
 http://annalar.com/kappa/wp-admin/css/hmmmm123/home.php
 http://annalaura2.github.io/instagram
@@ -7072,7 +6925,6 @@ http://annatsir.web.id/wp-includes/css/cc/login.php?cmd=login_submit&id=8599daaa
 http://annatsir.web.id/wp-includes/css/cc/login.php?cmd=login_submit&id=9d6dea3bff6f9ee213af122f031f79069d6dea3bff6f9ee213af122f031f7906&session=9d6dea3bff6f9ee213af122f031f79069d6dea3bff6f9ee213af122f031f7906
 http://annavacz.com
 http://annavi.hu/old/file/annavi.hu/linkedIn/linkedIn%20(1)/linkedIn%20(1)/LinkedIn.html
-http://annaye.org/home/login-mps/accedi.php
 http://annazom-loapds-vo-jp.ghjghjgj.top
 http://annazom-loapds-vo-jp.ghjghjgj.top/images
 http://annazom-loapds-vo-jp.ghjghjgj.top/static
@@ -7080,7 +6932,6 @@ http://annazom-loapds-vo-jp.ghjghjgj.top/static/css
 http://annazom-loapds-vo-jp.ghjghjgj.top/static/js
 http://annazom-loapds-vo-jp.ghjghjgj.top/wp-admin
 http://annazom-loapds-vo-jp.ghjghjgj.top/wp-content
-http://annazom-loapds-vo-jp.ghjghjgj.top/wp-includes
 http://annazon.icu
 http://annazon-iuaodw-com.opale.buzz
 http://annazon-klsoas-co-jp.boaps.buzz
@@ -7130,7 +6981,6 @@ http://annickdeschryver.be/selectionpp.html
 http://anniedorsen.com/brrl/in/index.htm
 http://anniemccane.com/dy/eddsmoke
 http://anniephan.us/sydney/systems
-http://annieshardware.com/Post/youcanFlyifyoubelieveyoucan
 http://annigeile23.github.io/whatsapponlinefree
 http://annikabenoit-jansson.com/Michelle%20Turvey-Albert
 http://annikacrosby.autos/serene/dune/?box=green
@@ -8160,7 +8010,6 @@ http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/taco-restaurant
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/tanning-salon-supplier
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/tapas-bar-restaurant
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/tattoo-piercing-shop
-http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/tax-lawyer
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/teppanyaki-restaurant
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/theatrical-play
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/thrift-or-consignment-store
@@ -8198,13 +8047,11 @@ http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/vietnamese-restaur
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/vintage-store
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/visual-arts
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/vitamin-supplement-shop
-http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/volcano
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/waste-management
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/water-treatment-plant
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/water-utility-company
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/waxing-service
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/website
-http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/well-water-drilling-service
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/wholesale-bakery
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/wildlife-sanctuary
 http://fr-fr.facebook.com.https.s1.gvirabi.com/pages/category/window-tinting-service
@@ -8257,7 +8104,6 @@ http://friendlycabdavis.com/wp-includes/fonts/chase/chase/chase/login/dashboard.
 http://friendly-caracal.w5.wpsandbox.pro
 http://friendly-confinemen.000webhostapp.com/U.S.2018/LogIn/us-integrals/home/auth
 http://friendly-confinemen.000webhostapp.com/U.S.2018/LogIn/us-integrals/home/auth/details.html?667269656e646c792d636f6e66696e656d656e2e303030776562686f73746170702e636f6d-667269656e646c792d636f6e66696e656d656e2e303030776562686f73746170702e636f6d-667269656e646c792d636f6e66696e656d656e2e303030776562686f73746170702e636f6d667269656e646c792d636f6e66696e656d656e2e303030776562686f73746170702e636f6d667269656e646c792d636f6e66696e656d656e2e303030776562686f73746170702e636f6d667269656e646c792d636f6e66696e656d656e2e303030776562686f73746170702e636f6d667269656e646c792d636f6e66696e656d656e2e303030776562686f73746170702e636f6d667269656e646c792d636f6e66696e656d656e2e303030776562686f73746170702e636f6d667269656e646c792d636f6e66696e656d656e2e303030776562686f73746170702e636f6d667269656e646c792d636f6e66696e656d656e2e303030776562686f73746170702e636f6d667269656e646c792d636f6e66696e656d656e2e303030776562686f73746170702e636f6d
-http://friendlydonkey-26f4.azurewebsites.net/s/tlogin/Office365/off.html
 http://friendly-donut-66d4ca.netlify.app/?naps=
 http://friendly-einstein-e61589.netlify.app
 http://friendly-engelbart-77fafb.netlify.app
@@ -8549,7 +8395,6 @@ http://frontierloggzs.weebly.com
 http://frontierlogin.weebly.com
 http://frontier-pearl.vercel.app
 http://frontier.ru.com/A/FBG
-http://frontiertitlegroup.com.myfax0948248089securedmortgagedocumentviewer.palletsliquidations.store
 http://frontishotel.com/verif.php
 http://frontlineinternetservices.com/hkabnadiuyadbajd/quad
 http://frontllineed.com/ONEDRIVE/Rich/main
