@@ -151,7 +151,6 @@
 001420990998183-dot-wetransfer-auth-file-342.appspot.com
 0014555.000webhostapp.com
 00155.cn
-0016666888110008888.ml
 0016948.bancoteafirma.repl.co
 00169763258316485.eu-gb.cf.appdomain.cloud
 00186e.com
@@ -396,7 +395,6 @@
 012841011.duckdns.org
 012841012.duckdns.org
 012841013.duckdns.org
-01284105.duckdns.org
 0128410.duckdns.org
 012de12faamaijf-cfbb43.ingress-earth.ewp.live
 012-f5b.pages.dev
@@ -1173,7 +1171,6 @@
 0640f80.wcomhost.com
 0641-06501541.pages.net.br
 0642717.wcomhost.com
-064273c.netsolhost.com
 0642fab1.rmfzkg.cyou
 064683e6-97bf-4649-a39e-384f54992bae.htmlcomponentservice.com
 0646d30.wcomhost.com
@@ -1614,7 +1611,6 @@
 09fb236558d7818a7499afb40d24c6c4-dot-dbenitonline.ey.r.appspot.com
 09-fdereewdwewweeeeeeeee.ezyro.com
 09h.amazoonlnca.top
-09hgw8ln3fvmaq8h.duckdns.org
 09hjwwuoxcmbf7js.wusps.xyz
 09h-yghjebsdf6t87yso8ufugiskjg.vercel.app
 09.l12h.repl.co
@@ -1732,7 +1728,6 @@
 0bb5761d-5286-4e38-844e-3a7a22e4e8b6.usrfiles.com
 0bc25918-ede8-4d71-aa46-383c2feface8-00-2bn6ufzo8v6uw.picard.replit.dev
 0bc8e03dba187b584bec58aeca9a1be86b17056353fab4201bc1bb7a7c.pages.dev
-0bc9c1lfhgh06r264soxjj0f266o8orv.ocalam.com
 0bcc6aed-ea9d-402c-85d0-badee91d7398-00-3s4x2djlquln5.janeway.replit.dev
 0bcnz5.2vx8i8.edu.cn.shuaihu99.com
 0bdaf6f9.eo91.com.cn
@@ -1793,7 +1788,6 @@
 0ce383.aa25d1557.a2b26-uq43u-76cc86590-ibril2.usrfiles.com
 0ce40dce93c67c486c5849d5083006b3.s3.amazonaws.com
 0ce40dce93c67c486c5849d5083006b3.s3-eu-west-1.amazonaws.com
-0ce5b0ce5b.medialink.or.id
 0ceb066.wcomhost.com
 0cff6637.fei124970841.cn
 0cjsxodk.robertaocana.com.br
@@ -2232,7 +2226,6 @@
 0nlinebankingbancordoba.com
 0nlinebankingmtbb.ns02.us
 0nlinebanking.ru
-0nline-citi3en.ga
 0nlineinf0usersec7638.duckdns.org
 0nline.info
 0nline-lngreso.com
@@ -2558,7 +2551,6 @@
 10000000000000000000000000006568533.tk
 10000000000000000000000000006568535.tk
 10000000000000000000000000006568539.tk
-1000000000000000000000000000656853.tk
 1000000000000000000000000000852585525504.tk
 1000000000000000000000000000852585525506.tk
 1000000000000000000000000000852585525508.tk
@@ -2614,7 +2606,6 @@
 10000000000000085685252201.tk
 10000000000000085685252202.tk
 10000000000000085685252208.tk
-1000000000000008568525220.tk
 1000000000000009639639635.tk
 100000000000000963963963.tk
 1000000000000985698569651.tk
@@ -2922,7 +2913,6 @@
 1020388-myaccount-com.xyz
 1020.hanzenrui.workers.dev
 1020.liye19960713.workers.dev
-102.130.121.32
 10215421secureaccountadmin-setting.start.page
 102.175.153.160.host.secureserver.net
 1022350.000webhostapp.com
@@ -2977,7 +2967,6 @@
 103.140.55.219
 103.143.72.151
 103.143.73.41
-103.145.22.106
 103.147.225.123
 103.147.225.226
 103.147.225.227
@@ -4167,7 +4156,6 @@
 13.71.163.53
 137.116.57.254
 137.117.21.137
-137.135.115.92
 137.175.50.135
 137.175.78.142
 137.184.114.103
@@ -4275,7 +4263,6 @@
 139.180.165.207
 139.180.174.217
 139.191.122.34.bc.googleusercontent.com
-139.196.120.86
 139.196.196.161
 139.196.9.66
 13.92.114.193
@@ -4387,7 +4374,6 @@
 162.248.102.212
 162.251.80.79
 162.252.175.142
-162.33.178.218
 162.43.22.53
 1625365.com
 162.55.131.251
@@ -4770,7 +4756,6 @@
 168gvogn1c.beefreedesign.com
 168scure.ydns.eu
 168szmed.com
-168uenf8yn5r.co.vu
 169.129.222.7
 169.174.153.160.host.secureserver.net
 169195118.com
@@ -4834,7 +4819,6 @@
 1712382-yahoo-co-uk.netlify.app
 171298-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 171510303-com.filesusr.com
-1716f05f.b7cg2m.shop
 1717bj.org
 1717jackwills.000webhostapp.com
 17187164.realiti.cfd
@@ -4980,7 +4964,6 @@
 173.82.163.100
 173.82.163.63
 173.82.163.75
-173.82.16.76
 173.82.186.157
 173.82.187.101
 173.82.22.110
@@ -5212,7 +5195,6 @@
 1amazoncustomer.x24hr.com
 1-amazon.duckdns.org
 1am.fun
-1amgiri.github.io
 1ams.in
 1amslo.egirisimuniversitesi.com
 1and14iqlvd5dlo5wrfpcwqzycoc6o2kk-hrka633d1m.edgeone.app
@@ -5503,7 +5485,6 @@
 1ea5-41-251-135-33.ngrok.io
 1eao07fbddc646.wixsite.com
 1-easybank-landing-page-master.vercel.app
-1eb4cptlzgcwfiyxg0wc2kdgbw.we9ixzz.co
 1ebay-utente-notifica0nline.ueuo.com
 1ebe56c6.qepfmq.shop
 1ec088f0f5484a.lhr.life
@@ -5801,7 +5782,6 @@
 1ngdeptry-j292.vercel.app
 1nhiy7jp.switzerlandnesia.com
 1nikhil-tech.github.io
-1nj228.n0c.world
 1nkxq.hyperphp.com
 1.nleav.my.id
 1nliebagzaxpfmbpjzw.qwo231sdx.club
@@ -5885,6 +5865,7 @@
 1profitly1.shop
 1pro.lv
 1protectsctznsbnk.dnsrd.com
+1-psd2-lntesasanpaolo.duckdns.org
 1pubg.com
 1pubgm.com
 1pu.shop
@@ -6085,7 +6066,6 @@
 1und1servxrewin.cf
 1--union1.repl.co
 1unt47.xxoht18.cn
-1updateinformation.servecounterstrike.com
 1uphometheatre.com
 1ups.us
 1uqdtnauxhs2r2v.qwo231sdx.club
@@ -6752,7 +6732,6 @@
 202.65.72.121
 202668649.com
 2026bet365m.com
-2026bet365t.com
 2026bet365w.com
 2026bet365x.com
 2026.trfbnk.biz.id
@@ -7409,7 +7388,6 @@
 33.82.199.35.bc.googleusercontent.com
 3.38.246.171
 3384567.com
-338636715d546.knifegenie.com
 338677.com
 3386f734.ieybfs7j447b.org.cn
 33872.43811.wap.shuaihu99.com
@@ -7905,7 +7883,6 @@
 36.160.224.35.bc.googleusercontent.com
 36162a3.xxoht18.cn
 361670.com
-3616ebc4.qepfmq.shop
 36.172-245-112-195.cprapid.com
 36177f47-c2f8-4b32-8989-9156dddc8470-00-3em9oj5d25biv.janeway.replit.dev
 361.potw.my.id
@@ -8212,7 +8189,6 @@
 3656p.net
 3656pp.com
 3656ppp.com
-3656q.net
 3656qq.com
 3656qq.net
 3656qqq.com
@@ -8486,7 +8462,6 @@
 3659x.com
 3659xx.cc
 3659xx.net
-3659xxx.cc
 3659xxx.com
 3659yy.cc
 3659yy.com
@@ -8631,7 +8606,6 @@
 365e3655vip.com
 365e44.top
 365e666.com
-365e777.com
 365ebo.com
 365ee365.com
 365etpk56.lol
@@ -8688,7 +8662,6 @@
 365k09.com
 365k10.com
 365k11.cc
-365k1218.xyz
 365k18.cc
 365k20.com
 365k22.cc
@@ -8900,7 +8873,6 @@
 365online-secursupport.com
 365online-service.info
 365onlinesupport-account.com
-365onlinesupportnetwork.com
 365onlineteam.com
 365online-unblock.com
 365online-unlock.com
@@ -9453,7 +9425,6 @@
 4kee43.top
 4kfashion.com
 4kfc69z.worleyenterprise.com
-4khidmazoq.4827.chesham-bridleways.org.uk
 4kitconsulting.com
 4klg-magazineluiza.ddns.net
 4klgmagazineluiza.ddns.net
@@ -9544,7 +9515,6 @@
 4nay.abooster-appspage.com
 4nc8bpdqml.orquestradolimiar.com.br
 4ncz5-oaaaa-aaaad-qcczq-cai.raw.ic0.app
-4nem.online
 4neoxy.lnyk-media.my.id
 4nfacq0hgu.projects.webpages.one
 4ngioicawy1wrprcbrtmhlaczr.qwo231sdx.club
@@ -9930,7 +9900,6 @@
 52.169.0.215
 52.169.162.128
 52.170.89.43
-52.171.193.33
 52-173-206-22.cprapid.com
 52.175.211.82
 52176316.jqrwq5.shop
@@ -10045,7 +10014,6 @@
 52.247.217.14
 52.249.197.80
 52-25-141-34.cprapid.com
-52.252.106.106
 52-252-129-67.cprapid.com
 52.255.171.253
 52256354541254478547789859955s.filesusr.com
@@ -10944,7 +10912,6 @@
 5ghghghh54h.blogspot.tw
 5ghghjgth5g4t.blogspot.com
 5ghghjgth5g4t.blogspot.mk
-5ghghjgth5g4t.blogspot.sn
 5ghgj6jk7.blogspot.com
 5ghgjfhrg4g4g.blogspot.com
 5ghgjgh4g4g33.blogspot.ae
@@ -11011,8 +10978,6 @@
 5ghhjyth4eg3f3g.blogspot.dk
 5ghhjyth4eg3f3g.blogspot.hu
 5ghhjyth4eg3f3g.blogspot.ie
-5ghhjyth4eg3f3g.blogspot.in
-5ghhjyth4eg3f3g.blogspot.kr
 5ghhjyth4eg3f3g.blogspot.mx
 5ghhjyth4eg3f3g.blogspot.no
 5ghhjyth4eg3f3g.blogspot.qa
@@ -11128,7 +11093,6 @@
 5j94v6hbtpcu9upbi1w3qzj1rz.qwo231sdx.club
 5jfqn61cfua7z2i4uhklw6yircar.qwo231sdx.club
 5jlhj.app.link
-5jmbdojogg722aw.duckdns.org
 5jmlidrmdc6b08xodkvlmqrzyq.we9ixzz.co
 5jqsw5.top
 5juf.pages.dev
@@ -11240,7 +11204,6 @@
 67.229.29.132
 67.229.29.16
 67.229.29.44
-67.229.29.46
 67.229.29.5
 67.229.29.51
 67.229.29.56
@@ -12528,13 +12491,11 @@ aaronramseyb.web.app
 aaron-rent-ab.vercel.app
 aaron-reyes-developer.github.io
 aaronrobertsondesign.com
-aarons-daniel.github.io
 aarons.jtbbr.ir
 aaronulmer.com
 aaronwhitaker.ru
 aaronybarr.temp.swtest.ru
 aarr.pages.dev
-aarsens.com
 aarshadhaatu.com
 aarshis.in
 aarson.in
@@ -12612,6 +12573,7 @@ aatharvcosmetics.com
 aa-three-azure.vercel.app
 aatif-faiz.github.io
 aatikabintishujaa.blogspot.co.il
+aatikabintishujaa.blogspot.com
 aatikabintishujaa.blogspot.md
 aatinfra01.bitbucket.io
 aatiqainternational.com
@@ -12886,7 +12848,6 @@ ab20.yqvwj.my.id
 ab21.tk7.my.id
 ab22.nleav.my.id
 ab23.ar11.my.id
-ab25.ay13.my.id
 ab2660713.github.io
 ab3024b2b6cceb.lhr.life
 ab30.ay17.my.id
@@ -12894,7 +12855,6 @@ ab30.cbget.my.id
 ab30.tk16.my.id
 ab36.ar17.my.id
 ab36.qokdn.my.id
-ab37.gg9.my.id
 ab38dd08.54vf69.shop
 ab3g7-biaaa-aaaad-qefia-cai.raw.ic0.app
 ab3q.short.gy
@@ -13037,7 +12997,6 @@ abn-host-cpk.754251.icu
 abn-host-cpk.783321.icu
 abn-host-cpk.836271.icu
 abn-host-cpk.841531.icu
-abn-host-cpk.962451.icu
 abn-host-home.776599.icu
 abn-host-pkn.961431.icu
 abnhvbtufwhtbubtitnwzuxwkagbiu.66ghz.com
@@ -13057,7 +13016,6 @@ abnormallogin.latestamazonplan.monster
 abnormallogin.otheramazonpayment.one
 abnormal-mmyy.vercel.app
 abnormalnation.com
-abnormalorder.aftersale.win
 abnormbusmn.com
 abn-passenaanvraag.xyz
 abnrecyclepunt.kantoorbericht.dkfns.eu
@@ -13600,7 +13558,6 @@ acceso-3295p483.000webhostapp.com
 acceso-90285k277.000webhostapp.com
 acceso.app.194-180-49-239.cprapid.com
 accesoathe244micr.glitch.me
-accesoatubanca-online.ml
 acceso-ba004e.ingress-baronn.ewp.live
 accesobancoed0ba.com
 accesobanorte.3utilities.com
@@ -14068,7 +14025,6 @@ acikdenizykvonline.net
 acikdenizz2denizbank.ga
 acikdenizz2denizbank.gq
 acikdenmobil.co.vu
-acikdenzbasvuru.net
 acikdenzkatilim.xyz
 acikdenzv2katilim.xyz
 acikdenzv3katilim.xyz
@@ -15033,7 +14989,6 @@ airbnb-com.rooms1728422-reservations1728422.com
 airbnb-com.rooms-191974682-location.com
 airbnb.com.rooms-19837378-location.info
 airbnb.com.rooms-29443-location.info
-airbnb.com.rooms-73497045.space
 airbnbcomr.temp.swtest.ru
 airbnb.com.sync02.com
 airbnb.com.sync97.com
@@ -15082,7 +15037,6 @@ air.bnb-id3204.com
 airbnb.id34783927.com
 air.bnb-id4204.com
 airbnb.id48191.com
-airbnb.id63543909.com
 air.bnb-id8103.com
 air.bnb-id8105.com
 air.bnb-id8205.com
@@ -15145,7 +15099,6 @@ airbnbooki.temp.swtest.ru
 airbnbother.get342.xyz
 airbnb.owner-us.com
 airbnb.page0309.rest
-airbnb-paiement.com
 airbnb-paiement.fr
 airbnb-pay.eu
 airbnb.payhotel.eu
@@ -15155,7 +15108,6 @@ airbnbplus.eutravel.cloud
 airbnb-portugal-booking-listing-pt.listing24pt.com
 airbnb-pre-approved-0e03cd9c-7f5e.mucolg.buzz
 airbnb-pre-approved3728544-ab372d-ap37284563.nodse.cfd
-airbnb-pre-approved3872111-f8362k3713.oido4l.cfd
 airbnb-pre-approved586115-ap6813216.g519r726m8y93.online
 airbnb-pre-approved59213682-ap59213682.592g5261r6m7.shop
 airbnb-pre-approved-664640fa-c858.laabu.sbs
@@ -16331,10 +16283,8 @@ allegrolokalnie.9y0a2p1.icu
 allegrolokalnie.app
 allegrolokalnie.aukcja-156754934.shop
 allegrolokalnie.aukcja-id5161.pl
-allegrolokalnie.b0a821.com
 allegrolokalnie.c98a20.pl
 allegrolokalnie.cc
-allegrolokalnie.chronionezakupy.pl
 allegrolokalnie.chronionyzakup.pl
 allegrolokalnie.client9481.pl
 allegrolokalnie.co.in
@@ -16360,7 +16310,6 @@ allegrolokalnie.id89109421.buzz
 allegrolokalnie.index-0v9s0-x0a01.shop
 allegrolokalnie.iogloszenia-9281737.cfd
 allegrolokalnie.i-platnosci-24h.pl
-allegrolokalnie.i-platnosci.pl
 allegrolokalnie.ix812.sbs
 allegrolokalnie.izakupy24h.pl
 allegrolokalnie.kategoria-dom-i-ogrod-7x6y9c.rest
@@ -18039,7 +17988,6 @@ citionline310.herokuapp.com
 citionline33.herokuapp.com
 citionline3476.herokuapp.com
 citionline3788.herokuapp.com
-citionline5-auth2.com
 citionline8.herokuapp.com
 citionline9.herokuapp.com
 citionline-aouth86c0.query357.workers.dev
@@ -18079,7 +18027,6 @@ citi-usersecuredna.duckdns.org
 citiuserverification.com
 citi-verification.com
 citiverifyhelp.ddns.net
-citi.wesea-it.com
 citi-world-action.com
 citixg.com
 citi.yowealth.com
@@ -18443,7 +18390,6 @@ coinbaselogindesk.blogspot.co.at
 coinbaselogindesk.blogspot.co.id
 coinbaselogindesk.blogspot.com.ar
 coinbaselogindesk.blogspot.com.br
-coinbaselogindesk.blogspot.com.co
 coinbaselogindesk.blogspot.com.ee
 coinbaselogindesk.blogspot.co.uk
 coinbaselogindesk.blogspot.co.za
@@ -22486,7 +22432,6 @@ herbaputra.com
 herb.com.ru
 her-bdvonlinea-credito.pages.dev
 herboglobalayushman.in
-herbolario-yerbabuena.es
 herboluxzal.com
 herbripper.com
 herbsbrick.com
@@ -22539,7 +22484,6 @@ hergc.blogspot.fi
 hergeng2578.xyz
 heriame.online
 herimarc.fun
-herindasmantul.tarungdrajatsiokalama.com
 herinoser.com
 herioaunzmiuna.2kool4u.net
 heritagebank-au.com
