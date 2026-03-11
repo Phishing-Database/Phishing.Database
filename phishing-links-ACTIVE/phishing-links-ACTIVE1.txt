@@ -1362,7 +1362,6 @@ http://107.170.198.4
 http://107.172.197.126/ap/signin?openid.pape.maxauthage=0&openid.returnto=https://www.amazon.co.jp/?ref=navemhdresignin&openid.identity=http://specs.openid.net/auth/2.0/identifierselect&openid.assochandle=jpflex&openid.mode=checkidsetup&key=a@b.c&openid.claimedid=http://specs.openid.net/auth/2.0/identifierselect&openid.ns=http://specs.openid.net/auth/2.0&&ref=navemhdclcsignin
 http://107.172.206.102/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://107.175.178.114/mu/www.paypal.com/us/home.html
-http://107-20-27-45.cprapid.com/outlook
 http://107473.cc
 http://107.6.242.131/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin&ref_=nav_em_hd_clc_signinopenid.ns=http://specs.openid.net/auth/2.0
 http://107.6.242.135/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signinopenid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
@@ -1374,8 +1373,6 @@ http://107686-webmail-bell-index-csi.weebly.com
 http://108.103.167.72.host.secureserver.net/wp-includes/block-supports/NFCUcaptchanu/dashboard/2.php?2ac1c16a447aeb586356d813f881c62b-2ac1c16a447aeb586356d813f881c62b-2ac1c16a447aeb586356d813f881c62b2ac1c16a447aeb586356d813f881c62b2ac1c16a447aeb586356d813f881c62b2ac1c16a447aeb586356d813f881c62b2ac1c16a447aeb586356d813f881c62b2ac1c16a447aeb586356d813f881c62b2ac1c16a447aeb586356d813f881c62b2ac1c16a447aeb586356d813f881c62b2ac1c16a447aeb586356d813f881c62b
 http://108.103.167.72.host.secureserver.net/wp-includes/block-supports/NFCUcaptchanu/dashboard/2.php?525d1a3fc6a36196a78b0f207ca6fadf-525d1a3fc6a36196a78b0f207ca6fadf-525d1a3fc6a36196a78b0f207ca6fadf525d1a3fc6a36196a78b0f207ca6fadf525d1a3fc6a36196a78b0f207ca6fadf525d1a3fc6a36196a78b0f207ca6fadf525d1a3fc6a36196a78b0f207ca6fadf525d1a3fc6a36196a78b0f207ca6fadf525d1a3fc6a36196a78b0f207ca6fadf525d1a3fc6a36196a78b0f207ca6fadf525d1a3fc6a36196a78b0f207ca6fadf
 http://108.103.167.72.host.secureserver.net/wp-includes/block-supports/NFCUcaptchanu/dashboard/login.php
-http://10843627103.duckdns.org/index-login.php
-http://108.62.12.98/directing/Desj
 http://108.62.12.98/directing/Desj/lastdesj.php
 http://10868899.com
 http://1089.pattan.pantek88.com
@@ -1400,7 +1397,6 @@ http://10-files.paypal-merchant.ru
 http://10gbedavaa.dx.am
 http://10gbedvaa.dx.am
 http://10gbhediye.club
-http://10hjnghh.insupr.sa.com/a3lvc3razwxldmf0aw9ulwzvb2rzlmnvbq==/a3lvc3razwxldmf0aw9ulwzvb2rzlmnvbq==
 http://10sepmicrosoft.pages.dev
 http://10thplanetjiujitsuwalnutcreek.com/boa/verification
 http://10thplanetjiujitsuwalnutcreek.com/boa/verification/action2.php?cmd=login_submit&id=&session=
@@ -1433,11 +1429,9 @@ http://1115928.wcomhost.com/KIWI/12/3dsece.php
 http://1115928.wcomhost.com/KIWI/12/3dsec.php
 http://1115928.wcomhost.com/KIWI/12/paiement.php
 http://1115cc2.netsolhost.com
-http://11.172-245-112-195.cprapid.com/PosteItaliane
 http://111778d.wcomhost.com
 http://1118fc7.wcomhost.com
 http://111.90.149.220/banks/Desjardins/a40b89886fe5eb23fc134a53e1bd0af2
-http://111.90.150.48/banks/Simplii/6bfdbc73936ac1e92170585df286c056
 http://111.90.151.82
 http://111fc94.wcomhost.com/network/Amnd2024/3ds1.php
 http://111fc94.wcomhost.com/network/Amnd2024/3ds2.php
@@ -1490,7 +1484,6 @@ http://114ff54.wcomhost.com
 http://1150952primaveracristal1.filesusr.com/html/d94207_90cbd78fff460e72d156ee8a8824acb8.html?mte1mdk1mg==facebook/d=sn
 http://1150d8f.wcomhost.com
 http://1150fc5.wcomhost.com
-http://11511df.wcomhost.com
 http://1.15.154.143/wp-content/themes/YAEHZCZO/chchc/kd.html
 http://11528ad.wcomhost.com
 http://115293c.wcomhost.com
@@ -1508,7 +1501,6 @@ http://116-202-96-209.cprapid.com/Logistc-KVB/Redsys.html
 http://116-202-96-209.cprapid.com/.web-SwissPost/Blue-WinPost/Seleccione_medio_de_pago.php
 http://1164e4989ededf518a4.yolasite.com
 http://1165888888.com
-http://116.62.211.45/wp-content/includes/metabox/controls/assets/Chase-Online.html
 http://116.62.211.45/wp-content/uploads/2020/update/chase-online.html
 http://11664060568463011.duckdns.org
 http://1168d5a.dcomhost.com/baf.php
@@ -1621,7 +1613,6 @@ http://128.14.16.156/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claim
 http://128.14.16.233/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://128.14.226.253
 http://128.14.3.84/ap/signin?key=a@b.c
-http://128.199.168.125/1/online/CIBC/Validation
 http://128.199.168.125/1/online/CIBC/Validation/ebm-mobile-app/verify.html
 http://128.199.179.51/directing/www.cibc.mobi/ebm-mobile-anp/ebm-mobile-app/index.html
 http://128.199.186.4/wp-includes/111/LiinkedInhardest/900
@@ -17063,7 +17054,6 @@ http://69.167.151.209/files/9a365827a3a0244b9e5834c4c4aad480
 http://69.167.151.209/files/9a7662c6efd0ebe03fc012b58cdc8092/details.php
 http://69.167.151.209/files/9a79c03905a053a58462cde9f0079684/details.php
 http://69.167.151.209/files/9af9eb3ebd0a537608992419b959ecc0
-http://69.167.151.209/files/9b34e72d9ff8e5b718abcf8c5537f343
 http://69.167.151.209/files/9b68284b4277fa25ab89f3cf69c59230
 http://69.167.151.209/files/9b68284b4277fa25ab89f3cf69c59230/details.php
 http://69.167.151.209/files/9b7605a74fa5f5a6b1fd3c2a3c16d2a5/details.php
@@ -17711,7 +17701,6 @@ http://71939.com
 http://7194.jvcapitalgroup.com/.WYA10ELmsq.aHR0cHM6Ly9jeXByZXNzLXdlbGwtY2hpY2tlbi5nbGl0Y2gubWUvODEyOTEwLmh0bWw/ZW09YWtvdmFjc0B0bG1maXJlLm9yZwk=
 http://719f84ec.rmfzkg.cyou/amagc
 http://71a417.d8406.top
-http://71c375a5.qepfmq.shop/amagc
 http://71c69d66.kjd4-li3yd.cn/amah5
 http://71ce.files-protectiion.workers.dev
 http://71e6bbf5.sehyrehytju.shop/amagc
