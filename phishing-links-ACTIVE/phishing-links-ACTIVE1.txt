@@ -1133,7 +1133,6 @@ http://1000000000007349476828349853.ml/incorrect_email.html
 http://1000000000007349476828349853.ml/Login_to_Facebook.html
 http://1000000000007349476828349854.ml/incorrect_email.html
 http://1000000000007349476828349854.ml/Login_to_Facebook.html
-http://1000000000007349476828349855.ml/Login_to_Facebook.html
 http://1000000000009696968425659661.tk/incorrect_email.html
 http://1000000000009696968425659665.tk/incorrect_email.html
 http://1000000000009696968425659665.tk/Login_to_Facebook.html
@@ -1148,7 +1147,6 @@ http://100000000003215641153410888-gq.tk/incorrect_email.html
 http://100000000003215641153410889-gq.tk/incorrect_email.html
 http://100000000003215641153410889-gq.tk/Login_to_Facebook.html
 http://100000000003215641153410890-gq.tk/incorrect_email.html
-http://1000000000074558557412569836451.tk/incorrect_email.html
 http://1000000000074558557412569836452.tk/checkpoint_next.html
 http://1000000000074558557412569836453.tk/checkpoint_next.html
 http://1000000000074558557412569836453.tk/incorrect_email.html
@@ -1204,7 +1202,6 @@ http://100000000087146589746541348-gq.tk/incorrect_email.html
 http://100000000087146589746541348-gq.tk/Login_to_Facebook.html
 http://100000000087146589746541349-gq.tk/checkpoint_next.html
 http://100000000087146589746541349-gq.tk/incorrect_email.html
-http://100000000087146589746541349-gq.tk/Login_to_Facebook.html
 http://100000000087146589746541350-gq.tk/incorrect_email.html
 http://100000000087146589746541350-gq.tk/Login_to_Facebook.html
 http://1000000000985416511041547621-gq.tk/Login_to_Facebook.html
@@ -1336,7 +1333,6 @@ http://104.194.247.160/ap/signin?openid.pape.max_auth_age=0&openid.return_to=htt
 http://104.194.247.180/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://104.194.247.184/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://104.194.247.185/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
-http://104.197.255.241/Finance/atb/index.php
 http://104.198.125.199/go/0cc85d9290fe3851eb91f4f3d/update/complete.php?ip=87.114.124.33
 http://104.198.125.199/go/0cc85d9290fe3851eb91f4f3d/update/payment.php?ip=87.114.124.33
 http://104.198.125.199/go/3dd09be34ebf5cd6b565c57bb/update/complete.php?ip=196.52.84.51
@@ -1524,7 +1520,6 @@ http://11664060568463011.duckdns.org
 http://1168d5a.dcomhost.com/baf.php
 http://1168d5a.dcomhost.com/goto.php
 http://116ks.cc
-http://1171301.xyz
 http://117.138.149.34.bc.googleusercontent.com
 http://117256-apple.com
 http://117.54.12.146:81/da.php
@@ -1721,7 +1716,6 @@ http://129.226.221.56/v3/signin/identifier?continue=https://accounts.google.com/
 http://129.226.221.56/v3/signin/identifier?dsh=S-184269529:1689131938045405&continue=https://accounts.google.com/?&followup=https://accounts.google.com/?&ifkv=AeDOFXiuO1iylqXo_wpF731zAFJeUrLLFbheKHk0XpRgr-8e4xuRfRChPrCWTOKfky5v9GRX8MsK&passive=1209600&xrealip=107.178.239.216&flowName=GlifWebSignIn&flowEntry=ServiceLogin
 http://129.226.221.56/v3/signin/identifier?dsh=S-285047601:1689131933195179&continue=https://accounts.google.com/?&followup=https://accounts.google.com/?&ifkv=AeDOFXggSMNPNEXOZljmG_JJ5Pw3-QftQd7AZQxda29-R8DHTi7evOTfFiTVNFhHYZsc646R9DHO&passive=1209600&xrealip=107.178.239.216&flowName=GlifWebSignIn&flowEntry=ServiceLogin
 http://129.226.63.78
-http://12931-coinbase.com
 http://129605172-628396566327081281.preview.editmysite.com/uploads/1/3/1/1/131187547/bankofamerica2020-verification-center-boa-accounts.html
 http://129615-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 http://12.97.46.148
@@ -1751,7 +1745,6 @@ http://12sc00tiac.c1.biz
 http://12sc00tiac.c1.biz/stepb.php
 http://12se12.com/OneDrive
 http://12stepcds.com/pp/customer_center/customer-IDPP00C483/myaccount/settings
-http://12sucursalpersonastransaccionesbancolombia.com/transacciones/mua/USER.php?tk=xKmbwZuq3PCnh5gXFJof2WHsQBS4lE68
 http://12sz.ns.sl.pt
 http://12thpastor-wixsite-com.usrfiles.com/html/3b1110_677083d48a67dd6ad5b939da8ac162ba.html
 http://12ublk.ncessentiellebeauty.com/lsexten/bHNleHRlbkBhZ3JhY2Uub3Jn
@@ -1784,7 +1777,6 @@ http://13.125.244.35
 http://13.126.65.8/DocExaDemo/uploads/index.php/bofa/bofa/1176e01a2ee4a6a1746517739/sitekey.php
 http://13.126.65.8/DocExaDemo/uploads/index.php/bofa/bofa/1176e01a2ee4a6a1746517739/success.htm
 http://13.126.65.8/DocExaDemo/uploads/index.php/bofa/bofa/1df1e7b27976720f84ae83017/sitekey.php
-http://13.126.65.8/DocExaDemo/uploads/index.php/bofa/bofa/1df1e7b27976720f84ae83017/success.htm
 http://13.126.65.8/DocExaDemo/uploads/index.php/bofa/bofa/95843de35406f3cab0b2dcf2b
 http://13.126.65.8/DocExaDemo/uploads/index.php/bofa/bofa/95843de35406f3cab0b2dcf2b/sitekey.php
 http://13.126.65.8/DocExaDemo/uploads/index.php/bofa/bofa/9b094075409d3a723c7ee3d9e/sitekey.php
@@ -1876,7 +1868,6 @@ http://134.209.158.88/plugnew/online/CIBC/eeb1de31adf9f53cc4fae7cae96ffedb/ebm-m
 http://134.209.158.88/plugnew/online/CIBC/Validation/ebm-mobile-app/index2.html
 http://134.209.193.214/banks/ATB/business.html
 http://134.209.193.214/banks/CIBC
-http://134.209.193.214/banks/CIBC/ebm-mobile-app/index2.html
 http://134.209.194.89/directing/National/index.html
 http://134.209.198.175/ondetverifier.html
 http://134.209.23.25/banks/ATB
@@ -1890,7 +1881,6 @@ http://134.209.38.210/secure/directing/desjardins/identifiantunique/questions.ph
 http://134.209.38.210/secure/directing/www.cibc.mobi
 http://134.209.49.14/acessarconta3.htm
 http://134.209.98.14/~sfexpres/webscr/2151531e0055c8c81585c663ed8218fd/websc-carding.php
-http://134.209.98.14/~sfexpres/webscr/7617148b744e55d312fdc1c84a335e6a/websc-bank.php
 http://134.209.98.14/~sfexpres/webscr/aadb86e95a74c49cef7bbb3ad550f315/websc.php
 http://134.209.98.14/~sfexpres/webscr/aca1b0c2d7abb60534090afba3941c7e/websc.php?xraakenj7ph0ffggq9oy2dt1pdrvyhquizznwlctvjs85cskimm3blbxew4o6udpizxrfaqioqr8onmf5e1m2bwdezasyhcuhcjs67n09xu4tvllwktvgbyjp3kg85076558871
 http://134.236.212.2/obeclms/tel
@@ -2149,7 +2139,6 @@ http://139.59.15.134/online/CIBC/Validation/ebm-mobile-app/index.html
 http://139.59.15.134/online/CIBC/Validation/ebm-mobile-app/verify.html
 http://139.59.158.120/directing/desjardins/identifiantunique/ondetverifier.html
 http://139.59.158.120/directing/www1.simplii.login.com
-http://139.59.158.120/directing/www1.simplii.login.com/index.html
 http://139.59.158.120/directing/www.cibc.mobi/ebm-mobile-anp/ebm-mobile-app/index.html
 http://139.59.183.234/MhISQmzPmEyAPYWk
 http://139.59.192.191/netflixbilling
@@ -2233,7 +2222,6 @@ http://139.59.63.124/media/aa/2020/019/www.usaa.com-inet.pages-security_token_lo
 http://139.59.63.124/media/aa/2020/019/www.usaa.com-inet.pages-security_token_logon_options/base/nosection/question.php
 http://139.59.63.124/media/css/2020/019/www.usaa.com-inet.pages-security_token_logon_options/base/nosection
 http://139.59.63.124/new/2020/019/www.usaa.com-inet.pages-security_token_logon_options/base/nosection
-http://139.59.63.124/new/2020/019/www.usaa.com-inet.pages-security_token_logon_options/base/nosection/email2.php
 http://139.59.63.124/new/2020/019/www.usaa.com-inet.pages-security_token_logon_options/base/nosection/pin.php
 http://139.59.69.59/mygov/MyGov/otp.html
 http://139.59.73.174/banks/CIBC
@@ -2426,7 +2414,6 @@ http://142.93.217.212/online/Simplii/4ae3e3582e1c1152ba3496d2c6dcf9be/ebm-mobile
 http://142.93.225.106/directing/desjardins/identifiantunique/ondetverifier.html
 http://142.93.225.106/directing/desjardins/identifiantunique/questions.php
 http://142.93.225.106/directing/www1.simplii.login.com
-http://142.93.225.106/directing/www.atbonline.com/ATB/complete.html
 http://142.93.225.106/directing/www.atbonline.com/ATB/details.html
 http://142.93.225.106/directing/www.atbonline.com/ATB/login.html
 http://142.93.225.106/directing/www.atbonline.com/ATB/question.php
@@ -2470,7 +2457,6 @@ http://143.244.146.6
 http://143.244.186.239
 http://1432719184.xyz
 http://143.92.33.206/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2F%3Fref_%3Dnav_em_hd_re_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&&ref_=nav_em_hd_clc_signin
-http://143.92.51.105/ap/signin?key=a@b.c
 http://143.92.51.12/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://143.92.51.17/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net%25
 http://143.92.51.25/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
@@ -2522,7 +2508,6 @@ http://146.249.92.34.bc.googleusercontent.com/directing/www.atbonline.com/ATB/qu
 http://14.63.175.171/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://14642746f3dc128e56c0a2f92df6c88f-dot-gle9392420309493993.rj.r.appspot.com
 http://146441.duniyahaigol.com/s
-http://146.66.97.164/~agencyr0/wp-includes/widgets/BOAfixed/BOA%20fulz%20Qs
 http://146.66.97.164/~agencyr0/wp-includes/widgets/BOAfixed/BOA%20fulz%20Qs/login.php?cmd=login_submit&id=4b7f24bf4dd3e2af0b586143cc642eec4b7f24bf4dd3e2af0b586143cc642eec&session=4b7f24bf4dd3e2af0b586143cc642eec4b7f24bf4dd3e2af0b586143cc642eec
 http://146.66.97.164/~agencyr0/wp-includes/widgets/BOAfixed/BOA%20fulz%20Qs/login.php?cmd=login_submit&id=6fe22f2961ec0153fd4ddaa98f6221be6fe22f2961ec0153fd4ddaa98f6221be&session=6fe22f2961ec0153fd4ddaa98f6221be6fe22f2961ec0153fd4ddaa98f6221be
 http://146.66.97.164/~agencyr0/wp-includes/widgets/BOAfixed/BOA%20fulz%20Qs/login.php?cmd=login_submit&id=9e1f062ab838af35b96532f2a3c68c989e1f062ab838af35b96532f2a3c68c98&session=9e1f062ab838af35b96532f2a3c68c989e1f062ab838af35b96532f2a3c68c98
@@ -2728,7 +2713,6 @@ http://154.30.211.130.bc.googleusercontent.com
 http://154.41.229.11/sh/Accepted/coco/login.php?cmd=login_submit&id=19af30d536e1c70bfa53408be703af7f19af30d536e1c70bfa53408be703af7f&session=19af30d536e1c70bfa53408be703af7f19af30d536e1c70bfa53408be703af7f
 http://1545684infoupadate.co.vu
 http://1546.000webhostapp.com/promocao.php
-http://1548373.dropbox-mediafire.biz.id
 http://1551122.com
 http://1551311.cf-pann.biz.id/vhsfhqpdhdsih6
 http://155.138.144.207/banks/CIBC
@@ -2758,7 +2742,6 @@ http://155.94.170.223/signin/?openid.pape.max_auth_age=0&openid.return_to=https:
 http://155.94.184.34/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
 http://155.94.201.123
 http://155y02.duckdns.org
-http://1560127607648562bg-verif.github.io
 http://1560835922.nzingaadvisors.co.za/ipfs/bafybeihhfqmqfzqrrctrrqgpdcnbym74jt3pdj5ojwslcol35425aqezle/MTY5NjU0NjcyMQ?MjE1Njk2OTU=-sfmaxZ2VuLXBneC0xMDEwNTU3MjEzLWlmeG1hcmsuZ29yZG9uLWlzeHN0cmF0b20uY29tsf-1MC4w
 http://1561lboht.duckdns.org
 http://1562169barbiemakeup9.filesusr.com/html/1a2f10_90cbd78fff460e72d156ee8a8824acb8.html?mtu2mje2oq==facebook/*
@@ -2794,7 +2777,6 @@ http://15702157022.200.ardestankimiacable.com
 http://15702157022.380.ardestankimiacable.com
 http://15702157022.470.ardestankimiacable.com
 http://15704439559132dc47b70e116fcf08cb3e2877eb1075ba1c2de7ec3777.pages.dev
-http://157.230.113.245/wp-content/plugins/elementor/container/app/pys/varutil/hali/apo/a4c8a11f61a7e3f29c72e8d1f2631fb1/login.php
 http://157.230.122.24/m=weblogin/loginform.ws1596,59635,47845,65,22
 http://157.230.146.46/banks/CIBC/index.html
 http://157.230.146.46/banks/Desjardins
@@ -2847,7 +2829,6 @@ http://157.230.74.255/banks/CIBC/online
 http://157.230.74.255/banks/CIBC/online/index2.html
 http://157.230.74.255/banks/Simplii/index.html
 http://157.230.79.11/banks/Simplii
-http://157.245.100.126/banks/CIBC/index.html
 http://157.245.102.151/banks/RBC
 http://157.245.103.90/banks/CIBC
 http://157.245.107.92/banks/ATB/business.html
@@ -2914,7 +2895,6 @@ http://1581807611.915678.xyz
 http://1581807611.915678.xyz/2023/04/20/vidajcjiawmh7xrqc2n13y7q230420.shtml
 http://1581807611.915678.xyz/2024/07/02/vide5kd1xsq7frkbtplps1ok240702.shtml
 http://1581807611.915678.xyz/2024/07/08/videzks2lgaf9zxh2jmcpboz240708.shtml
-http://158.197.95.34.bc.googleusercontent.com/app.juridico/router-app/router_finish.php?secury=11,05,16,AM,35,2,02,000000,05,11,2020,Wednesday;.dll
 http://158.197.95.34.bc.googleusercontent.com/app.juridico/router-app/router_info.php?secury=11,02,23,AM,35,2,02,000000,05,11,2020,Wednesday;.dll
 http://158.197.95.34.bc.googleusercontent.com/app.juridico/router-app/router_pass_error.php
 http://158.247.220.182
@@ -2979,7 +2959,6 @@ http://159.203.46.12/directing/desjardins/identifiantunique/questions.php
 http://159.203.46.12/directing/www.atbonline.com/ATB/details.html
 http://159.203.46.12/directing/www.atbonline.com/ATB/processing.php
 http://159.203.46.12/directing/www.cibc.mobi/ebm-mobile-anp/accountConfirm.html
-http://159.203.46.12/directing/www.cibc.mobi/ebm-mobile-anp/account.php
 http://159.203.57.210/banks/TD
 http://159.203.57.251/banks/Desjardins/questions.php
 http://159.203.57.251/banks/Simplii/ebm-mobile-app
@@ -3045,7 +3024,6 @@ http://15a2c142.adorn-insight.co.uk/fr
 http://15bet988.com
 http://15bet988.com/Content/common/js/pluging
 http://15bet988.com/Content/common/plugins/layer
-http://15bet988.com/Content/custom/css
 http://15bet988.com/Custom
 http://15bet988.com/Home
 http://15bro2719u.125mb.com
@@ -3144,7 +3122,6 @@ http://162.144.39.157/~ransdomsipq/xx/cea95/details.php
 http://162.144.45.9/~younglordipq/xx/cbd53
 http://162.144.53.64/~cholordipq/xx/4512a/details.php
 http://162.144.53.64/~cholordipq/xx/4512a/wallet.php
-http://162.144.57.196/~thedeadzonlnipq/xx/6050b
 http://162.144.60.237/~chooselyipq/xx/80bf8
 http://162.144.60.237/~knowsrealipq/xx/22785/details.php
 http://162.144.60.237/~lonremtipq/xx/c0dc2
@@ -3173,7 +3150,6 @@ http://162.210.70.9/~lanbafs/.kjs/ti-uchjsdg/refunde/US-EN298121/1.php
 http://162.210.70.9/~lanbafs/.kjs/ti-uchjsdg/refunde/US-EN586581/1.php?US=_16504fe754ba56385d3d1735b89cb6b2=United+States
 http://162-212-152-19.cprapid.com/La-Suisse-PostAG/Seleccione_medio_de_pago.php
 http://162-213-248-66.cprapid.com
-http://162.214.103.192/~hmn1/bmo-detail-RD452-user-em-quest
 http://162.214.65.22/cgi/Chase/0f199c8578ad14a7722d2c021210562d
 http://162.215.211.35/~krishisanchar/admin/controller/page/manage/?view=login&appIdKey=fcd00c0656cc490&country=
 http://162.221.189.220/facturacion/actualizaciones/imagenes/tmp/recovery/4464565656566.php
