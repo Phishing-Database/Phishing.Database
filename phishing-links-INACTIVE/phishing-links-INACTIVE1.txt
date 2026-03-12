@@ -2186,6 +2186,7 @@ http://100000000003215641153410884-gq.tk/incorrect_email.html
 http://100000000003215641153410884-gq.tk/Login_to_Facebook.html
 http://100000000003215641153410885-gq.tk/incorrect_email.html
 http://100000000003215641153410886-gq.tk/incorrect_email.html
+http://100000000003215641153410886-gq.tk/Login_to_Facebook.html
 http://100000000003215641153410887-gq.tk/checkpoint_next.html
 http://100000000003215641153410887-gq.tk/Login_to_Facebook.html
 http://100000000003215641153410888-gq.tk/Login_to_Facebook.html
@@ -4630,6 +4631,7 @@ http://13.229.247.107/netbank
 http://13.229.247.107/netbank/app.php?ServerID=zgVPYKYujHvEdAZjvpvcLWHnOym&ver=45
 http://1322-coinbase.com
 http://13.232.133.100
+http://13.232.133.100/mue/USER/scis/pm0q2Baa8romZMv44xfau2B5aYpqReZyrUayjiORFvLOQ3D/no-back-button
 http://13.232.1.99:8088/alo.php
 http://13.232.24.89/inst1234?token=27
 http://13-232-88-67.cprapid.com/dpd/update.php
@@ -4941,6 +4943,7 @@ http://13.78.215.193/banks/Tangerine/questions.html
 http://13.78.231.32/banks/BMO
 http://13.80.123.101/82mRFqKpG
 http://138.197.11.42
+http://138.197.131.52/directing/www.cibc.mobi/ebm-mobile-anp/account.php
 http://138.197.136.185/bnc/National%20Bank%20Online.html
 http://138.197.136.185/cibc/bank
 http://138.197.140.102/banks/Desjardins/Step1.html
@@ -5491,6 +5494,7 @@ http://142.93.135.226/directing/National/index.html
 http://142.93.143.77/banks/ATB/business.html
 http://142.93.143.77/banks/CIBC/ebm-mobile-app/index.html
 http://142.93.143.77/banks/CIBC/index.html
+http://142.93.144.153/banks/CIBC/index.html
 http://142.93.144.67/Refund/online/CIBC/94537e6a21e1b027bc4896b09788ceb4/ebm-mobile-app/index.html
 http://142.93.144.67/Refund/online/CIBC/94537e6a21e1b027bc4896b09788ceb4/ebm-mobile-app/verify.html
 http://142.93.148.123/TX/banks/ATB7698/ATB/logging.php
@@ -5785,6 +5789,7 @@ http://152.89.218.129/Redirection-system3/index.php?referrer=other
 http://152.89.218.88/Redirection-system3/index.php?referrer=other
 http://15-2jonmbzbxjd.buzz
 http://15-2kjcxibdpqpicx.buzz
+http://15-2kjcxibjdfhtriwe.buzz
 http://15-2lkjxcbkuwz.buzz
 http://15-2nkzivbuewmdg.buzz
 http://153.149.170.130/pki/reset/5dd3e474f6e08e3316ce5e3bc36c666e
@@ -5801,6 +5806,7 @@ http://153.92.208.164/sh/I489c5/scotiaonline
 http://153.92.208.164/sh/I489c5/scotiaonline/login.php?cmd=login_submit&id=fdee2a6bd6f34066c089b322559b8e40fdee2a6bd6f34066c089b322559b8e40&session=fdee2a6bd6f34066c089b322559b8e40fdee2a6bd6f34066c089b322559b8e40
 http://153.92.208.164/sh/I489c5/scotiaonline/step.php
 http://153.92.208.164/sh/I489c5/simplii/login.php?cmd=login_submit&id=21a605d3bfef8ddfe9154a7a2a2c1b2521a605d3bfef8ddfe9154a7a2a2c1b25&session=21a605d3bfef8ddfe9154a7a2a2c1b2521a605d3bfef8ddfe9154a7a2a2c1b25
+http://153.92.208.164/sh/I489c5/tab
 http://153.92.214.176
 http://153.92.214.176/confir.php?id_user=&07,19-55,19,06-19,pm
 http://153.92.214.176/usuer.php
@@ -6055,6 +6061,7 @@ http://159.203.26.132/index91484101498.php
 http://159.203.37.186/banks/CIBC/ebm-mobile-app/index.html
 http://159.203.37.186/banks/Desjardins/ondetverifier.html
 http://159.203.38.154/directing/National/index.html
+http://159.203.41.51/MonRemboursement/banks/CIBC
 http://159.203.42.117/banks/CIBC
 http://159.203.42.117/banks/Scotia/confirm.html
 http://159.203.42.59/Absa%20Online.php
@@ -6295,6 +6302,7 @@ http://162.240.80.146/mimicr/Akee.exe
 http://162.240.80.146/mimicr/Akee.ps1
 http://162.240.80.146/mimicr/AnydeskBackdoor.ps1
 http://162.240.80.146/mimicr/AnyDesk.exe
+http://162.240.80.146/mimicr/anyinstall.bat
 http://162.240.80.146/mimicr/CheckUpdate%20-%20Copie.php
 http://162.240.80.146/mimicr/CheckUpdate2.php
 http://162.240.80.146/mimicr/CheckUpdate3.php
@@ -6321,6 +6329,7 @@ http://162.240.80.146/mimicr/onsk.exe
 http://162.240.80.146/mimicr/RuntimeBorker2han.exe
 http://162.240.80.146/mimicr/RuntimeBorkerhan.exe
 http://162.240.80.146/mimicr/stel1.exe
+http://162.240.80.146/mimicr/TokenBorkerCFG.exe
 http://162.240.80.146/mimicr/update_log_5.7.txt
 http://162.240.80.146/mimicr/vcr.exe
 http://162.240.80.146/mimicr/wallet-clean-check.exe
@@ -6513,6 +6522,7 @@ http://1636365.com/assets/40popperjs.36402333.js/assets/assets/40popperjs.364023
 http://1636365.com/assets/40popperjs.36402333.js/assets/assets/40vue.8c84d7fe.js/assets/40ctrl.b082b0c1.js/assets
 http://1636365.com/assets/40popperjs.36402333.js/assets/@ctrl.b082b0c1.js/assets/assets
 http://1636365.com/assets/40popperjs.36402333.js/assets/@ctrl.b082b0c1.js/assets/assets/@vueuse.7ab573ac.js/assets
+http://1636365.com/assets/40popperjs.36402333.js/assets/@ctrl.b082b0c1.js/assets/@ctrl.b082b0c1.js/assets
 http://1636365.com/assets/40popperjs.36402333.js/assets/@ctrl.b082b0c1.js/assets/@element-plus.48bbde93.js/assets
 http://1636365.com/assets/40popperjs.36402333.js/assets/@ctrl.b082b0c1.js/assets/@floating-ui.4bc9703a.js/assets/assets
 http://1636365.com/assets/40popperjs.36402333.js/assets/@element-plus.48bbde93.js/assets/@floating-ui.4bc9703a.js/assets
@@ -6597,6 +6607,7 @@ http://1636365.com/assets/40vueuse.4080c24a.js/assets/assets/assets/assets/asset
 http://1636365.com/assets/40vueuse.4080c24a.js/assets/assets/assets/@emotion.069aa8d1.js/assets
 http://1636365.com/assets/40vueuse.4080c24a.js/assets/assets/assets/@floating-ui.4bc9703a.js/assets/assets
 http://1636365.com/assets/40vueuse.4080c24a.js/assets/assets/@ctrl.b082b0c1.js/assets
+http://1636365.com/assets/40vueuse.4080c24a.js/assets/assets/@popperjs.36402333.js/assets/@emotion.069aa8d1.js/assets
 http://1636365.com/assets/40vueuse.4080c24a.js/assets/@ctrl.b082b0c1.js/assets/assets/@intlify.595663c5.js/assets
 http://1636365.com/assets/40vueuse.4080c24a.js/assets/@happys.755bd3e6.js/assets
 http://1636365.com/assets/40vueuse.4080c24a.js/assets/@happys.755bd3e6.js/assets/@ctrl.b082b0c1.js/assets/assets
@@ -6715,6 +6726,7 @@ http://1636365.com/assets/@popperjs.36402333.js/assets/assets/assets/@vueuse.7ab
 http://1636365.com/assets/@popperjs.36402333.js/assets/assets/@floating-ui.4bc9703a.js/assets/@popperjs.36402333.js/assets
 http://1636365.com/assets/@popperjs.36402333.js/assets/assets/@popperjs.36402333.js/assets/@element-plus.48bbde93.js/assets
 http://1636365.com/assets/@popperjs.36402333.js/assets/assets/@popperjs.36402333.js/assets/@floating-ui.4bc9703a.js/assets
+http://1636365.com/assets/@popperjs.36402333.js/assets/assets/@vue.8c84d7fe.js/assets/@intlify.595663c5.js/assets
 http://1636365.com/assets/@popperjs.36402333.js/assets/assets/@vueuse.7ab573ac.js/assets/@popperjs.36402333.js/assets
 http://1636365.com/assets/@popperjs.36402333.js/assets/@ctrl.fd318bfa.js/assets/assets/assets/@floating-ui.4bc9703a.js
 http://1636365.com/assets/@popperjs.36402333.js/assets/@ctrl.fd318bfa.js/assets/@ctrl.b082b0c1.js/assets/assets
@@ -6727,6 +6739,7 @@ http://1636365.com/assets/@popperjs.36402333.js/assets/@element-plus.6b0e43d0.js
 http://1636365.com/assets/@popperjs.36402333.js/assets/@element-plus.6b0e43d0.js/assets/@vue.8c84d7fe.js/assets/assets
 http://1636365.com/assets/@popperjs.36402333.js/assets/@emotion.069aa8d1.js/assets/assets/@happys.755bd3e6.js/assets
 http://1636365.com/assets/@popperjs.36402333.js/assets/@emotion.069aa8d1.js/assets/@element-plus.48bbde93.js/assets/@vueuse.7ab573ac.js
+http://1636365.com/assets/@popperjs.36402333.js/assets/@happys.755bd3e6.js/assets/assets/@element-plus.48bbde93.js/assets
 http://1636365.com/assets/@popperjs.36402333.js/assets/@happys.755bd3e6.js/assets/assets/@happys.755bd3e6.js/assets
 http://1636365.com/assets/@popperjs.36402333.js/assets/@happys.755bd3e6.js/assets/assets/@popperjs.36402333.js/assets
 http://1636365.com/assets/@popperjs.36402333.js/assets/@happys.755bd3e6.js/assets/@element-plus.48bbde93.js/assets/@happys.755bd3e6.js
@@ -7141,6 +7154,7 @@ http://168.232.167.82
 http://168.232.167.82/step2.html
 http://168379036836846.my.id/vlation.php
 http://1686269641xing-adb.s3.amazonaws.com/index.html
+http://168874628660-168874628660168874628660168874628660168874628660.optomaindustries.com/?&168874628660168874628660168874628660&id=*@*&168874628660168874628660168874628660168874628660
 http://1688bet365.com
 http://1688mall.club
 http://16899199.com
@@ -7342,6 +7356,7 @@ http://174.138.59.40/a398cac5d37a532dc39420d4efddeb13/index2.php
 http://174.138.59.40/ad59c31aad29d8e197c55a33cc9c75d5
 http://174.138.59.40/be981271195cd7318799a00500682e6d/index2.php
 http://174.138.59.40/c381ce55eeaf216677c22192bba09385
+http://174.138.59.40/c381ce55eeaf216677c22192bba09385/index2.php
 http://174.138.59.40/c820bcf8d29f735215454971333e06c0/index2.php
 http://174.138.59.40/cf94b9921d3fb88b422237dc1d4ada46
 http://174.138.59.40/de2b952d8004188ca09218da43f4b059
@@ -7384,6 +7399,7 @@ http://176.31.3.245/login
 http://176.32.35.192/in
 http://176.32.35.192/in/cccd9057c7df537eebba01961033a166
 http://17638fik1927204pgrstrctdrcvry.co.vu
+http://177.107.171.2:8878/das.php
 http://177.11.54.161/~cssinfo/AlertNo02922929.account-updatesid2029-info-confirmation/update/bin
 http://177.11.54.161/~cssinfo/AlertNo02922929.account-updatesid2029-info-confirmation/update/bin/error.php
 http://177.11.54.161/~customerupdates/info.help-id.secure.updates.informations-account/update/bin/error.php
@@ -7407,6 +7423,7 @@ http://177.70.22.146/saos_etepi/aluno/secure/digital/07a8c8723c594ff26bf2d2ace35
 http://177.70.22.146/saos_etepi/aluno/secure/digital/07a8c8723c594ff26bf2d2ace3564192/login2.php
 http://177.70.22.146/saos_etepi/aluno/secure/digital/3514cecf4e4f587f3537746537892a43/login2.php
 http://177.70.22.146/saos_etepi/aluno/secure/digital/3514cecf4e4f587f3537746537892a43/login3.php
+http://177.70.22.146/saos_etepi/aluno/secure/digital/7b1eb7438f92757f0b1c76ce4719432a/login.php?cmd=login_submit&id=57ddecbdddd0469ef493048ad55f265b57ddecbdddd0469ef493048ad55f265b&session=57ddecbdddd0469ef493048ad55f265b57ddecbdddd0469ef493048ad55f265b
 http://177.70.22.146/treinamento/completion/secure/digital
 http://177.70.22.146/treinamento/completion/secure/digital/2ecb722adca1ab62e95fea8d5fc96777/login3.php
 http://177.70.22.146/treinamento/completion/secure/digital/51f37af38187292bc56c07570ffe87e2/login2.php
@@ -7569,6 +7586,7 @@ http://179.43.142.176/ing/a381b4cca6de89aa7a263b1a645ad07f/login
 http://179.43.142.176/ing/a99b88eb4587ccf2b081d22a2ac27d8e/login
 http://179.43.142.176/ing/ad123be1fe2d020f531be980445ba809/login
 http://179.43.142.176/ing/ae1a16eb2670d7ac6d3f302fdce00a4c/login
+http://179.43.142.176/ing/b373b35d40589e436112dc56cf5ed4d5/login
 http://179.43.142.176/ing/b581cc39092b4ce157593196b46c1d7e/login
 http://179.43.142.176/ing/cf775f90a364faa778fc726d8b6b5cbf/login
 http://179.43.142.176/ing/d26803d61ce6e60655cc892a7d16f9ba/login
@@ -7612,7 +7630,6 @@ http://17action99alert41connect4secure6servicee.duckdns.org/home/4d26c8c004308d0
 http://17action99alert41connect4secure6servicee.duckdns.org/home/92cb09f882c92c552a4b2d86125a8378/personal.php?token=1fa6e3c2b80aa8e038299a1e937667320ddcbd370bc17d3d0399d41ec2b7e12eadd571b8eeb6432fbca6e2b4e9a3868d0552c9a699b25a2614bf4c1cbff45c88
 http://17action99alert41connect4secure6servicee.duckdns.org/home/92cb09f882c92c552a4b2d86125a8378/questions.php?token=1fa6e3c2b80aa8e038299a1e937667320ddcbd370bc17d3d0399d41ec2b7e12eadd571b8eeb6432fbca6e2b4e9a3868d0552c9a699b25a2614bf4c1cbff45c88
 http://17bplb0z.switzerlandnesia.com
-http://17bplb0z.switzerlandnesia.com/chat
 http://17c0324ee668f5838572500a20834d2a-dot-gle9392420309493993.rj.r.appspot.com
 http://17dh04.com
 http://17dh07.com
@@ -7731,6 +7748,7 @@ http://18.216.175.17
 http://18.216.209.235/?key=uKOIS
 http://182.16.44.138/ap/signin?key=a@b.c
 http://182.16.84.76/index/user/main.html
+http://18.216.92.119/activates/?em=redacted@redacted.invalid&key=%25RAND%28100,999
 http://18.217.22.78/americanasnamorados
 http://18.217.234.123/index2.php
 http://18.217.53.87
@@ -7763,6 +7781,7 @@ http://182.253.197.100/kepegawaian/modules/penelitian/Modules/login-account/veri
 http://18.228.152.188/Itau/cartao
 http://18.228.152.188/Itau/cartao/acesso.php
 http://18.228.152.188/Itau/cartao/dados.php
+http://18.228.152.188/Itau/cartao/mobile/dados.php
 http://18.228.219.25/envio2.php
 http://18.228.219.25/inicio.html
 http://18.228.223.219/00448541a094841f0644/index.php?id=1
@@ -7912,6 +7931,7 @@ http://185.212.47.27/banks/Simplii/ebm-mobile-app/index.html
 http://185.212.47.75/Finance/bmo-mobile/index.php?dob=&name=&sin=
 http://185.212.47.75/Finance/mobilesco/index.php?name=3D&sin=3D&dob=3D
 http://185.212.47.75/Finance/tang/index.php?name=&sin=&dob=
+http://185.215.113.40/file
 http://185.215.113.40/file/pass.php
 http://185.215.113.89/r
 http://185.217.0.181
@@ -7949,6 +7969,7 @@ http://185.232.198.104.bc.googleusercontent.com/caixa/sinbc/home/v1/login
 http://185.232.198.104.bc.googleusercontent.com/caixa/sinbc/home/v5/login
 http://185.234.218.55/New/pininsert.php
 http://185.236.228.18
+http://185.244.149.177/details/Desjardins/c5b58f989c38579e52a2900088e636a7/authentificate.php
 http://185.244.151.84/~primelinking
 http://185.244.151.84/~primelinking/twostep/index.html
 http://185.245.2.167/lateron.asp
@@ -7973,6 +7994,7 @@ http://185.46.46.63
 http://1854c699.txat99.net/amagc
 http://185.62.190.174/ajahjhkajkajajjsjhdjjh45996959838sikdkjdkjdkj40969698389487sjkdjdjkdj47857887sdjjf/jahahjajjsjk309595984387487s78siudjkdjkdkj309595898387487djdjfjhfjh3985875878d8d9f9sdd8s784fj.html
 http://185.62.190.234
+http://185.62.190.234/120360/sicherheitscenter/deutschland/286558526335/banking/P6cLAv/?banking?operator=protect&s=true&userID=598
 http://185.62.190.234/274991/sicherheit/de/754850953770/bestaetigung/G9ZP4IYO/?bestaetigung?operator=protect&s=true&userID=5794
 http://185.66.91.34/lrr/attLRR/LrrController
 http://185.70.107.239/~acceptvi/eTransf/directing/simplii/mobile/index.html
@@ -7992,6 +8014,7 @@ http://185.99.133.192/user/Sim/d6388c38dfd73dbba56d199d17096cd9/user/index2.html
 http://185.99.133.192/user/Sim/d6388c38dfd73dbba56d199d17096cd9/user/index.html
 http://185.99.133.199/interac-online/directing/www1.royalbank.com/cgi-bin/rbaccess/rbunxcgi/ClientSignin.htm
 http://185.99.133.199/interac-online/directing/www1.royalbank.com/cgi-bin/rbaccess/rbunxcgi/rbcgi3m01.php
+http://185.99.133.3/user/Desjardins/c012d35cc96d674144d408fbcc0abd70
 http://185.99.133.88/directing/www1.royalbank.com/cgi-bin/rbaccess/rbunxcgi/ClientSignin.htm
 http://185.99.133.88/directing/www1.royalbank.com/cgi-bin/rbaccess/rbunxcgi/rbcgi3m01.php
 http://186.195.53.16/-
@@ -8008,6 +8031,7 @@ http://187.109.102.234/cadastrodistribuidores/app/util/bid
 http://187.109.102.234/cadastrodistribuidores/app/util/bid/information.php?access.x401144797&&data.x=en_3fc655f09e3449126994ba061
 http://187.109.102.234/cadastrodistribuidores/app/util/bid/login.php?access.x521725687&data.x=en_2e0ba5bbc04d4549461473312
 http://187.152.2.50/sites/default/files/languages/Area/0097232aa94134c6d50fc5f5ac65f7fa01c6adede10e88ef1a4b39a78040f2b5b92aa42523fb1a74d5b576311c297a42
+http://187.152.2.50/sites/default/files/languages/Area/bd0681b03f4a138931078c3eb22b9cc51fe083d94d9f9b404c1a818c87c2a3ad9084d3b56c1553c27e998ad0f2f07ccf
 http://187.152.2.50/sites/default/files/languages/Area/cdd1ceca1ac87eed23f47bb0cb3d2092eb02cbff0dc9e8e79901321751898ce193e64ba41ebe70b8c9416f8a4b62b2de
 http://1874488408.mexigas.com.mx/aoe39
 http://1877e78a.ssjapan.cn/amagc
@@ -8218,9 +8242,11 @@ http://192.236.209.216/secure.html
 http://192.236.236.231/Address.php?session=L5Q0GrQdde6iE51xB5B3Pa61kMMplpPPdFKda7YA4Kqc97dPhCv4vd7lMnCt
 http://192.236.236.231/Date.php?session=8oQmcq0KO4FOumLIZu9OEOTfEFxgvXHTiFoHk4gH4ejjwjtus8jgzykZxVhi
 http://192.237.236.161
+http://192.241.153.144/directing/desjardins/identifiantunique
 http://192.241.153.144/directing/desjardins/identifiantunique/index2.php
 http://192.241.153.144/directing/desjardins/identifiantunique/questions.php
 http://192.241.153.144/directing/www.atbonline.com/ATB/details.html
+http://192.245.167.32:8080/?rid=aptMpFf
 http://192.253.237.74
 http://192.254.69.54/itaucard
 http://192.254.76.99/pdf_adobe.attachment/login.php
@@ -8237,6 +8263,7 @@ http://192.81.217.224/DEVICE/ATB/confirm.html
 http://192.81.217.224/DEVICE/ATB/last.html
 http://192.81.217.224/DEVICE/CIBC
 http://192819287.104.ardestankimiacable.com
+http://192819287.154.ardestankimiacable.com
 http://192819287.474.ardestankimiacable.com
 http://192ad4ab.hiweo93il.shop/amagc
 http://193.0.141.193/Finish.php
@@ -8421,6 +8448,7 @@ http://198.55.96.123/index.php/2019-07-19_dw/m0uhxhf6tpgspmzi
 http://198.55.96.123/index.php/false/false/*
 http://198.55.96.123/index.php/false/false/false/false
 http://198.55.96.123/index.php/false/false/false/false/false/oegw.ht
+http://198.55.96.123/index.php/false/false/false/false/false/oegw.htm
 http://198.55.96.123/index.php/false/false/false/false/false/oegw.html
 http://198.55.96.123/index.php/false/false/false/false/oegw.html
 http://198.55.96.123/index.php/false/false/files/files
@@ -8602,6 +8630,7 @@ http://198.55.96.123/index.php/false/false/py1n.html/files/files/files/files/fil
 http://198.55.96.123/index.php/false/false/py1n.html/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
+http://198.55.96.123/index.php/false/false/py1n.html/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.html/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/false/false/py1n.xn--htm-kla
@@ -8693,6 +8722,7 @@ http://198.55.96.123/index.php/files/files/files/files/files/files/files/files/f
 http://198.55.96.123/index.php/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/files/files/files/files/files/files/files/files/files/files/files/files/files
+http://198.55.96.123/index.php/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/files/files/files/files/files/files/files/files/files/files/files/files/files/files/activityi.html
 http://198.55.96.123/index.php/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
 http://198.55.96.123/index.php/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files/files
@@ -8730,6 +8760,7 @@ http://199.204.248.168/~candhtru/o04m4kl5iuth/xo4abs6fknr4h/h4r9jrqtxhp7k/a7vq0m
 http://199.204.248.168/~candhtru/o04m4kl5iuth/xo4abs6fknr4h/h4r9jrqtxhp7k/a7vq0mkyr/qcqc1yd/cxytf00m/vy74do3b3p1vy8c/cd5f6152911d2a17f2d8b6877d4ff41d
 http://199.204.248.168/~candhtru/o04m4kl5iuth/xo4abs6fknr4h/h4r9jrqtxhp7k/a7vq0mkyr/qcqc1yd/cxytf00m/vy74do3b3p1vy8c/f9ff9500953f8f72d61fc347d9ba11ae
 http://199.204.249.212/www.spk.de/spk.sicherheit.htm
+http://1992319091web.com
 http://199.247.11.23/customer_center/customer-IDPP00C974/login.php
 http://19936t.com/ge/cc/validator?key=045d4fc7c32a4e85aefafc996465300e.8b4fc41281806c9823422e20b33e541a.1730396512&url=https
 http://19940-2870.s2.webspace.re
@@ -8828,6 +8859,7 @@ http://1chanel.tv-tovar.in.ua/Update365.zip
 http://1chanel.tv-tovar.in.ua/wells-fargo..zip
 http://1chanel.tv-tovar.in.ua/wordpress-5.3.2.zip
 http://1chanel.tv-tovar.in.ua/xb_ppl.zip
+http://1chat1.invstprogram.site
 http://1claimdiamond.000webhostapp.com
 http://1claimdiamond.000webhostapp.com/login.php
 http://1c.lbags.org/admin/controller/extension/extension/cccc/lin
@@ -8877,6 +8909,7 @@ http://1ebay-utente-notifica0nline.ueuo.com/index.htm
 http://1ebe56c6.qepfmq.shop/amagc
 http://1ed28f4a.ag2cno.cn/amagc
 http://1ed33f16.if9odn.shop/amagc
+http://1ed5561b.voag.cn/amagc
 http://1edd0967.voag.cn/amagc
 http://1ee6bbe6.cnmnw.com.cn/amagc
 http://1emy.biz
@@ -8904,11 +8937,13 @@ http://1fht5hgehtk6.blogspot.com/2023?m=1
 http://1fileshare-securedsharepoint.ga/office
 http://1firstbankprbanking.pages.dev
 http://1fitr.jackfrostloghomesanddesign.com
+http://1fsb.dudullc.com/?cmRvcm5AMWZzYi5iYW5r/0
 http://1g3kk4e.coolage.ir/?id=redacted@redacted.invalid
 http://1g9mi67itt0jqpo87ydv77o8p.winm.pro/alerte.php?phone=09-70-18-99-51
 http://1gardenworld.com/sso/online-banking/mobilenumber.php
 http://1gardenworld.com/sso/online-banking/otp2.php
 http://1-gdz.ru/xauth/6537781
+http://1.gilbaneco.gencmert.com/.778117.aHR0cHM6Ly9oYXllay1saWdodGluZy5jb20vd3AvNzc4MTE3L0dpbGJhbmVjby9tbG9tYmFyZGkvI21sb21iYXJkaUBnaWxiYW5lY28uY29t
 http://1gouv-bill0.com/Cra/Finance/atb/details.php
 http://1gouv-bill0.com/Cra/Finance/atb/finishmsg.html
 http://1gouv-bill0.com/Cra/Finance/atb/secquestions.php
@@ -8974,6 +9009,7 @@ http://1o0b08zv.sibpages.com
 http://1oa1io8j6.duckdns.org
 http://1onos-by-1and1.dqutvshwrq6kz.amplifyapp.com
 http://1ow61hd.ytyukai.cn/mastercard-ms
+http://1partyline.com/egaliciaeminent/188.166.98.24910554/agregar/telefono/contacto
 http://1pdtfaa59y5mthf0qesg.53244ds.xyz/index/usps/index.html
 http://1pgdh.zanjabilfood.com
 http://1.pinjam-kredit.com
@@ -9032,6 +9068,7 @@ http://1vrhp3.icu
 http://1vu0pp44.duckdns.org
 http://1.vzxwq.life/en/main
 http://1w5v7.weblium.site
+http://1we97.com
 http://1wg42mptbo.s3-website-eu-west-1.amazonaws.com
 http://1wgp04be1.richardl.xyz/usps/verification.html
 http://1wgvqc8zr.duckdns.org
@@ -9084,6 +9121,7 @@ http://2000000384679213-mx.tk/checkpoint_next.php
 http://200000754685982352.tk/Login_to_Facebook.html
 http://200000754685982353.tk/checkpoint_next.html
 http://200000754685982353.tk/Login_to_Facebook.html
+http://200000754685982354.tk/incorrect_email.html
 http://200000754685982354.tk/Login_to_Facebook.html
 http://200000754685982355.tk/incorrect_email.html
 http://200000754685982355.tk/Login_to_Facebook.html
@@ -9241,6 +9279,7 @@ http://20.151.118.69/Finance/bmo-mobile
 http://20.151.118.69/Finance/tang/questions.html
 http://20.151.12.78/indexx.php?0hrcode-myonportal=6&cmdONLINE=transfer-code5cef31459609220e89868bf04883690b
 http://20.151.131.255/Finance/tang/pin.php
+http://20.151.131.255/Finance/tang/questions.html
 http://20.151.134.68/Finance/tang/questions.html
 http://20.151.172.148/Finance/tang/pin.php
 http://20.151.175.173/Finance/tang
@@ -9267,6 +9306,7 @@ http://20.151.6.57/Finance/bmo-mobile
 http://20.151.65.84/Finance/bmo-mobile
 http://20.151.68.178/indexx.php/desj/accweb.mouv.desjardins.com/identifiantunique/identification.php
 http://20.151.68.234/Finance/tang/pin.php
+http://20.151.68.234/indexx.php?0hrcode-myonportal=6&cmdONLINE=transfer-code897413b7d4769f8ae26811c94737149e
 http://20.151.68.39/indexx.php?0hrcode-myonportal=6&cmdONLINE=transfer-code0d1e34c8e2ffc87901d73a214b1239f9
 http://20.151.6.94/Finance/tang/antibot.php
 http://20.151.73.21/Finance/tang
@@ -9288,6 +9328,7 @@ http://20.171.115.9/589458/422210y/product.php?sku=3325665
 http://20.172.231.76
 http://2017reset.sitey.me
 http://20.185.2.128/Finance/bmo-mobile
+http://20.185.220.194/banks/Desjardins
 http://2018905145.dsofperu.com/xamioterttr/foliutxs/entyiv/cdepi.htm?tek=redacted@redacted.invalid
 http://20.189.115.13/~viralvideoeu
 http://2018.zenith-pyrenees.com/wp-content/plugins/upspy/bankofamerica/login.php?cmd=login_submit&id=81f5195ea81db2f010feb922562cefb281f5195ea81db2f010feb922562cefb2&session=81f5195ea81db2f010feb922562cefb281f5195ea81db2f010feb922562cefb2
@@ -9310,6 +9351,7 @@ http://20200701101231.barsit.cloudns.cl/byolk
 http://20200701104133.barsit.cloudns.cl/byolk
 http://20200701104231.barsit.cloudns.cl/byolk
 http://20200701104331.barsit.cloudns.cl/byolk
+http://20200701104332.barsit.cloudns.cl/byolk
 http://20200701104631.barsit.cloudns.cl/byolk
 http://20200701105032.barsit.cloudns.cl/byolk
 http://20200701105549.barsit.cloudns.cl/byolk
@@ -9423,6 +9465,7 @@ http://2023linkedin.kimberlydrake.repl.co
 http://2023scrityadmn01accesbusnsspage223.co.vu
 http://2023updatesetting01informationbusiness.co.vu
 http://202403161311.pages.dev
+http://20241382564702070.duckdns.org
 http://20.24.157.229
 http://20.242.41.20
 http://20.242.41.20/loginaspx.php
