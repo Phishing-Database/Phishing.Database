@@ -1,2 +1,1 @@
 phishing-domains-INVALID1.txt
-phishing-domains-INVALID1.txt
