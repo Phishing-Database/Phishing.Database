@@ -1243,7 +1243,6 @@ http://1028.cy782914547.workers.dev
 http://1029yg.pages.dev
 http://103.109.101.72
 http://103.117.212.188/~eyeinter/www.accessunited.com/nn.htm
-http://103.125.189.202/hotvideopro/soygaf447025
 http://103.140.212.52/login/suspended.html
 http://103.140.238.246/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://103.143.73.41/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_%3Dnav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
@@ -1255,7 +1254,6 @@ http://103.155.93.209
 http://103.157.253.194/HYfsgdknDioasjfADhaf/SocialPhish-master/sites/paypal/login.html
 http://103.157.253.194/HYfsgdknDioasjfADhaf/SocialPhish-master/sites/yahoo/login.html
 http://103-219-154-102.cprapid.com
-http://103.226.124.220/.office365-microsoft-account/login.html
 http://103.30.211.132
 http://103.360-insurance.com
 http://103.40.8.188/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=%25%7BRECEIVER_ADDRESS%7D&openid.claimed_id=%25%7BRAND_TEXT_0%7D&ref_=nav_em_hd_clc_signin
@@ -1306,7 +1304,6 @@ http://10445636365.com
 http://10.4buyuklergazete.com/vendor/symfony/yaml/chaseonline.chase.com/surf3.php
 http://104thphoenix.com/wp-content/plugins/gpyyoabgyb/mil/china/bold/upload/en.php?rand=13inboxlightaspxn.1774256418&fid.4.1252899642&fid=4&fav.1&rand.13inboxlight.aspxn.1774256418&fid.1252899642&fid.1&email=a@a.c&.rand=13inboxlight.aspx?n=1774256418
 http://1051a2e8-48cf-4f98-988c-b1aa7ec7e290.htmlcomponentservice.com/get_draft?id=99ea0e_8eddaa8b0b3b6316a653bbd03eb5b48f.html
-http://10540061000004673885456745105.duckdns.org
 http://105e6e0.wcomhost.com/App-Nickel/moncompte/login-ACLIqWDKsRui5AL3yTAw6C1erWA/clients
 http://106.75.17.151/wp-content/za/amz/33d368b221
 http://106bet365.com
@@ -1400,7 +1397,6 @@ http://114052f.wcomhost.com
 http://114.115.214.106/instagram
 http://114.141.253.232/data/cache/css/net/482b31eee22486b99cdbe0ab36e959fd
 http://114.141.253.232/data/cache/css/net/539fd53b59e3bb12d203f45a912eeaf2
-http://114.141.253.232/data/cache/css/net/7ce3284b743aefde80ffd9aec500e085
 http://114.141.253.232/data/cache/css/net/838aac83e00e8c5ca0f839c96d6cb3be
 http://114.141.253.232/data/cache/css/net/98b418276d571e623651fc1d471c7811
 http://114.141.253.232/data/cache/css/net/a1c3ae6c49a89d92aef2d423dadb477f
