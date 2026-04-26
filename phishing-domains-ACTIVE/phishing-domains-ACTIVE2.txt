@@ -1,3 +1,4 @@
+s3-eu-west-1.amazonaws.com
 s3.eu-west-1.amazonaws.com
 s3.eu-west-2.amazonaws.com
 s3.eu-west-3.amazonaws.com
@@ -11230,6 +11231,7 @@ the-somerset.com
 thespiralinitiative.org
 thesunhotel.lumonatalabs.com
 thetech-facts.com
+thetechytalks.com
 thetollroads.com-1kbu.sbs
 thetollroads.com-3emo.sbs
 thetollroads.com-78z3.sbs
@@ -19273,6 +19275,7 @@ wonderful-carver.52-229-21-156.plesk.page
 wonderful-elbakyan.82-165-162-55.plesk.page
 wonderful-gecko-att.netlify.app
 wonderful-local-manage-id98147236.vercel.app
+wonderhindi.com
 wonder-project3.vercel.app
 wondrous-haupia-fb4876.netlify.app
 wonndr.xyz
