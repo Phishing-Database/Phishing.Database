@@ -1,3 +1,5 @@
+s3.de-1.qognify.cloud
+s3-deprecated.us-east-1.amazonaws.com
 s3.dualstack.us-east-1.amazonaws.com
 s3.dualstack.us-east-2.amazonaws.com
 s3.dualstack.us-west-2.amazonaws.com
@@ -17111,6 +17113,7 @@ vsjak.cn
 vs.login.msa.akadns6.net
 vsmzryrm.nxjsia.net
 v-start-ledger-auth.webflow.io
+vsxd.top
 vtelf.cfd
 vtiger.silferacademic.com
 v.tikobildirim.com
