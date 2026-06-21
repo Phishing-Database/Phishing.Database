@@ -1,2 +1,0 @@
-app.tornado.cash
-tornado.cash

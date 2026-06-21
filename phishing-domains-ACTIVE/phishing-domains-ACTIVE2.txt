@@ -1,3 +1,5 @@
+s04g.xyz
+s04i.xyz
 s06vmdwpm1.4016.gencmert.com
 s09c1hase.kesug.com
 s09f2xnk.square.site
@@ -12280,6 +12282,7 @@ tordjman.me
 toren-labs.pages.dev
 torin-studio.pages.dev
 toriven.za.com
+tornado.cash
 tornado.pirtahotro.workers.dev
 tornio.lykjsj.com
 torn-meta-priv-biz.pages.dev
