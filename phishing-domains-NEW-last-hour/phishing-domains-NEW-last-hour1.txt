@@ -1,6 +1,1 @@
-tornado-cash.link
-tornadocash.net
-tornadocash.ws
-tornadoeth.cash
-tornadopro.cash
-tornadoproxy.eth.limo
+
