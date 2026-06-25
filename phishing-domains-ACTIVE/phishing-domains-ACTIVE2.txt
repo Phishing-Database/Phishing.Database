@@ -8852,6 +8852,7 @@ store.powereduseronline.shop
 store.powereduser.shop
 store.poweredworkshopitem.com
 store.sagoji.sa.com
+stores-dofus.fr
 store.securepowered.com
 storeshopon-line.xyz
 store.steamchina.queniuam.com
