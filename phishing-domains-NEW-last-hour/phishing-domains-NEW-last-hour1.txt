@@ -1,2 +1,1 @@
-access-authority-2faa9bb814.s3.eu-north-1.amazonaws.com
-updatenow.click
+
