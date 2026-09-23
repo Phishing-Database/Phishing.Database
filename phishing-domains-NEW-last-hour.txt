@@ -1,0 +1,11 @@
+check-hardware.org
+check-products.org
+check-products.shop
+en-ledger.app
+en-ledger.com
+ledger-connections.com
+ledger-connect-live-app.pages.dev
+ledger-connect-live-login.pages.dev
+ledger-connect-live.pages.dev
+v2-exodus.com
+v2-exodus.org
