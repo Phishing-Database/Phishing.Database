@@ -51978,6 +51978,14 @@ https://charigelly.com
 https://charigelly.com/?ck=1
 https://charigelly.org
 https://charigelly.org/?ck=1
+https://check-hardware.org/?u=411f969ed62e70b713aef7fce7577c81
+https://check-hardware.org/?u=cb21ce0eba7682d0379bd2c2c50a1787
+https://check-products.org/?u=352d02e6e29671392d77ccd83d4b02a6&ts=1789622837&t=d0483ff17d6eef8d
+https://check-products.org/?u=94647aa17e888c12f251c5ed41128f52&ts=1789582990&t=b9fd6a170d9b8d2b
+https://check-products.org/?u=e80a874534dfc48eab6ffa9cf9a3836a&ts=1789968559&t=e12da169783d101e
+https://check-products.org/words.htm
+https://check-products.shop/?u=6d8769146b4cf945974900b6dfe2d180&ts=1789488473&t=edfe1d78176348c4
+https://check-products.shop/?u=dbb1029cf53f77f3911af0083859ff35&ts=1789473201&t=c934d79b5d24d2b4
 https://chicavora.com
 https://chicavora.com/?_subid=2jovkko.bb.4f8qej&_token=22alpej73mbvq.1764990279.1.027ed6c7205438f4796c8be99537837a
 https://chicavora.com/?_subid=2jovkko.bb.4f8qf7&_token=22alpej73mbvq.1764990278.2.12b5fcf61cb974bd0135054fdfc9ad6e
@@ -57119,6 +57127,9 @@ https://v1x.362.mytemp.website/BE
 https://v2-camelot-ex.com
 https://v2-dexcsreener.net
 https://v2-dexscreener.cc
+https://v2-exodus.com/?u=3167e87752072b5f055d65f6c677b845
+https://v2-exodus.com/?u=3bc878b1c94f00ac4e8ba8e40eedd48f
+https://v2-exodus.org/?u=89db547027e98c5ddcd03783bce60eb7&ts=1789537273&t=5767d34c135674db
 https://v2-solavre.com
 https://v3simpleswap.com
 https://v3-yearn.org
