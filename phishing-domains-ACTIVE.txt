@@ -8989,6 +8989,7 @@
 1pancakeswap.com
 1partyline.com
 1passvvord.org
+1password-login.com
 1pdf-sc4n-6a5b.yu7uijh560.workers.dev
 1pdtfaa59y5mthf0qesg.53244ds.xyz
 1pfwec.qwo231sdx.club
@@ -54011,6 +54012,7 @@ alfa-medik.com.ua
 alfamera.es
 alfametis.timesspot.com
 alfandegaria.com
+alfapati.com
 alfapizza.es
 alfaraenatour.com
 alfarahhealthcare.com
@@ -61829,6 +61831,7 @@ americanationalmuseum.com
 americanbars.com
 american-blue.com
 americanbycr.com
+americancandystores.co.uk
 americancbof.github.io
 americancenterforneuropsychiatry.com
 americanchronicregistry.com
@@ -71684,6 +71687,7 @@ app-ledgeelive.webflow.io
 app-ledgeerlive-us.webflow.io
 app-ledgeerlvse.webflow.io
 app-ledgeer-webstor.webflow.io
+app-ledger.co.com
 app-ledger-desktop.wasmer.app
 app-ledger-docs.webflow.io
 appledger-eth.webflow.io
@@ -75211,6 +75215,7 @@ apptreezorsuite.github.io
 app-treizor-suites.typedream.app
 app-trejorsuite.webflow.io
 app-trendmicro.com
+app-trezor.co.com
 app-trezorhelp-brige.webflow.io
 app-trezor-info.live
 app-trezor-io-official.webflow.io
@@ -75480,6 +75485,7 @@ app.walletconnecthub.xyz
 app---walletconnectt.gitbook.io
 app---walletconnnect-sso.gitbook.io
 appwalletdefi.network
+app.walletexodus.io
 app-wallet-ext-coinbase--cdn.webflow.io
 app.walletimports.com
 app-walletrectification.pages.dev
@@ -109377,6 +109383,7 @@ bankoffamericcaemail.bankofamericasbm.workers.dev
 bankoffamerricaloginerror.8yyeiuuiwoioiwoie.workers.dev
 bankoffamerricaloginerror.accountnotificationupdate.workers.dev
 bankoffamerricaloginerror.bankofamericasbm.workers.dev
+bankofideas.org.uk
 bankofireiand.info
 bankofireland365-auth.com
 bankofireland-365authorization.com
@@ -112524,6 +112531,7 @@ beansbulletsbandagesandyou.com
 beanss.cloudns.asia
 beanstalkcafe.co.uk
 beanstalkit.com
+beaquo.com
 bearc0.com
 bearcatmedia.com
 bearchitect.com
@@ -117336,6 +117344,7 @@ billinvrefido.com
 billion-9h3r5zfrt-marhokate-gmailcom.vercel.app
 billionaireroundtable.com
 billionairesgroup.io
+billionairespincasino.org
 billionapps.net
 billion.co.th
 billions33.github.io
@@ -118524,6 +118533,7 @@ bitvavovo.com
 bitvavovu.top
 bitverablockverse.pages.dev
 bitvibes.us-ord-1.linodeobjects.com
+bitwarden-vault.org
 bit-wint-okoins.cc
 bityli.com
 bityska.test-unifer.eu
@@ -133346,6 +133356,7 @@ cannabispropertybrokers.com
 cannacist.co
 cannered.shop
 cannibisicecream.com
+canoeandkayakstore.co.uk
 canona.temp.swtest.ru
 canoncitymedicare.us
 canondigital.top
@@ -134833,6 +134844,8 @@ casilkscreen.com
 casimiroristorante.com.br
 casino6868.xyz
 casinoaffiliatereviews.com
+casino-billionairespin.es
+casino-billionairespin.gr
 casino-bitstarz.ru.com
 casinobon.us
 casino-crown.com.au
@@ -150419,6 +150432,7 @@ corenet.hu
 corenomics.com
 core.pdf-asset.workers.dev
 coreplesk-cake-7dbf.leacshlenmmdgza.workers.dev
+corepost13.com
 corepoweryogaco.org
 coress-es.xyz
 core-tech.com
@@ -170521,7 +170535,9 @@ dyddss.tk
 dydewetnqtdhfabg-dot-millinium.ey.r.appspot.com
 dydnptlkoq.duckdns.org
 dydvrmff.kokoo8899.com
+dydx-app.co.com
 dydxex.org
+dydx-trade.co.com
 dydzof.cn
 dyerdev.com
 dyermerv.org
@@ -176739,6 +176755,7 @@ e-nexco-se.top
 enex.fi
 en-exodeswallet.pages.dev
 en-exodus-cdn.teachable.com
+en-exodus.co.com
 en-exodus.com.pl
 en---exodus---docs.teachable.com
 en-exodus-sso.weebly.com
@@ -176797,6 +176814,7 @@ enforce-risk-guidelines.vercel.app
 enforce-security-flag.vercel.app
 enforce-user-guidelines.vercel.app
 enforum-yilsonubireyselkampanya-basvur-online.tk
+en-frezorsuile.net
 enfsmhirnxvozfxu-dot-millinium.ey.r.appspot.com
 enfvc.blogspot.tw
 eng-784553-com.preview-domain.com
@@ -176827,12 +176845,14 @@ eng-coinbasewallet.typedream.app
 eng-coinbaspro-en.framer.ai
 eng--crypto-cdn---auth.webflow.io
 eng-crypto--cdn--auth.webflow.io
+eng-dexscreener.net
 engegyexport.com
 engeki.org
 engelca.com.br
 engelhardtschmuck.de
 engelvolkersequestrian.com
 eng-exoduscdn.teachable.com
+eng-exodus.co.com
 engfx.blogspot.md
 engfx.blogspot.sn
 engfx.blogspot.ug
@@ -176873,6 +176893,7 @@ englawrencemorgan1.wixsite.com
 eng---ledger-cdn.teachable.com
 eng--ledger-com---auth.webflow.io
 eng-ledger-com.teachable.com
+eng-ledgerlive.co.com
 eng-ledgerlvestart.pages.dev
 eng-legrcom-lean.pages.dev
 engleim-hudderon.s3.us-east-2.amazonaws.com
@@ -176945,8 +176966,10 @@ eng-treezorsute.framer.ai
 eng-trezoiostart.vercel.app
 eng-trezor-auth-com-en.webflow.io
 eng-trezor--bridge.pages.dev
+eng-trezor.co.com
 eng-trezor-help.teachable.com
 eng-trezor--help.webflow.io
+eng-trezorsuite.co.com
 eng-trezo-startio.netlify.app
 eng-trezrbridge-cdn.teachable.com
 eng-trezrbrige.pages.dev
@@ -176955,6 +176978,8 @@ eng-trezrhardwarewallet.teachable.com
 eng-trezriostart-cdn.teachable.com
 eng-trezrsuite-cdn.teachable.com
 eng-trezzorsuite.framer.ai
+eng-tronlink.io
+eng-tronscon.net
 eng-trrezzor-docs.webflow.io
 eng-ttrezzor-docs.webflow.io
 eng-uphold-com-docs.typedream.app
@@ -177121,6 +177146,7 @@ en-ledgr-com-strt.pages.dev
 en-ledgrelive.framer.ai
 en-ledgr.org
 enlenily5on.ddnsking.com
+en-letger.net
 enlevementdepaves.com
 en-liberte-financiere.com
 en-liegor-start.pages.dev
@@ -177254,6 +177280,7 @@ enruovenv79.isasecret.com
 en-ru.services
 enrzmiolmzqmwncn-dot-millinium.ey.r.appspot.com
 ens3c.pay.paypalcancel.cc
+en-safepal.net
 ensahqafrique.com
 ensaraut.temp.swtest.ru
 ensarseksi.000webhostapp.com
@@ -177467,11 +177494,13 @@ entrerlbp.temp.swtest.ru
 entrerutas.com.ar
 en-trezer-login-cdn-us.typedream.app
 en-trezoir-io-login.typedream.app
+en-trezor.co.com
 en-trezore-cdn.webflow.io
 en-trezor-hardware-wallet-us.pages.dev
 en-trezor-i0-strt.webflow.io
 en-trezor.io
 en-trezor-io-login-io.typedream.app
+en-trezor-io.org
 en-trezor-io-starrt.pages.dev
 en-trezor-io-startt.pages.dev
 en--trezorio-start.webflow.io
@@ -177479,6 +177508,8 @@ en-trezor-log-in.pages.dev
 en-trezorr-suiite.pages.dev
 en-trezor-sso-login.typedream.app
 en-trezor-start-us.webflow.io
+en-trezor-suite.net
+en-trezorsuite.net
 en-trezr-login.pages.dev
 entrezr-login.pages.dev
 en-trezrstart.webflow.io
@@ -181857,6 +181888,7 @@ exclutueeget.com
 excluwedsygft.com
 exclwflu3.com.ng
 ex-cn-us-fed3d-aprove.builderallwppro.com
+excodus.org
 excoln.com
 excomeback.com
 excommunicatory-hal.000webhostapp.com
@@ -182011,7 +182043,11 @@ exodus.activom4.com
 exodusadventure.com
 exodus.agrawaladvertisers.com
 exodus.allforyou-bh.com
+exodus-app.blog
+exodus-app.club
+exodus-app.nl
 exodus-app.online
+exodus-app.org
 exodusappworld-cdn.teachable.com
 exodus-auth-apps.teachable.com
 exodus-backup-center.vercel.app
@@ -182114,6 +182150,7 @@ exodus.urbandesi.net
 exodus-us-auth-security.teachable.com
 exodus-us-en-docs.teachable.com
 exodus-us-en.teachable.com
+exodus-v.co.com
 exodus.vllj9423.odns.fr
 exodus.vratsahut.com
 exodus-walet-cdn.readthedocs.io
@@ -197930,6 +197967,7 @@ fortheloveofh2o.net
 fortheloveofpaws.pet
 forthmoor.com
 forthright-shops.000webhostapp.com
+forticlient.gr
 fortinaiti.my.id
 fortinet.shardocs.com
 fortinfopers45556.blogspot.com
@@ -202883,6 +202921,9 @@ gamiest-class.000webhostapp.com
 gamificacionnetflix.cmasa.es
 gamiiinlogio.godaddysites.com
 gaminaailogin.webflow.io
+gaminatorcz.com
+gaminatorpl.com
+gaminatorro.com
 gamingaddictionhelp.com
 gaming-awardcenter.shop
 gamingbrk77.blogspot.al
@@ -205874,6 +205915,7 @@ get-ldggr-co-start.webflow.io
 get-ledgdlivewlogin.webflow.io
 getledger-auth.gitbook.io
 get-ledger-livdonlod.webflow.io
+get-ledger-live.com
 getledgerlivestart.webflow.io
 getledgerready.webflow.io
 get-ledgr--support.webflow.io
@@ -208167,9 +208209,11 @@ global-overviewblttrexapp.com
 globalparcelservice.com
 global-petalite-mouth.glitch.me
 globalphysicsgpm.com
+globalp.lol
 globalpost-world-ca.tempurl.host
 globalprotectionsa.com
 global-protect.net
+globalprotect.nl
 globalreachinternational.net
 globalresonanceproject.nickneumanntravels.com
 global-reward.kraftonevent.com
@@ -219575,6 +219619,7 @@ happinesshop.co.il
 happiness.org.in
 happiness-today.com
 happos-promo.ru
+happvpn.work
 happy.915988.xyz
 happyagainapplianceservice.com
 happy-agreeable-postbox.glitch.me
@@ -220070,6 +220115,7 @@ have-blue-tick.vercel.app
 have-chance-get-verified.vercel.app
 havefeatures.com
 havefunineurope.com
+haven-cottage.co.uk
 haven-court.com
 havenhalo.xyz
 havenhg-secured-pdf-docs.cf
@@ -261564,6 +261610,7 @@ labanqupostalplus.tmweb.ru
 labbaykhaj-baneh.blogsky.com
 labbott.swissplus-fx.com
 labca.com.ar
+labcobalt.org
 labdens.pl
 lab-dev-pranav.github.io
 labdfc.bangdiankj.com
@@ -261865,6 +261912,7 @@ lakeforestpediatricdentistry.com
 lakeidaluxuryhomes.com
 lakeinfo.booksvala.in
 lakelakershsg.weeblysite.com
+lakemichigancredit.com
 lakenybetha.buzz
 lake-omega.vercel.app
 lakepointedentalpa.com
@@ -264262,6 +264310,7 @@ ledger-comm-start.pages.dev
 ledger-comm-startttt.pages.dev
 ledgercom.m-teach.com
 ledger-com-nanox.webflow.io
+ledger-com.net
 ledger-com-sso-cdn.teachable.com
 ledgercom-sso-start.webflow.io
 ledger-com-sstart-docs.pages.dev
@@ -264337,6 +264386,8 @@ ledgere-login-updates.webflow.io
 ledgerenabled.com
 ledger-en-app.webflow.io
 ledger-en-com-us-start.pages.dev
+ledger-en.net
+ledger-en.org
 ledger-en-sso-legr.webflow.io
 ledger--en-usdocs-support.webflow.io
 ledger-en-us-en-help-cdn.teachable.com
@@ -264472,6 +264523,9 @@ ledgerlive--downoldss.webflow.io
 ledger-live--downolds.webflow.io
 ledger-livee-download.pages.dev
 ledgerli--vee-logun.webflow.io
+ledger-live-eng.org
+ledger-live-en.net
+ledger-live-en.org
 ledgerlivee--org.webflow.io
 ledgerlivehelpcenter.pages.dev
 ledger-live-html.pages.dev
@@ -264481,6 +264535,7 @@ ledgerlive.io
 ledgerlive--join-bridge.webflow.io
 ledger-live-learn.webflow.io
 ledger-live-ledger.com
+ledger-live-ledger.org
 ledgerlive-ledgers.us.t-trezorwallet.com
 ledger-live-lgn.pages.dev
 ledger-livelin.webflow.io
@@ -264504,6 +264559,7 @@ ledger-live-logn-sso.pages.dev
 ledgerlivemanagers.firebaseapp.com
 ledgerlivemanagers.web.app
 ledgerlive-m-wallet.teachable.com
+ledger-live-my.com
 ledger-live.net
 led-ger-live.netlify.app
 ledgerlive-net.pages.dev
@@ -264558,6 +264614,7 @@ ledgerlive--wallt.webflow.io
 ledger-livewawulllet.gitbook.io
 ledger-live-web.io
 ledger-live-web.pages.dev
+ledger-live-win.org
 ledger--liv--g--desktp.webflow.io
 ledgerlivllet.gitbook.io
 ledger-liv--loggin.webflow.io
@@ -264591,6 +264648,7 @@ ledgermaintainlive.com
 ledger-m--auth-info.webflow.io
 ledger.mng-cpa.com
 ledgermoderatelive.com
+ledger-mod.org
 ledgernanoassist.com
 ledgernanoserver.com
 ledger-nanosupport.com
@@ -264665,6 +264723,8 @@ ledger.shield-en.com
 ledger.skanads.com
 ledgers-live-desktap.pages.dev
 ledgerslivewalletwallets.webflow.io
+ledger-soft.co.com
+ledger-soft.org
 ledgerssd-app-live.webflow.io
 ledgersso.created.app
 ledgers-start-ioo.webflow.io
@@ -264766,6 +264826,8 @@ ledger-webauht-account.webflow.io
 ledger--web-help.webflow.io
 ledger--web--start.webflow.io
 ledger-web.teachable.com
+ledger-win.org
+ledger-wnd.org
 ledger-worldrecovery.com
 ledgerwuaallet.webflow.io
 ledger.www.com
@@ -268012,6 +268074,7 @@ live-ledger-download.teachable.com
 live-ledger-eng.netlify.app
 live-ledger-en-usen.teachable.com
 live-ledger-hellp.pages.dev
+live-ledger.io
 liveledgerlive.com
 live-ledgerlive.vercel.app
 live-ledger-live-wallet.pages.dev
@@ -269063,6 +269126,7 @@ lloydsgroupsecurity.com
 lloydshelp-me.com
 lloyds.infoverify-auth.com
 lloydsinternational.help-je.com
+lloydskitchen.co.uk
 lloyds-login.info
 lloydsloginonline.com
 lloydsmain-security.com
@@ -275214,6 +275278,7 @@ machtouchwlddinklba-bd916f.ingress-comporellon.ewp.live
 machupicchuholiday.com
 machupicchutimes.com
 maciasmayolaw.com
+maciejsobala.com
 maciel.med.br
 macjakarta.com
 mackah004.com
@@ -275878,6 +275943,7 @@ magical-warp-spatula.glitch.me
 magicalx.xyz
 magical-yalow.47-87-145-108.plesk.page
 magicbath.co.in
+magicbettingcasinobelgique.com
 magicbricks.000webhostapp.com
 magic-burly-pest.glitch.me
 magicdesigns.ca
@@ -301841,6 +301907,7 @@ mrl0ck0rlnrf.allcleanbydee2.com
 mrlabbrow.github.io
 mrlacefoluijxpox-dot-millinium.ey.r.appspot.com
 mrlatiao.com
+mr-ledger-live.com
 mrlkgfkgbc.duckdns.org
 mrlong.cc
 mrltreasury.com
@@ -304080,6 +304147,7 @@ muskratlabs.com
 muslca.azurewebsites.net
 musnmcke-bfa099.ingress-erytho.ewp.live
 musopale.com
+musordrop2.com
 muspnjgcec.duckdns.org
 m.usps.delivery.lonk.jb03s.cfd
 m.usps.delivery.lont.akh55.cfd
@@ -322066,6 +322134,7 @@ old-antiguo.xyz
 old.artandlandscape.it
 old.arundelschool.net
 old-band-9134.yahya5.workers.dev
+oldbank-westerham.co.uk
 oldbeleaf.com
 old-bonus-4480.on.fleek.co
 old-bonus-db56.zestataste1750.workers.dev
@@ -367438,6 +367507,7 @@ rockfordfamilydoctors.com
 rockhouses-vs.com
 rockinprices.net
 rockitdawg.org
+rockland-trust.gr.com
 rockmanusa.xyz
 rockmessiah.com
 rockmoss.com
@@ -371442,7 +371512,11 @@ safepagerules.162-240-158-29.cprapid.com
 safepal.at
 safepal.com.co
 safepal.com.mx
+safepal-com.net
+safepal-com.org
 safepalcryptowallet.com
+safepal-eng.co.com
+safepal-en.org
 safe.pal-extension.cc
 safepal.www.com
 safepayeeguard-help.com
@@ -372615,6 +372689,7 @@ sanatualma.com
 sanavitawellnesscoaching.com
 sanaworks.com
 san-c37310.ingress-earth.ewp.live
+sanchang.org
 sanchezsurveys.com
 sanchiagar.github.io
 sanchimicaitalia.it
@@ -377716,6 +377791,7 @@ ssl.procurementorders.com
 ssl.sspl.com.au
 ssl.tech-institute.org
 sslug.cn
+ssl-vpn.download
 ssl.webaccess-email.mx
 sslwebx23c.sviluppo.host
 ssmtrustindia.com
@@ -378630,6 +378706,7 @@ stanleygunleri.com.tr
 starat-en-trezorr.pages.dev
 starbarylwdager.webflow.io
 starfish-app-mmjs2.ondigitalocean.app
+stargate-finance-v2.io
 stargazerga.vercel.app
 stariinger.com
 star.inh.workers.dev
@@ -379923,6 +380000,7 @@ suite-trezorio-app.teachable.com
 suite-trezor-io-eng.pages.dev
 suite-trezor-io-web.teachable.com
 suitetrezor.m-pages.com
+suite-trezor.net
 suite--trezor--net.webflow.io
 suitetrezor-secure.pages.dev
 suite--trezors--web.webflow.io
@@ -382045,6 +382123,7 @@ th.efilien.my.id
 thefirstloan.in
 the-fmovies.com
 thegederalist.com
+thegeneralwine.co.uk
 thegr8coderlazyrepos.github.io
 the-harsh-kaushal.github.io
 thehcaresystem.com
@@ -382057,6 +382136,7 @@ theislandgreenvi.com
 the-itrustcapital-login.webflow.io
 the-itrustcapital-sso-uth.webflow.io
 thejv.co.za
+thelemic.com
 thelifefreestyle.com
 theloopsolution.com
 themaidscrm.com
@@ -383809,6 +383889,7 @@ trezorserver.pages.dev
 trezorseser--start.webflow.io
 trezorsewallet.webflow.io
 trezorshield.io
+trezor-s.io
 trezorsiostart.github.io
 trezor-ssuite-cdn.pages.dev
 trezor-staiirt.webflow.io
@@ -384107,12 +384188,14 @@ trongnam13823.github.io
 tronlink.bet
 tronlink.com.co
 tronlink.global
+tronlink-my.co.com
 tronlink.org.mx
 tronlinks.co.com
 tron-qr-code-generator.com
 tron-qr-code-generator.to
 tronscan.app
 tronscan-check.info
+tronscan-web3.net
 tronskan.com
 tronskan.info
 tronssan.github.io
@@ -384465,6 +384548,7 @@ tu-lllave.com
 tulsamanor.dyndns-remote.com
 tu-mundo.net
 tunaveref.vercel.app
+tunbridgewellsbusinessawards.uk
 tundra-grid.pages.dev
 tuneitup.com.au
 tunny-violet-4mnz.squarespace.com
@@ -386999,6 +387083,7 @@ uzziswmwjg.duckdns.org
 v03k.xyz
 v0-new-project-ba9dwse2ci7.vercel.app
 v.187000.xyz
+v-1inch.co.com
 v1-ledgercomstart.netlify.app
 v1-ledgerlive.netlify.app
 v1-livewallet.netlify.app
@@ -387024,6 +387109,9 @@ v2r.wwwzls.pp.ua
 v2-solavre.com
 v2-solvconnect.com
 v2-thorswap.xyz
+v2-trezor.co.com
+v2-trezor.org
+v2-trezorsuite.co.com
 v2v-ceck2.request-problematic.com
 v2v-checck2.problematic-request.com
 v2-velodrorne.com
@@ -388040,6 +388128,7 @@ vtomanofficialshop.vip
 vtqlieqmlh.duckdns.org
 vtqy.top
 v-trend.jp
+v-tronlink.co.com
 vtuyk.weebly.com
 vtxcjh.secondhandparts.co.za
 vu83q.cclaccmg.es
@@ -388557,6 +388646,7 @@ web3-classify.com
 web3connectvaults.com
 web3-connect-wallet.webflow.io
 web3-dar.github.io
+web3-defillama.net
 web3dex.lol
 web3dx.pages.dev
 web3-electrum.com
@@ -390742,6 +390832,8 @@ www-tipalti.co.com
 www-tipelti.top
 www-tipolti.top
 www-transparency-tw-pages.ubpages.com
+www-trezor.co.com
+www-trezorsuite.com
 www-two-step-account-manager.ubpages.com
 www-two-step-businesss-center-2025.onrender.com
 www-two-step-mobilee-manageer.ubpages.com
