@@ -1,8 +1,0 @@
-third-party.com
-watchguard-mobile.org
-watchguard-ssl.online
-watchguard-vpn.co.uk
-watchguard-vpn.fr
-watchguard-vpn.it
-watchguard-vpn.org
-watchguard-vpn.pt
